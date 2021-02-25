@@ -321,6 +321,12 @@ public class SQLITEToSQLITE {
     			+ " TICKET FROM TITANICFIRSTCLASS WHERE LENGTH(CABIN) = 4 AND CABIN NOT LIKE 'null' ;";
     	stmt.executeUpdate(poss);
     	
+    	poss = "INSERT INTO APOURCABINE"
+    			+ "(CABIN,TICKET) "
+    			+" SELECT  "
+    			+" CABIN , "    			
+    			+ " TICKET FROM TITANICFIRSTCLASS WHERE LENGTH(CABIN) > 4;";
+    	stmt.executeUpdate(poss);
     	
     	/* instr(CABIN, ' ') )    CABIN NOT LIKE 'null' */
     	
@@ -343,6 +349,13 @@ public class SQLITEToSQLITE {
     			+" SELECT  "
     			+" CABIN , "    			
     			+ " TICKET FROM TITANICSECONDCLASS WHERE LENGTH(CABIN) = 4 AND CABIN NOT LIKE 'null' ;";
+    	stmt.executeUpdate(poss);
+    	
+    	poss = "INSERT INTO APOURCABINE"
+    			+ "(CABIN,TICKET) "
+    			+" SELECT  "
+    			+" CABIN , "    			
+    			+ " TICKET FROM TITANICFIRSTCLASS WHERE LENGTH(CABIN) > 4;";
     	stmt.executeUpdate(poss);
 
     	
