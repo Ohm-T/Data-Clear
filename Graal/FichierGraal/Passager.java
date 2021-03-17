@@ -15,7 +15,7 @@ public class Passager {
 	// Création de la relation passager
 	public static void main(String args[]) {
 
-		// création du prédicat de la relation passager
+		// création du prédicat des relations
 		Predicate passager = new Predicate("Passager", 4);
 		Predicate VoyageTitanic = new Predicate("VoyageTitanic", 8);
 		Predicate Possede = new Predicate("Possede", 3);
