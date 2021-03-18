@@ -11,7 +11,7 @@ import fr.lirmm.graphik.graal.core.term.DefaultTermFactory;
 
 // pclass,survived,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,boat,body,home.dest
 
-public class Passager {
+public class PassagerMappingExemple {
 	// Création de la relation passager
 	public static void main(String args[]) {
 
