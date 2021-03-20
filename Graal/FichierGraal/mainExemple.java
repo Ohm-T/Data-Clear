@@ -22,11 +22,20 @@ public class mainExemple {
 		
 	}
 	
+	//Méthode d'insertion des données d'une relation
+		public static ArrayList<Atom> insertionData(ArrayList<Atom> list,Predicate p,ArrayList<ArrayList<Term>> db) {
+			for (int i = 0; i < db.size(); i++) {
+				list.add(DefaultAtomFactory.instance().create(p, db.get(i)));
+				
+				}
+			return list;
+		}
 	
+
 public static void main(String args[]) throws SQLException {
 	
 	
-		System.out.println("Récupération de la database et affichage de ses colonnes pour vérification  :");
+		System.out.println("Récupération des deux classes et affichage des colonnes pour vérification  :");
 		System.out.println(" ");
 		
 		
@@ -35,11 +44,19 @@ public static void main(String args[]) throws SQLException {
 		testBase = GetDatabase.createDatabase();
 		
 		
-		//Affichage des colonnes de la database
-		List<DBColumn> res;
-		res = testBase.getColumns("TITANICFIRSTCLASS");
+		//Affichage des colonnes de la poremière classe
+		List<DBColumn> firstClass;
+		List<DBColumn> secondClass;
+		firstClass = testBase.getColumns("TITANICFIRSTCLASS");
+		secondClass = testBase.getColumns("TITANICSECONDCLASS");
 		
-		for( DBColumn value : res) {
+		for( DBColumn value : firstClass) {
+			System.out.println(value.toString());
+		}
+		
+		System.out.println(" ");
+		
+		for( DBColumn value : secondClass) {
 			System.out.println(value.toString());
 		}
 		
@@ -51,14 +68,19 @@ public static void main(String args[]) throws SQLException {
 		// ---- DEBUT GESTION RELATION CABINE EXEMPLE ---- //
 		
 		//Création de l'objet (prédicat, requête, db)
-		CabineRelation cabineRelation = new CabineRelation();
+		CabineRelation cabineRelationFirstClass = new CabineRelation();
+		CabineRelation cabineRelationSecondClass = new CabineRelation();
 		
 		//Execution de la requête/mapping et stockage
-		CabineRelation.storeQuery(testBase,cabineRelation.APourCabineQuery,cabineRelation.dbCabineRelation);
+		CabineRelation.storeQuery(testBase,cabineRelationFirstClass.APourCabineQueryFirstClass,cabineRelationFirstClass.dbCabineRelation);
+		CabineRelation.storeQuery(testBase,cabineRelationSecondClass.APourCabineQuerySecondClass,cabineRelationSecondClass.dbCabineRelation);
 		
 		//Insertion dans la liste d'Atom final
-		cabineRelation.insertionData(passagerList);
-		
+		System.out.println(passagerList.size());
+		insertionData(passagerList,cabineRelationFirstClass.APourCabine,cabineRelationFirstClass.dbCabineRelation);
+		System.out.println(passagerList.size());
+		insertionData(passagerList,cabineRelationSecondClass.APourCabine,cabineRelationSecondClass.dbCabineRelation);
+		System.out.println(passagerList.size());
 		
 		// ---- FIN GESTION RELATION CABINE EXEMPLE ---- //
 		
@@ -66,11 +88,17 @@ public static void main(String args[]) throws SQLException {
 		System.out.println(" ");
 		// Creation du graphe
 				DefaultInMemoryGraphStore graphBilan = new DefaultInMemoryGraphStore();
-				for (int i = 0; i < cabineRelation.dbCabineRelation.size(); i++) {
+				for (int i = 0; i < passagerList.size(); i++) {
 					graphBilan.add(passagerList.get(i));
 				}
+				System.out.println("Vérification : ");
 				
-				System.out.println(graphBilan.toString());
+				System.out.println("Taille de la liste de passager :  ");
+				System.out.println(passagerList.size());
+				System.out.println("Taille du graphe : ");
+				System.out.println(graphBilan.size());
+				
+				System.out.println(graphBilan);
 	}
 
 }

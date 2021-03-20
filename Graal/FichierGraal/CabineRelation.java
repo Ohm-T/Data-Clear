@@ -17,15 +17,15 @@ public class CabineRelation {
 	
 	
 	//Création du prédicat de la relation
-	public Predicate APourCabine = new Predicate("APourCabine", 2);
+	public Predicate APourCabine = new Predicate("APourCabine", 3);
 	
 	//Création de la db 
 	ArrayList<ArrayList<Term>> dbCabineRelation = new ArrayList<ArrayList<Term>>();
 	
 	
 	//Création de la requête pour le mapping
-	public SQLQuery APourCabineQuery = new SQLQuery("SELECT NAME,CABIN  FROM TITANICFIRSTCLASS");
-	
+	public SQLQuery APourCabineQueryFirstClass = new SQLQuery("SELECT NAME,CABIN FROM TITANICFIRSTCLASS");
+	public SQLQuery APourCabineQuerySecondClass = new SQLQuery("SELECT NAME,CABIN FROM TITANICSECONDCLASS");
 	
 	
 	//Méthode d'éxecution de la requête de la relation/table
@@ -37,8 +37,16 @@ public class CabineRelation {
 			for(int i = 1; i<= nbColonnes; i++) {
 				String cabinSQL = res.getString("CABIN"); 
 				String nomSQL = res.getString("NAME");
+				
+				
+				String PrimaryKey[] = nomSQL.split(",");
+				String nom = PrimaryKey[0];
+				String prenom = PrimaryKey[1];
+				
+
 				ArrayList<Term> temp = mainExemple.createTermList();
-				temp.add(DefaultTermFactory.instance().createLiteral(nomSQL));
+				temp.add(DefaultTermFactory.instance().createLiteral(nom));
+				temp.add(DefaultTermFactory.instance().createLiteral(prenom));
 				temp.add(DefaultTermFactory.instance().createLiteral(cabinSQL));
 				storeList.add(temp);
 			}
@@ -47,14 +55,6 @@ public class CabineRelation {
 	}
 	
 	
-	//Méthode d'insertion des données d'une relation
-	public ArrayList<Atom> insertionData(ArrayList<Atom> list) {
-		for (int i = 0; i < this.dbCabineRelation.size(); i++) {
-			list.add(DefaultAtomFactory.instance().create(APourCabine, dbCabineRelation.get(i)));
-			
-			}
-		return list;
-	}
 	
 	
 }
