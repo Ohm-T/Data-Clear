@@ -10,17 +10,16 @@ import fr.lirmm.graphik.graal.core.term.DefaultTermFactory;
 import fr.lirmm.graphik.graal.store.rdbms.driver.SqliteDriver;
 import fr.lirmm.graphik.graal.store.rdbms.util.SQLQuery;
 
-public class PassagerRelation {
-	
+public class EmbarqueRelation {
 	//Création du prédicat de la relation
-	public Predicate Passager = new Predicate("Passager", 4);
+	public Predicate AEmbarque = new Predicate("AEmbarque", 3);
 	
 	//Création de la db 
-	public ArrayList<ArrayList<Term>> dbPassagerRelation = new ArrayList<ArrayList<Term>>();
+	public ArrayList<ArrayList<Term>> dbAEmbarqueRelation = new ArrayList<ArrayList<Term>>();
 	
 	//Création de la requête pour le mapping
-	public SQLQuery PassengerQueryFirstClass = new SQLQuery("SELECT NAME,AGE,SEX FROM TITANICFIRSTCLASS");
-	public SQLQuery PassengerQuerySecondClass = new SQLQuery("SELECT NAME,AGE,SEX FROM TITANICSECONDCLASS");
+	public SQLQuery AEmbarqueQueryFirstClass = new SQLQuery("SELECT NAME,HOME_DEST FROM TITANICFIRSTCLASS");
+	public SQLQuery	AEmbarqueQuerySecondClass = new SQLQuery("SELECT NAME,HOME_DEST FROM TITANICSECONDCLASS");
 	
 	//Méthode d'éxecution de la requête de la relation/table
 		public static ArrayList<ArrayList<Term>> storeQuery(SqliteDriver base,SQLQuery query, ArrayList<ArrayList<Term>> storeList ) throws SQLException {
@@ -29,8 +28,7 @@ public class PassagerRelation {
 			
 			while(res.next()) {
 				for(int i = 1; i<= nbColonnes; i++) {
-					String ageSQL = res.getString("AGE");
-					String sexSQL = res.getString("SEX");
+					String homeSQL = res.getString("HOME_DEST");
 					String nomSQL = res.getString("NAME");
 					
 					
@@ -42,12 +40,12 @@ public class PassagerRelation {
 					ArrayList<Term> temp = mainExemple.createTermList();
 					temp.add(DefaultTermFactory.instance().createLiteral(nom));
 					temp.add(DefaultTermFactory.instance().createLiteral(prenom));
-					temp.add(DefaultTermFactory.instance().createLiteral(ageSQL));
-					temp.add(DefaultTermFactory.instance().createLiteral(sexSQL));
+					temp.add(DefaultTermFactory.instance().createLiteral(homeSQL));
 					storeList.add(temp);
 				}
 			}
 			return storeList;
 		}
+
 
 }

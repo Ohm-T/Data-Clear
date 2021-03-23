@@ -1,6 +1,10 @@
 package com.example.graal_TER;
 
 
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
@@ -12,7 +16,6 @@ import fr.lirmm.graphik.graal.core.atomset.graph.DefaultInMemoryGraphStore;
 import fr.lirmm.graphik.graal.core.factory.DefaultAtomFactory;
 import fr.lirmm.graphik.graal.store.rdbms.driver.SqliteDriver;
 import fr.lirmm.graphik.graal.store.rdbms.util.DBColumn;
-import fr.lirmm.graphik.graal.store.rdbms.util.SQLQuery;
 
 public class mainExemple {
 	
@@ -30,9 +33,34 @@ public class mainExemple {
 				}
 			return list;
 		}
+		
+	//Méthode d'écriture dans un fichier
+		public static void writeGraph(DefaultInMemoryGraphStore graph) throws IOException {
+			try {
+			
+			File file = new File("out.txt");
+			
+			if(!file.exists()) {
+				file.createNewFile();
+			}
+			
+			FileWriter fw = new FileWriter(file.getAbsoluteFile());
+			BufferedWriter bw = new BufferedWriter(fw);
+			
+			for(int i = 0; i < graph.size(); i++) {
+				bw.write(graph.toString() + "\n");
+			}
+			bw.close();
+			
+			
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+			
+		}
 	
 
-public static void main(String args[]) throws SQLException {
+public static void main(String args[]) throws SQLException, IOException {
 	
 	
 		System.out.println("Récupération des deux classes et affichage des colonnes pour vérification  :");
@@ -65,7 +93,7 @@ public static void main(String args[]) throws SQLException {
 		
 		
 		
-		// ---- DEBUT GESTION RELATION CABINE EXEMPLE ---- //
+		// ---- DEBUT GESTION RELATION CABINE  ---- //
 		
 		//Création de l'objet (prédicat, requête, db)
 		CabineRelation cabineRelationFirstClass = new CabineRelation();
@@ -76,14 +104,66 @@ public static void main(String args[]) throws SQLException {
 		CabineRelation.storeQuery(testBase,cabineRelationSecondClass.APourCabineQuerySecondClass,cabineRelationSecondClass.dbCabineRelation);
 		
 		//Insertion dans la liste d'Atom final
-		System.out.println(passagerList.size());
 		insertionData(passagerList,cabineRelationFirstClass.APourCabine,cabineRelationFirstClass.dbCabineRelation);
-		System.out.println(passagerList.size());
 		insertionData(passagerList,cabineRelationSecondClass.APourCabine,cabineRelationSecondClass.dbCabineRelation);
-		System.out.println(passagerList.size());
 		
-		// ---- FIN GESTION RELATION CABINE EXEMPLE ---- //
+		// ---- FIN GESTION RELATION CABINE  ---- //
 		
+		
+		// ---- DEBUT GESTION RELATION PASSAGER ---- //
+		
+		PassagerRelation PassengerFirstClass = new PassagerRelation();
+		PassagerRelation PassengerSecondClass = new PassagerRelation();
+		
+		PassagerRelation.storeQuery(testBase, PassengerFirstClass.PassengerQueryFirstClass,PassengerFirstClass.dbPassagerRelation);
+		PassagerRelation.storeQuery(testBase, PassengerSecondClass.PassengerQuerySecondClass,PassengerSecondClass.dbPassagerRelation);
+		
+		insertionData(passagerList,PassengerFirstClass.Passager,PassengerFirstClass.dbPassagerRelation);
+		insertionData(passagerList,PassengerSecondClass.Passager,PassengerSecondClass.dbPassagerRelation);
+		
+
+		// ---- FIN GESTION RELATION PASSAGER  ---- //
+		
+		// ---- DEBUT GESTION RELATION CLASSE ---- //
+		ClasseRelation ClasseRelationFirstClass = new ClasseRelation();
+		ClasseRelation ClasseRelationSecondClass = new ClasseRelation();
+		
+
+		ClasseRelation.storeQuery(testBase, ClasseRelationFirstClass.APourClasseQueryFirstClass,ClasseRelationFirstClass.dbClasseRelation);
+		ClasseRelation.storeQuery(testBase, ClasseRelationSecondClass.APourClasseQuerySecondClass,ClasseRelationSecondClass.dbClasseRelation);
+		
+
+		insertionData(passagerList,ClasseRelationFirstClass.APourClasse,ClasseRelationFirstClass.dbClasseRelation);
+		insertionData(passagerList,ClasseRelationSecondClass.APourClasse,ClasseRelationSecondClass.dbClasseRelation);
+		
+		// ---- FIN GESTION RELATION CLASSE  ---- //
+		
+		// ---- DEBUT GESTION RELATION VOYAGETITANIC ---- //
+		VoyageTitanicRelation VoyageTitanicFirstClass = new VoyageTitanicRelation();
+		VoyageTitanicRelation VoyageTitanicSecondClass = new VoyageTitanicRelation();
+		
+		VoyageTitanicRelation.storeQuery(testBase, VoyageTitanicFirstClass.VoyageTitanicQueryFirstClass,VoyageTitanicFirstClass.dbVoyageTitanicRelation);
+		VoyageTitanicRelation.storeQuery(testBase, VoyageTitanicSecondClass.VoyageTitanicQuerySecondClass,VoyageTitanicSecondClass.dbVoyageTitanicRelation);
+		
+		insertionData(passagerList,VoyageTitanicFirstClass.VoyageTitanic,VoyageTitanicFirstClass.dbVoyageTitanicRelation);
+		insertionData(passagerList,VoyageTitanicSecondClass.VoyageTitanic,VoyageTitanicSecondClass.dbVoyageTitanicRelation);
+		
+		
+		// ---- FIN GESTION RELATION VOYAGETITANIC  ---- //
+		
+		// ---- DEBUT GESTION RELATION AEMBARQUE ---- //
+		
+		EmbarqueRelation AEmbarqueFirstClass = new EmbarqueRelation();
+		EmbarqueRelation AEmbarqueSecondClass = new EmbarqueRelation();
+		
+		EmbarqueRelation.storeQuery(testBase, AEmbarqueFirstClass.AEmbarqueQueryFirstClass,AEmbarqueFirstClass.dbAEmbarqueRelation);
+		EmbarqueRelation.storeQuery(testBase, AEmbarqueSecondClass.AEmbarqueQuerySecondClass,AEmbarqueSecondClass.dbAEmbarqueRelation);
+		
+		insertionData(passagerList,AEmbarqueFirstClass.AEmbarque,AEmbarqueFirstClass.dbAEmbarqueRelation);
+		insertionData(passagerList,AEmbarqueSecondClass.AEmbarque,AEmbarqueSecondClass.dbAEmbarqueRelation);
+		
+		
+		// ---- FIN GESTION RELATION AEMBARQUE  ---- //
 		System.out.println("Affichage du graphe résultat contenant les différents prédicats créer et remplie avec les données de la database  :");
 		System.out.println(" ");
 		// Creation du graphe
@@ -98,7 +178,9 @@ public static void main(String args[]) throws SQLException {
 				System.out.println("Taille du graphe : ");
 				System.out.println(graphBilan.size());
 				
-				System.out.println(graphBilan);
+				System.out.println("Ecriture du graphe dans le fichier out :  ");
+				writeGraph(graphBilan);
+				System.out.println("Fin Ecriture du graphe dans le fichier out");
 	}
 
 }
