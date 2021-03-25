@@ -31,10 +31,8 @@ public class CabineRelation {
 	//Méthode d'éxecution de la requête de la relation/table
 	public static ArrayList<ArrayList<Term>> storeQuery(SqliteDriver base,SQLQuery query, ArrayList<ArrayList<Term>> storeList ) throws SQLException {
 		ResultSet res = base.createStatement().executeQuery(query.toString());
-		int nbColonnes = res.getMetaData().getColumnCount();
 		
 		while(res.next()) {
-			for(int i = 1; i<= nbColonnes; i++) {
 				String cabinSQL = res.getString("CABIN"); 
 				String nomSQL = res.getString("NAME");
 				
@@ -49,7 +47,7 @@ public class CabineRelation {
 				temp.add(DefaultTermFactory.instance().createLiteral(prenom));
 				temp.add(DefaultTermFactory.instance().createLiteral(cabinSQL));
 				storeList.add(temp);
-			}
+			
 		}
 		return storeList;
 	}

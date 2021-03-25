@@ -30,7 +30,6 @@ public class VoyageTitanicRelation {
 			int nbColonnes = res.getMetaData().getColumnCount();
 			
 			while(res.next()) {
-				for(int i = 1; i<= nbColonnes; i++) {
 					String nomSQL = res.getString("NAME");
 					String ticketSQL = res.getString("TICKET"); 
 					String sibspSQL = res.getString("SIBSP");
@@ -59,7 +58,7 @@ public class VoyageTitanicRelation {
 					temp.add(DefaultTermFactory.instance().createLiteral(bodySQL));
 					temp.add(DefaultTermFactory.instance().createLiteral(boatSQL));;
 					storeList.add(temp);
-				}
+				
 			}
 			return storeList;
 		}

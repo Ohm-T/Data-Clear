@@ -28,7 +28,6 @@ public class PassagerRelation {
 			int nbColonnes = res.getMetaData().getColumnCount();
 			
 			while(res.next()) {
-				for(int i = 1; i<= nbColonnes; i++) {
 					String ageSQL = res.getString("AGE");
 					String sexSQL = res.getString("SEX");
 					String nomSQL = res.getString("NAME");
@@ -45,7 +44,6 @@ public class PassagerRelation {
 					temp.add(DefaultTermFactory.instance().createLiteral(ageSQL));
 					temp.add(DefaultTermFactory.instance().createLiteral(sexSQL));
 					storeList.add(temp);
-				}
 			}
 			return storeList;
 		}

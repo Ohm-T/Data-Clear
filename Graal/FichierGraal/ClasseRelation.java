@@ -31,7 +31,6 @@ public class ClasseRelation {
 		int nbColonnes = res.getMetaData().getColumnCount();
 		
 		while(res.next()) {
-			for(int i = 1; i<= nbColonnes; i++) {
 				String classSQL = res.getString("PCLASS"); 
 				String nomSQL = res.getString("NAME");
 
@@ -45,7 +44,6 @@ public class ClasseRelation {
 				temp.add(DefaultTermFactory.instance().createLiteral(prenom));
 				temp.add(DefaultTermFactory.instance().createLiteral(classSQL));
 				storeList.add(temp);
-			}
 		}
 		return storeList;
 	}

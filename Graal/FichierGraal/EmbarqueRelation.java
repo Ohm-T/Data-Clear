@@ -27,7 +27,6 @@ public class EmbarqueRelation {
 			int nbColonnes = res.getMetaData().getColumnCount();
 			
 			while(res.next()) {
-				for(int i = 1; i<= nbColonnes; i++) {
 					String homeSQL = res.getString("HOME_DEST");
 					String nomSQL = res.getString("NAME");
 					
@@ -42,7 +41,7 @@ public class EmbarqueRelation {
 					temp.add(DefaultTermFactory.instance().createLiteral(prenom));
 					temp.add(DefaultTermFactory.instance().createLiteral(homeSQL));
 					storeList.add(temp);
-				}
+				
 			}
 			return storeList;
 		}
