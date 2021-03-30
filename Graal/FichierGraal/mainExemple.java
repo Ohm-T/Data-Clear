@@ -1,4 +1,4 @@
-package com.example.graal_TER;
+package fr.Graal.testJar;
 
 
 import java.io.BufferedWriter;
@@ -16,6 +16,7 @@ import fr.lirmm.graphik.graal.core.atomset.graph.DefaultInMemoryGraphStore;
 import fr.lirmm.graphik.graal.core.factory.DefaultAtomFactory;
 import fr.lirmm.graphik.graal.store.rdbms.driver.SqliteDriver;
 import fr.lirmm.graphik.graal.store.rdbms.util.DBColumn;
+import fr.lirmm.graphik.graal.store.rdbms.util.SQLQuery;
 
 public class mainExemple {
 	
@@ -38,7 +39,7 @@ public class mainExemple {
 		public static void writeGraph(DefaultInMemoryGraphStore graph) throws IOException {
 			try {
 			
-			File file = new File("out.txt");
+			File file = new File("D:\\out.txt");
 			
 			if(!file.exists()) {
 				file.createNewFile();
@@ -63,7 +64,7 @@ public class mainExemple {
 public static void main(String args[]) throws SQLException, IOException {
 	
 	
-		System.out.println("Récupération des deux classes et affichage des colonnes pour vérification  :");
+		System.out.println("Récupération des cacas deux classes et affichage des colonnes pour vérification  :");
 		System.out.println(" ");
 		
 		
@@ -91,11 +92,12 @@ public static void main(String args[]) throws SQLException, IOException {
 		// liste d'atome contenant tout les passager
 		ArrayList<Atom> passagerList = new ArrayList<Atom>();
 		
-		
+		/// VERSION 1 MAPPING ///
 		
 		// ---- DEBUT GESTION RELATION CABINE  ---- //
 		
-		//Création de l'objet (prédicat, requête, db)
+
+	/*	//Création de l'objet (prédicat, requête, db)
 		CabineRelation cabineRelationFirstClass = new CabineRelation();
 		CabineRelation cabineRelationSecondClass = new CabineRelation();
 		
@@ -162,8 +164,29 @@ public static void main(String args[]) throws SQLException, IOException {
 		insertionData(passagerList,AEmbarqueFirstClass.AEmbarque,AEmbarqueFirstClass.dbAEmbarqueRelation);
 		insertionData(passagerList,AEmbarqueSecondClass.AEmbarque,AEmbarqueSecondClass.dbAEmbarqueRelation);
 		
-		
+		*/
 		// ---- FIN GESTION RELATION AEMBARQUE  ---- //
+		
+		///  FIN VERSION 1 MAPPING ///
+		
+		/// DEBUT VERSION 2 MAPPING ///
+		SQLToMapping.SQLtoGraal(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM, CABIN FROM TITANICFIRSTCLASS"), new Predicate("CabineRelation",3), new ArrayList<ArrayList<Term>>(), passagerList);
+		SQLToMapping.SQLtoGraal(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS PRENOM,substr(NAME, instr(NAME, ',') + 2) AS NOM, CABIN FROM TITANICSECONDCLASS"), new Predicate("CabineRelation",3), new ArrayList<ArrayList<Term>>(), passagerList);
+		
+		SQLToMapping.SQLtoGraal(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS PRENOM,substr(NAME, instr(NAME, ',') + 2) AS NOM,AGE,SEX FROM TITANICFIRSTCLASS"), new Predicate("PassagerRelation",4), new ArrayList<ArrayList<Term>>(), passagerList);
+		SQLToMapping.SQLtoGraal(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS PRENOM,substr(NAME, instr(NAME, ',') + 2) AS NOM,AGE,SEX FROM TITANICSECONDCLASS"), new Predicate("PassagerRelation",4), new ArrayList<ArrayList<Term>>(), passagerList);
+		
+		SQLToMapping.SQLtoGraal(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS PRENOM,substr(NAME, instr(NAME, ',') + 2) AS NOM,TICKET,SIBSP,PARCH,TFARE,SURVIVED,BOAT,BODY FROM TITANICFIRSTCLASS"), new Predicate("VoyageTitanic", 9),new ArrayList<ArrayList<Term>>(), passagerList);
+		SQLToMapping.SQLtoGraal(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS PRENOM,substr(NAME, instr(NAME, ',') + 2) AS NOM,TICKET,SIBSP,PARCH,TFARE,SURVIVED,BOAT,BODY FROM TITANICSECONDCLASS"), new Predicate("VoyageTitanic", 9), new ArrayList<ArrayList<Term>>(), passagerList);
+		
+		SQLToMapping.SQLtoGraal(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS PRENOM,substr(NAME, instr(NAME, ',') + 2) AS NOM,PCLASS FROM TITANICFIRSTCLASS"), new Predicate("APourClasse", 3), new ArrayList<ArrayList<Term>>(), passagerList);
+		SQLToMapping.SQLtoGraal(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS PRENOM,substr(NAME, instr(NAME, ',') + 2) AS NOM,PCLASS FROM TITANICSECONDCLASS"), new Predicate("APourClasse", 3), new ArrayList<ArrayList<Term>>(), passagerList);
+		
+		SQLToMapping.SQLtoGraal(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS PRENOM,substr(NAME, instr(NAME, ',') + 2) AS NOM,HOME_DEST FROM TITANICFIRSTCLASS"), new Predicate("AEmbarque", 3), new ArrayList<ArrayList<Term>>(), passagerList);
+		SQLToMapping.SQLtoGraal(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS PRENOM,substr(NAME, instr(NAME, ',') + 2) AS NOM,HOME_DEST FROM TITANICSECONDCLASS"), new Predicate("AEmbarque", 3), new ArrayList<ArrayList<Term>>(), passagerList);
+	
+		/// FIN VERSION 2 MAPPING ///
+		
 		System.out.println("Affichage du graphe résultat contenant les différents prédicats créer et remplie avec les données de la database  :");
 		System.out.println(" ");
 		// Creation du graphe

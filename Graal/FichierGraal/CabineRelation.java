@@ -1,4 +1,4 @@
-package com.example.graal_TER;
+package fr.Graal.testJar;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -25,6 +25,7 @@ public class CabineRelation {
 	
 	//Création de la requête pour le mapping
 	public SQLQuery APourCabineQueryFirstClass = new SQLQuery("SELECT NAME,CABIN FROM TITANICFIRSTCLASS");
+	// 1 classe par requête
 	public SQLQuery APourCabineQuerySecondClass = new SQLQuery("SELECT NAME,CABIN FROM TITANICSECONDCLASS");
 	
 	
@@ -33,16 +34,20 @@ public class CabineRelation {
 		ResultSet res = base.createStatement().executeQuery(query.toString());
 		
 		while(res.next()) {
+			//
+				System.out.println(res.getString(1));
 				String cabinSQL = res.getString("CABIN"); 
 				String nomSQL = res.getString("NAME");
 				
-				
+			//	
+				// 
 				String PrimaryKey[] = nomSQL.split(",");
 				String nom = PrimaryKey[0];
 				String prenom = PrimaryKey[1];
-				
+				//
 
 				ArrayList<Term> temp = mainExemple.createTermList();
+				// si null, créer une variable à la place.
 				temp.add(DefaultTermFactory.instance().createLiteral(nom));
 				temp.add(DefaultTermFactory.instance().createLiteral(prenom));
 				temp.add(DefaultTermFactory.instance().createLiteral(cabinSQL));

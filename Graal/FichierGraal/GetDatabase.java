@@ -1,4 +1,4 @@
-package com.example.graal_TER;
+package fr.Graal.testJar;
 
 
 import java.sql.SQLException;

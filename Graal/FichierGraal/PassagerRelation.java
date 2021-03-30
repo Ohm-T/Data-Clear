@@ -1,4 +1,4 @@
-package com.example.graal_TER;
+package fr.Graal.testJar;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -21,11 +21,13 @@ public class PassagerRelation {
 	//Création de la requête pour le mapping
 	public SQLQuery PassengerQueryFirstClass = new SQLQuery("SELECT NAME,AGE,SEX FROM TITANICFIRSTCLASS");
 	public SQLQuery PassengerQuerySecondClass = new SQLQuery("SELECT NAME,AGE,SEX FROM TITANICSECONDCLASS");
+	// SELECT * FROM TITANICFIRSTCLASS;
+	// SQLToGraal mapping = new SQLToGraal(testBase, requete, new Predicate())
+	// mapping.NomMethode();
 	
 	//Méthode d'éxecution de la requête de la relation/table
 		public static ArrayList<ArrayList<Term>> storeQuery(SqliteDriver base,SQLQuery query, ArrayList<ArrayList<Term>> storeList ) throws SQLException {
 			ResultSet res = base.createStatement().executeQuery(query.toString());
-			int nbColonnes = res.getMetaData().getColumnCount();
 			
 			while(res.next()) {
 					String ageSQL = res.getString("AGE");

@@ -1,4 +1,4 @@
-package com.example.graal_TER;
+package fr.Graal.testJar;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -18,8 +18,8 @@ public class EmbarqueRelation {
 	public ArrayList<ArrayList<Term>> dbAEmbarqueRelation = new ArrayList<ArrayList<Term>>();
 	
 	//Création de la requête pour le mapping
-	public SQLQuery AEmbarqueQueryFirstClass = new SQLQuery("SELECT NAME,HOME_DEST FROM TITANICFIRSTCLASS");
-	public SQLQuery	AEmbarqueQuerySecondClass = new SQLQuery("SELECT NAME,HOME_DEST FROM TITANICSECONDCLASS");
+	public SQLQuery AEmbarqueQueryFirstClass = new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS PRENOM,substr(NAME, instr(NAME, ',') + 2) AS NOM,HOME_DEST FROM TITANICFIRSTCLASS");
+	public SQLQuery	AEmbarqueQuerySecondClass = new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS PRENOM,substr(NAME, instr(NAME, ',') + 2) AS NOM,HOME_DEST FROM TITANICSECONDCLASS");
 	
 	//Méthode d'éxecution de la requête de la relation/table
 		public static ArrayList<ArrayList<Term>> storeQuery(SqliteDriver base,SQLQuery query, ArrayList<ArrayList<Term>> storeList ) throws SQLException {
@@ -28,17 +28,19 @@ public class EmbarqueRelation {
 			
 			while(res.next()) {
 					String homeSQL = res.getString("HOME_DEST");
-					String nomSQL = res.getString("NAME");
+					String prenomSQL = res.getString("PRENOM");
+					String nomSQL = res.getString("NOM");
+					System.out.println(prenomSQL);
+					System.out.println(nomSQL);
 					
-					
-					String PrimaryKey[] = nomSQL.split(",");
+				/*	String PrimaryKey[] = nomSQL.split(",");
 					String nom = PrimaryKey[0];
-					String prenom = PrimaryKey[1];
+					String prenom = PrimaryKey[1];*/
 					
 
 					ArrayList<Term> temp = mainExemple.createTermList();
-					temp.add(DefaultTermFactory.instance().createLiteral(nom));
-					temp.add(DefaultTermFactory.instance().createLiteral(prenom));
+					temp.add(DefaultTermFactory.instance().createLiteral(nomSQL));
+					temp.add(DefaultTermFactory.instance().createLiteral(prenomSQL));
 					temp.add(DefaultTermFactory.instance().createLiteral(homeSQL));
 					storeList.add(temp);
 				
