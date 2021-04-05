@@ -15,21 +15,20 @@ import fr.lirmm.graphik.graal.core.term.DefaultTermFactory;
 import fr.lirmm.graphik.graal.store.rdbms.driver.SqliteDriver;
 import fr.lirmm.graphik.graal.store.rdbms.util.SQLQuery;
 
-public class SQLToMapping {
+public class SQLMappingEvaluator { 
 	
-	
-	public static ArrayList<Atom> SQLtoGraal(SqliteDriver database,SQLQuery query, Predicate p,ArrayList<ArrayList<Term>> storeList,ArrayList<Atom> atomList) throws SQLException {
+	//SQlMappingEvaluater
+	public static ArrayList<Atom> evaluate(SqliteDriver database,SQLQuery query, Predicate p) throws SQLException {
 		ResultSet res = database.createStatement().executeQuery(query.toString());
-		int cpt = 0;
+		ArrayList<Atom> tempAtomList = new ArrayList<Atom>();
 		
-		
+		//Supprimier storeList/atomList + créer une AtomList, ligne 53 => 59
 		try {
 		
 		
 		//Vérification de la cohérence de la requête et du prédicat 
-		ResultSetMetaData data = res.getMetaData();
-		cpt = data.getColumnCount(); 
-		if(cpt != p.getArity()) {
+
+		if(res.getMetaData().getColumnCount() != p.getArity()) {
 			System.out.println("Le nombre d'arguments dans la requête est différent de la taille du prédicat");
 			return null;
 		}
@@ -50,15 +49,9 @@ public class SQLToMapping {
 				}
 				
 			}
-			storeList.add(temp);
+			tempAtomList.add(DefaultAtomFactory.instance().create(p, temp));
 		}
-		
-		
-		//Insertion des données dans la liste final
-		for (int i = 0; i < storeList.size(); i++) {
-			atomList.add(DefaultAtomFactory.instance().create(p, storeList.get(i)));
-			
-			}
+
 		
 		} catch(Exception e) {
 			e.printStackTrace();
@@ -67,7 +60,7 @@ public class SQLToMapping {
 
 		
 		
-		return atomList;
+		return tempAtomList;
 		
 	}
 

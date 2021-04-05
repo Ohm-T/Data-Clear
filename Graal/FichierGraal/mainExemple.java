@@ -10,13 +10,24 @@ import java.util.ArrayList;
 import java.util.List;
 
 import fr.lirmm.graphik.graal.api.core.Atom;
+import fr.lirmm.graphik.graal.api.core.AtomSet;
+import fr.lirmm.graphik.graal.api.core.ConjunctiveQuery;
 import fr.lirmm.graphik.graal.api.core.Predicate;
 import fr.lirmm.graphik.graal.api.core.Term;
+import fr.lirmm.graphik.graal.api.kb.KnowledgeBase;
+import fr.lirmm.graphik.graal.api.kb.KnowledgeBaseException;
+import fr.lirmm.graphik.graal.core.atomset.AbstractInMemoryAtomSet;
+import fr.lirmm.graphik.graal.core.atomset.LinkedListAtomSet;
 import fr.lirmm.graphik.graal.core.atomset.graph.DefaultInMemoryGraphStore;
 import fr.lirmm.graphik.graal.core.factory.DefaultAtomFactory;
+import fr.lirmm.graphik.graal.io.dlp.DlgpParser;
+import fr.lirmm.graphik.graal.io.dlp.DlgpWriter;
+import fr.lirmm.graphik.graal.kb.KBBuilder;
+import fr.lirmm.graphik.graal.kb.KBBuilderException;
 import fr.lirmm.graphik.graal.store.rdbms.driver.SqliteDriver;
 import fr.lirmm.graphik.graal.store.rdbms.util.DBColumn;
 import fr.lirmm.graphik.graal.store.rdbms.util.SQLQuery;
+import fr.lirmm.graphik.util.stream.CloseableIterator;
 
 public class mainExemple {
 	
@@ -61,7 +72,7 @@ public class mainExemple {
 		}
 	
 
-public static void main(String args[]) throws SQLException, IOException {
+public static void main(String args[]) throws SQLException, IOException, KBBuilderException, KnowledgeBaseException {
 	
 	
 		System.out.println("Récupération des cacas deux classes et affichage des colonnes pour vérification  :");
@@ -170,20 +181,19 @@ public static void main(String args[]) throws SQLException, IOException {
 		///  FIN VERSION 1 MAPPING ///
 		
 		/// DEBUT VERSION 2 MAPPING ///
-		SQLToMapping.SQLtoGraal(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM, CABIN FROM TITANICFIRSTCLASS"), new Predicate("CabineRelation",3), new ArrayList<ArrayList<Term>>(), passagerList);
-		SQLToMapping.SQLtoGraal(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS PRENOM,substr(NAME, instr(NAME, ',') + 2) AS NOM, CABIN FROM TITANICSECONDCLASS"), new Predicate("CabineRelation",3), new ArrayList<ArrayList<Term>>(), passagerList);
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM, CABIN FROM TITANICFIRSTCLASS"), new Predicate("CabineRelation",3)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM, CABIN FROM TITANICSECONDCLASS"), new Predicate("CabineRelation",3)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,AGE,SEX FROM TITANICFIRSTCLASS"), new Predicate("PassagerRelation",4)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,AGE,SEX FROM TITANICSECONDCLASS"), new Predicate("PassagerRelation",4)));
 		
-		SQLToMapping.SQLtoGraal(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS PRENOM,substr(NAME, instr(NAME, ',') + 2) AS NOM,AGE,SEX FROM TITANICFIRSTCLASS"), new Predicate("PassagerRelation",4), new ArrayList<ArrayList<Term>>(), passagerList);
-		SQLToMapping.SQLtoGraal(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS PRENOM,substr(NAME, instr(NAME, ',') + 2) AS NOM,AGE,SEX FROM TITANICSECONDCLASS"), new Predicate("PassagerRelation",4), new ArrayList<ArrayList<Term>>(), passagerList);
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,TICKET,SIBSP,PARCH,TFARE,SURVIVED,BOAT,BODY FROM TITANICFIRSTCLASS"), new Predicate("VoyageTitanic", 9)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,TICKET,SIBSP,PARCH,TFARE,SURVIVED,BOAT,BODY FROM TITANICSECONDCLASS"), new Predicate("VoyageTitanic", 9)));
 		
-		SQLToMapping.SQLtoGraal(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS PRENOM,substr(NAME, instr(NAME, ',') + 2) AS NOM,TICKET,SIBSP,PARCH,TFARE,SURVIVED,BOAT,BODY FROM TITANICFIRSTCLASS"), new Predicate("VoyageTitanic", 9),new ArrayList<ArrayList<Term>>(), passagerList);
-		SQLToMapping.SQLtoGraal(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS PRENOM,substr(NAME, instr(NAME, ',') + 2) AS NOM,TICKET,SIBSP,PARCH,TFARE,SURVIVED,BOAT,BODY FROM TITANICSECONDCLASS"), new Predicate("VoyageTitanic", 9), new ArrayList<ArrayList<Term>>(), passagerList);
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,PCLASS FROM TITANICFIRSTCLASS"), new Predicate("APourClasse", 3)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,PCLASS FROM TITANICSECONDCLASS"), new Predicate("APourClasse", 3)));
 		
-		SQLToMapping.SQLtoGraal(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS PRENOM,substr(NAME, instr(NAME, ',') + 2) AS NOM,PCLASS FROM TITANICFIRSTCLASS"), new Predicate("APourClasse", 3), new ArrayList<ArrayList<Term>>(), passagerList);
-		SQLToMapping.SQLtoGraal(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS PRENOM,substr(NAME, instr(NAME, ',') + 2) AS NOM,PCLASS FROM TITANICSECONDCLASS"), new Predicate("APourClasse", 3), new ArrayList<ArrayList<Term>>(), passagerList);
-		
-		SQLToMapping.SQLtoGraal(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS PRENOM,substr(NAME, instr(NAME, ',') + 2) AS NOM,HOME_DEST FROM TITANICFIRSTCLASS"), new Predicate("AEmbarque", 3), new ArrayList<ArrayList<Term>>(), passagerList);
-		SQLToMapping.SQLtoGraal(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS PRENOM,substr(NAME, instr(NAME, ',') + 2) AS NOM,HOME_DEST FROM TITANICSECONDCLASS"), new Predicate("AEmbarque", 3), new ArrayList<ArrayList<Term>>(), passagerList);
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,HOME_DEST FROM TITANICFIRSTCLASS"), new Predicate("AEmbarque", 3)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,HOME_DEST FROM TITANICSECONDCLASS"), new Predicate("AEmbarque", 3)));
 	
 		/// FIN VERSION 2 MAPPING ///
 		
@@ -193,7 +203,7 @@ public static void main(String args[]) throws SQLException, IOException {
 				DefaultInMemoryGraphStore graphBilan = new DefaultInMemoryGraphStore();
 				for (int i = 0; i < passagerList.size(); i++) {
 					graphBilan.add(passagerList.get(i));
-				}
+				} 
 				System.out.println("Vérification : ");
 				
 				System.out.println("Taille de la liste de passager :  ");
@@ -202,8 +212,34 @@ public static void main(String args[]) throws SQLException, IOException {
 				System.out.println(graphBilan.size());
 				
 				System.out.println("Ecriture du graphe dans le fichier out :  ");
-				writeGraph(graphBilan);
+			//	writeGraph(graphBilan);
 				System.out.println("Fin Ecriture du graphe dans le fichier out");
+				
+		// Création de la base de faits
+				
+		KBBuilder kbase = new KBBuilder();
+		kbase.setStore(graphBilan);
+		KnowledgeBase kb = kbase.build();
+		DlgpWriter writer = new DlgpWriter();
+		ConjunctiveQuery query = DlgpParser.parseQuery("?(B,C) :- " 
+		+ "VoyageTitanic(B)," 
+		+ "CabineRelation(B,C)," 
+		+ "Cabine(C).");
+		
+		
+		writer.write(query);
+		
+		CloseableIterator result = kb.query(query);
+		
+		if (result.hasNext()) {
+		  	do {
+		  		writer.write(result.next());
+		  	} while (result.hasNext());
+		  } else {
+		  	writer.write("No answers.\n");
+		
+		
 	}
+}
 
 }
