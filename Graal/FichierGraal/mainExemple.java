@@ -10,14 +10,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 import fr.lirmm.graphik.graal.api.core.Atom;
-import fr.lirmm.graphik.graal.api.core.AtomSet;
 import fr.lirmm.graphik.graal.api.core.ConjunctiveQuery;
 import fr.lirmm.graphik.graal.api.core.Predicate;
 import fr.lirmm.graphik.graal.api.core.Term;
 import fr.lirmm.graphik.graal.api.kb.KnowledgeBase;
 import fr.lirmm.graphik.graal.api.kb.KnowledgeBaseException;
-import fr.lirmm.graphik.graal.core.atomset.AbstractInMemoryAtomSet;
-import fr.lirmm.graphik.graal.core.atomset.LinkedListAtomSet;
 import fr.lirmm.graphik.graal.core.atomset.graph.DefaultInMemoryGraphStore;
 import fr.lirmm.graphik.graal.core.factory.DefaultAtomFactory;
 import fr.lirmm.graphik.graal.io.dlp.DlgpParser;
@@ -28,6 +25,9 @@ import fr.lirmm.graphik.graal.store.rdbms.driver.SqliteDriver;
 import fr.lirmm.graphik.graal.store.rdbms.util.DBColumn;
 import fr.lirmm.graphik.graal.store.rdbms.util.SQLQuery;
 import fr.lirmm.graphik.util.stream.CloseableIterator;
+import py4j.GatewayServer;
+
+
 
 public class mainExemple {
 	
@@ -70,9 +70,39 @@ public class mainExemple {
 			}
 			
 		}
+		
+		//Méthode d'une requête 
+		public static void writeQuery(CloseableIterator<?> result) throws IOException {
+			try {
+					
+				File file = new File("C:\\Users\\beaug\\Desktop\\M1S2\\TER\\Python\\Query.csv");
+					
+				if(!file.exists()) {
+						file.createNewFile();
+					}
+					
+					FileWriter fw = new FileWriter(file.getAbsoluteFile());
+					BufferedWriter bw = new BufferedWriter(fw);
+					
+					while(result.hasNext()) {
+						bw.write(result.next().toString() + "\n");
+					}
+					bw.close();
+					
+					
+					} catch (IOException e) {
+						e.printStackTrace();
+					}
+					
+				}
+		
+		
+
 	
 
 public static void main(String args[]) throws SQLException, IOException, KBBuilderException, KnowledgeBaseException {
+	
+		
 	
 	
 		System.out.println("Récupération des cacas deux classes et affichage des colonnes pour vérification  :");
@@ -181,19 +211,19 @@ public static void main(String args[]) throws SQLException, IOException, KBBuild
 		///  FIN VERSION 1 MAPPING ///
 		
 		/// DEBUT VERSION 2 MAPPING ///
-		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM, CABIN FROM TITANICFIRSTCLASS"), new Predicate("CabineRelation",3)));
-		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM, CABIN FROM TITANICSECONDCLASS"), new Predicate("CabineRelation",3)));
-		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,AGE,SEX FROM TITANICFIRSTCLASS"), new Predicate("PassagerRelation",4)));
-		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,AGE,SEX FROM TITANICSECONDCLASS"), new Predicate("PassagerRelation",4)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM, CABIN FROM TITANICFIRSTCLASS"), new Predicate("cabineRelation",3)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM, CABIN FROM TITANICSECONDCLASS"), new Predicate("cabineRelation",3)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,AGE,SEX FROM TITANICFIRSTCLASS"), new Predicate("passagerRelation",4)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,AGE,SEX FROM TITANICSECONDCLASS"), new Predicate("passagerRelation",4)));
 		
-		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,TICKET,SIBSP,PARCH,TFARE,SURVIVED,BOAT,BODY FROM TITANICFIRSTCLASS"), new Predicate("VoyageTitanic", 9)));
-		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,TICKET,SIBSP,PARCH,TFARE,SURVIVED,BOAT,BODY FROM TITANICSECONDCLASS"), new Predicate("VoyageTitanic", 9)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,TICKET,SIBSP,PARCH,TFARE,SURVIVED,BOAT,BODY FROM TITANICFIRSTCLASS"), new Predicate("voyageTitanic", 9)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,TICKET,SIBSP,PARCH,TFARE,SURVIVED,BOAT,BODY FROM TITANICSECONDCLASS"), new Predicate("voyageTitanic", 9)));
 		
-		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,PCLASS FROM TITANICFIRSTCLASS"), new Predicate("APourClasse", 3)));
-		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,PCLASS FROM TITANICSECONDCLASS"), new Predicate("APourClasse", 3)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,PCLASS FROM TITANICFIRSTCLASS"), new Predicate("aPourClasse", 3)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,PCLASS FROM TITANICSECONDCLASS"), new Predicate("aPourClasse", 3)));
 		
-		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,HOME_DEST FROM TITANICFIRSTCLASS"), new Predicate("AEmbarque", 3)));
-		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,HOME_DEST FROM TITANICSECONDCLASS"), new Predicate("AEmbarque", 3)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,HOME_DEST FROM TITANICFIRSTCLASS"), new Predicate("aEmbarque", 3)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,HOME_DEST FROM TITANICSECONDCLASS"), new Predicate("aEmbarque", 3)));
 	
 		/// FIN VERSION 2 MAPPING ///
 		
@@ -220,26 +250,23 @@ public static void main(String args[]) throws SQLException, IOException, KBBuild
 		KBBuilder kbase = new KBBuilder();
 		kbase.setStore(graphBilan);
 		KnowledgeBase kb = kbase.build();
-		DlgpWriter writer = new DlgpWriter();
-		ConjunctiveQuery query = DlgpParser.parseQuery("?(B,C) :- " 
-		+ "VoyageTitanic(B)," 
-		+ "CabineRelation(B,C)," 
-		+ "Cabine(C).");
 		
 		
-		writer.write(query);
-		
-		CloseableIterator result = kb.query(query);
-		
-		if (result.hasNext()) {
-		  	do {
-		  		writer.write(result.next());
-		  	} while (result.hasNext());
-		  } else {
-		  	writer.write("No answers.\n");
+		// Début requête DLGP
 		
 		
-	}
+		
+		ConjunctiveQuery query = DlgpParser.parseQuery("?(A,B) :- " 
+		+ " passagerRelation(A,B,C,D).");
+		
+		
+		CloseableIterator<?> result = kb.query(query);
+		System.out.println("Début écriture requête : ");
+		writeQuery(result);
+		System.out.println("Fin écriture requête !");
+		
+		
+	
 }
 
 }

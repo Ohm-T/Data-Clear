@@ -21,8 +21,7 @@ public class SQLMappingEvaluator {
 	public static ArrayList<Atom> evaluate(SqliteDriver database,SQLQuery query, Predicate p) throws SQLException {
 		ResultSet res = database.createStatement().executeQuery(query.toString());
 		ArrayList<Atom> tempAtomList = new ArrayList<Atom>();
-		
-		//Supprimier storeList/atomList + créer une AtomList, ligne 53 => 59
+
 		try {
 		
 		
