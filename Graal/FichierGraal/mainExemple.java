@@ -12,9 +12,11 @@ import java.util.List;
 import fr.lirmm.graphik.graal.api.core.Atom;
 import fr.lirmm.graphik.graal.api.core.ConjunctiveQuery;
 import fr.lirmm.graphik.graal.api.core.Predicate;
+import fr.lirmm.graphik.graal.api.core.Substitution;
 import fr.lirmm.graphik.graal.api.core.Term;
 import fr.lirmm.graphik.graal.api.kb.KnowledgeBase;
 import fr.lirmm.graphik.graal.api.kb.KnowledgeBaseException;
+import fr.lirmm.graphik.graal.core.AbstractSubstitution;
 import fr.lirmm.graphik.graal.core.atomset.graph.DefaultInMemoryGraphStore;
 import fr.lirmm.graphik.graal.core.factory.DefaultAtomFactory;
 import fr.lirmm.graphik.graal.io.dlp.DlgpParser;
@@ -72,10 +74,10 @@ public class mainExemple {
 		}
 		
 		//Méthode d'une requête 
-		public static void writeQuery(CloseableIterator<?> result) throws IOException {
+		public static void writeQuery(CloseableIterator<?> result, String txt) throws IOException {
 			try {
 					
-				File file = new File("C:\\Users\\beaug\\Desktop\\M1S2\\TER\\Python\\Query.csv");
+				File file = new File("C:\\Users\\beaug\\Desktop\\M1S2\\TER\\Python\\" + txt + ".csv");
 					
 				if(!file.exists()) {
 						file.createNewFile();
@@ -252,17 +254,28 @@ public static void main(String args[]) throws SQLException, IOException, KBBuild
 		KnowledgeBase kb = kbase.build();
 		
 		
-		// Début requête DLGP
+		
+		System.out.println("Requête DLGP : ");
+		
+		ConjunctiveQuery query = DlgpParser.parseQuery("?(A,B,C,D,M,E,F,G,H,K) :- " 
+		+ " passagerRelation(A,B,C,D),"
+		+ " cabineRelation(A,B,M)"
+		+ " aPourClasse(A,B,E),"
+		+ " voyageTitanic(A,B,F,G,H,I,J,K,L).");
+
+		ConjunctiveQuery check = DlgpParser.parseQuery("?(A,B,G) :- "
+		+ " voyageTitanic(A,B,C,D,E,F,G,H,I).");
 		
 		
-		
-		ConjunctiveQuery query = DlgpParser.parseQuery("?(A,B) :- " 
-		+ " passagerRelation(A,B,C,D).");
-		
+		System.out.println(query);	
 		
 		CloseableIterator<?> result = kb.query(query);
+		CloseableIterator<?> checked = kb.query(check);
+
 		System.out.println("Début écriture requête : ");
-		writeQuery(result);
+		writeQuery(result,"data");
+		writeQuery(checked,"check");
+		
 		System.out.println("Fin écriture requête !");
 		
 		

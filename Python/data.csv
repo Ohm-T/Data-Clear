@@ -1,0 +1,599 @@
+{K->"11",D->"female",C->"22.0",B->"Miss. Alice",A->"Cleaver",H->"0",G->"0",F->"113781",E->"1"}
+{K->"9",D->"F",C->"24.0",B->"Miss. Alice",A->"Herman",H->"2.0",G->"1.0",F->"220845",E->"2"}
+{K->"10",D->"female",C->"23.0",B->"Miss. Mabel Helen",A->"Fortune",H->"2",G->"3",F->"19950",E->"1"}
+{K->"13",D->"M",C->"32.0",B->"Mr. Edward",A->"Beane",H->"0.0",G->"1.0",F->"2908",E->"2"}
+{K->"null",D->"M",C->"43.0",B->"Mr. Escott Robert",A->"Phillips",H->"1.0",G->"0.0",F->"S.O./P.P. 2",E->"2"}
+{K->"null",D->"male",C->"30.0",B->"Mr. Benjamin Laventall",A->"Foreman",H->"0",G->"0",F->"113051",E->"1"}
+{K->"D",D->"male",C->"null",B->"Mr. Hugh",A->"Woolner",H->"0",G->"0",F->"19947",E->"1"}
+{K->"C",D->"male",C->"36.0",B->"Mr. William Ernest",A->"Carter",H->"2",G->"1",F->"113760",E->"1"}
+{K->"4",D->"female",C->"18.0",B->"Mrs. John Jacob (Madeleine Talmadge Force)",A->"Astor",H->"0",G->"1",F->"PC 17757",E->"1"}
+{K->"null",D->"male",C->"42.0",B->"Mr. Christopher",A->"Head",H->"0",G->"0",F->"113038",E->"1"}
+{K->"null",D->"M",C->"null",B->"Mr. Robert J",A->"Knight",H->"0.0",G->"0.0",F->"239855",E->"2"}
+{K->"null",D->"F",C->"57.0",B->"Mrs. (Mary)",A->"Mack",H->"0.0",G->"0.0",F->"S.O./P.P. 3",E->"2"}
+{K->"D",D->"female",C->"53.0",B->"Mrs. Edward Dale (Charlotte Lamson)",A->"Appleton",H->"0",G->"2",F->"11769",E->"1"}
+{K->"3",D->"male",C->"56.0",B->"Col. Oberst Alfons",A->"Simonius-Blumer",H->"0",G->"0",F->"13213",E->"1"}
+{K->"null",D->"M",C->"44.0",B->"Mr. Stephen",A->"Hold",H->"0.0",G->"1.0",F->"26707",E->"2"}
+{K->"null",D->"M",C->"30.0",B->"Mr. Hans Kristensen",A->"Givard",H->"0.0",G->"0.0",F->"250646",E->"2"}
+{K->"null",D->"M",C->"17.0",B->"Mr. Percy William",A->"Deacon",H->"0.0",G->"0.0",F->"S.O.C. 14879",E->"2"}
+{K->"null",D->"male",C->"45.0",B->"Major. Archibald Willingham",A->"Butt",H->"0",G->"0",F->"113050",E->"1"}
+{K->"null",D->"female",C->"63.0",B->"Mrs. Isidor (Rosalie Ida Blun)",A->"Straus",H->"0",G->"1",F->"PC 17483",E->"1"}
+{K->"null",D->"F",C->"44.0",B->"Mrs. Ernest Courtenay (Lilian Hughes)",A->"Carter",H->"0.0",G->"1.0",F->"244252",E->"2"}
+{K->"null",D->"male",C->"71.0",B->"Mr. Ramon",A->"Artagaveytia",H->"0",G->"0",F->"PC 17609",E->"1"}
+{K->"null",D->"male",C->"45.5",B->"Mr. Austen",A->"Partner",H->"0",G->"0",F->"113043",E->"1"}
+{K->"10",D->"F",C->"31.0",B->"Mrs. John James (Florence Louise Long)",A->"Ware",H->"0.0",G->"0.0",F->"CA 31352",E->"2"}
+{K->"null",D->"male",C->"54.0",B->"Mr. Percival Wayland",A->"White",H->"1",G->"0",F->"35281",E->"1"}
+{K->"null",D->"M",C->"29.0",B->"Mr. William John Robert",A->"Turpin",H->"0.0",G->"1.0",F->"11668",E->"2"}
+{K->"null",D->"M",C->"36.0",B->"Mr. Stanley Hubert",A->"Fox",H->"0.0",G->"0.0",F->"229236",E->"2"}
+{K->"null",D->"M",C->"36.5",B->"Mr. Michel ('Louis M Hoffman')",A->"Navratil",H->"2.0",G->"0.0",F->"230080",E->"2"}
+{K->"null",D->"male",C->"30.0",B->"Mr. John Edward",A->"Maguire",H->"0",G->"0",F->"110469",E->"1"}
+{K->"11",D->"F",C->"36.0",B->"Mrs. Allen Oliver (Nellie E Baumgardner)",A->"Becker",H->"3.0",G->"0.0",F->"230136",E->"2"}
+{K->"10",D->"F",C->"30.0",B->"Miss. Anna",A->"Sinkkonen",H->"0.0",G->"0.0",F->"250648",E->"2"}
+{K->"3",D->"female",C->"35.0",B->"Miss. Anna",A->"Ward",H->"0",G->"0",F->"PC 17755",E->"1"}
+{K->"null",D->"M",C->"32.0",B->"Mr. Stephen Curnow",A->"Jenkin",H->"0.0",G->"0.0",F->"C.A. 33111",E->"2"}
+{K->"5",D->"female",C->"null",B->"Mrs. Henry William (Clara Heinsheimer)",A->"Frauenthal",H->"0",G->"1",F->"PC 17611",E->"1"}
+{K->"8",D->"female",C->"49.0",B->"Dr. Alice (Farnham)",A->"Leader",H->"0",G->"0",F->"17465",E->"1"}
+{K->"null",D->"M",C->"19.0",B->"Mr. Frederick William",A->"Pengelly",H->"0.0",G->"0.0",F->"28665",E->"2"}
+{K->"null",D->"male",C->"19.0",B->"Mr. Charles Alexander",A->"Fortune",H->"2",G->"3",F->"19950",E->"1"}
+{K->"null",D->"M",C->"50.0",B->"Mr. Charles Alexander",A->"Louch",H->"0.0",G->"1.0",F->"SC/AH 3085",E->"2"}
+{K->"null",D->"F",C->"17.0",B->"Miss. Bertha",A->"Ilett",H->"0.0",G->"0.0",F->"SO/C 14885",E->"2"}
+{K->"2",D->"female",C->"30.0",B->"Miss. Bertha",A->"LeRoy",H->"0",G->"0",F->"PC 17761",E->"1"}
+{K->"12",D->"F",C->"17.0",B->"Miss. Bertha",A->"Lehmann",H->"0.0",G->"0.0",F->"SC 1748",E->"2"}
+{K->"null",D->"male",C->"null",B->"Mr. Roderick Robert Crispin",A->"Chisholm",H->"0",G->"0",F->"112051",E->"1"}
+{K->"9",D->"F",C->"48.0",B->"Mrs. Samuel (Jane Laver)",A->"Herman",H->"2.0",G->"1.0",F->"220845",E->"2"}
+{K->"9",D->"F",C->"32.0",B->"Mrs. (Rosa)",A->"Pinsky",H->"0.0",G->"0.0",F->"234604",E->"2"}
+{K->"null",D->"M",C->"19.0",B->"Mr. Reginald Harry",A->"Rogers",H->"0.0",G->"0.0",F->"28004",E->"2"}
+{K->"14",D->"F",C->"22.0",B->"Mrs. (Selena Rogers)",A->"Cook",H->"0.0",G->"0.0",F->"W./C. 14266",E->"2"}
+{K->"11",D->"F",C->"2.0",B->"Miss. Phyllis May",A->"Quick",H->"1.0",G->"1.0",F->"26360",E->"2"}
+{K->"4",D->"female",C->"21.0",B->"Miss. Susan Parker 'Suzette'",A->"Ryerson",H->"2",G->"2",F->"PC 17608",E->"1"}
+{K->"null",D->"male",C->"42.0",B->"Mr. Alexander Oskar",A->"Holverson",H->"0",G->"1",F->"113789",E->"1"}
+{K->"null",D->"F",C->"30.0",B->"Mrs. Peter Henry (Lillian Jefferys)",A->"Renouf",H->"0.0",G->"3.0",F->"31027",E->"2"}
+{K->"4",D->"female",C->"38.0",B->"Miss. Caroline Louise",A->"Endres",H->"0",G->"0",F->"PC 17757",E->"1"}
+{K->"D",D->"M",C->"3.0",B->"Master. Michel M",A->"Navratil",H->"1.0",G->"1.0",F->"230080",E->"2"}
+{K->"8",D->"female",C->"60.0",B->"Mrs. William Robert (Emma Eliza Ward)",A->"Bucknell",H->"0",G->"0",F->"11813",E->"1"}
+{K->"11",D->"male",C->"30.0",B->"Mr. Philipp Edmund",A->"Mock",H->"0",G->"1",F->"13236",E->"1"}
+{K->"null",D->"M",C->"25.0",B->"Mr. Herbert",A->"Denbury",H->"0.0",G->"0.0",F->"C.A. 31029",E->"2"}
+{K->"8",D->"female",C->"16.0",B->"Miss. Roberta",A->"Maioni",H->"0",G->"0",F->"110152",E->"1"}
+{K->"7",D->"M",C->"20.0",B->"Mr. Alfred ('Baron von Drachstedt')",A->"Nourney",H->"0.0",G->"0.0",F->"SC/PARIS 2166",E->"2"}
+{K->"9",D->"M",C->"31.0",B->"Mr. Charles",A->"Wilhelms",H->"0.0",G->"0.0",F->"244270",E->"2"}
+{K->"13",D->"M",C->"0.8333",B->"Master. Alden Gates",A->"Caldwell",H->"2.0",G->"0.0",F->"248738",E->"2"}
+{K->"null",D->"male",C->"22.0",B->"Mr. Sante",A->"Ringhini",H->"0",G->"0",F->"PC 17760",E->"1"}
+{K->"4",D->"female",C->"42.0",B->"Miss. Rosalie",A->"Bidois",H->"0",G->"0",F->"PC 17757",E->"1"}
+{K->"null",D->"male",C->"null",B->"Mr. Albert A",A->"Stewart",H->"0",G->"0",F->"PC 17605",E->"1"}
+{K->"null",D->"M",C->"24.0",B->"Mr. Clifford Thomas",A->"Jefferys",H->"0.0",G->"2.0",F->"C.A. 31029",E->"2"}
+{K->"null",D->"M",C->"36.0",B->"Mr. David",A->"Reeves",H->"0.0",G->"0.0",F->"C.A. 17248",E->"2"}
+{K->"8",D->"female",C->"17.0",B->"Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",A->"Penasco y Castellana",H->"0",G->"1",F->"PC 17758",E->"1"}
+{K->"null",D->"male",C->"31.0",B->"Mr. Thornton",A->"Davidson",H->"0",G->"1",F->"F.C. 12750",E->"1"}
+{K->"null",D->"male",C->"47.0",B->"Mr. William Anderson",A->"Walker",H->"0",G->"0",F->"36967",E->"1"}
+{K->"6",D->"female",C->"27.0",B->"Mrs. Frederick Charles (Mary Helene Baxter)",A->"Douglas",H->"1",G->"1",F->"PC 17558",E->"1"}
+{K->"null",D->"M",C->"21.0",B->"Mr. Frederick Edward",A->"Giles",H->"0.0",G->"1.0",F->"28134",E->"2"}
+{K->"3",D->"female",C->"58.0",B->"Mrs. James Warburton Martinez (Charlotte Wardle Drake)",A->"Cardeza",H->"1",G->"0",F->"PC 17755",E->"1"}
+{K->"null",D->"male",C->"33.0",B->"Mr. Frans Olof",A->"Carlsson",H->"0",G->"0",F->"695",E->"1"}
+{K->"4",D->"female",C->"35.0",B->"Miss. Amalie",A->"Geiger",H->"0",G->"0",F->"113503",E->"1"}
+{K->"null",D->"male",C->"45.0",B->"Mr. Henry Birkhardt",A->"Harris",H->"0",G->"1",F->"36973",E->"1"}
+{K->"null",D->"F",C->"60.0",B->"Mrs. Benjamin (Ellen Truelove Arman)",A->"Howard",H->"0.0",G->"1.0",F->"24065",E->"2"}
+{K->"12",D->"F",C->"32.5",B->"Miss. Susan",A->"Webber",H->"0.0",G->"0.0",F->"27267",E->"2"}
+{K->"D",D->"male",C->"38.0",B->"Mr. Frederick Maxfield",A->"Hoyt",H->"0",G->"1",F->"19943",E->"1"}
+{K->"8",D->"female",C->"32.0",B->"Miss. Albina",A->"Bazzani",H->"0",G->"0",F->"11813",E->"1"}
+{K->"6",D->"female",C->"76.0",B->"Mrs. Tyrell William (Julia Florence Siegel)",A->"Cavendish",H->"0",G->"1",F->"19877",E->"1"}
+{K->"8",D->"female",C->"22.0",B->"Mrs. Thomas (Edith Wearne)",A->"Pears",H->"0",G->"1",F->"113776",E->"1"}
+{K->"3",D->"male",C->"48.0",B->"Mr. Henry Sleeper",A->"Harper",H->"0",G->"1",F->"PC 17572",E->"1"}
+{K->"12",D->"F",C->"19.0",B->"Miss. Lilian W",A->"Bentham",H->"0.0",G->"0.0",F->"28404",E->"2"}
+{K->"null",D->"M",C->"32.0",B->"Mr. Jose Joaquim",A->"de Brito",H->"0.0",G->"0.0",F->"244360",E->"2"}
+{K->"5 9",D->"male",C->"51.0",B->"Mr. Peter Denis",A->"Daly",H->"0",G->"0",F->"113055",E->"1"}
+{K->"null",D->"male",C->"51.0",B->"Mr. Charles Duane",A->"Williams",H->"1",G->"0",F->"PC 17597",E->"1"}
+{K->"4",D->"female",C->"45.0",B->"Miss. Grace Scott",A->"Bowen",H->"0",G->"0",F->"PC 17608",E->"1"}
+{K->"null",D->"F",C->"18.0",B->"Miss. Elsie",A->"Doling",H->"1.0",G->"0.0",F->"231919",E->"2"}
+{K->"6",D->"female",C->"null",B->"Mrs. William Augustus (Marie Eugenie)",A->"Spencer",H->"0",G->"1",F->"PC 17569",E->"1"}
+{K->"null",D->"male",C->"42.0",B->"Mr. John James",A->"Borebank",H->"0",G->"0",F->"110489",E->"1"}
+{K->"null",D->"M",C->"30.0",B->"Mr. John James",A->"Ware",H->"0.0",G->"1.0",F->"CA 31352",E->"2"}
+{K->"null",D->"M",C->"25.0",B->"Mr. Frank Thomas",A->"Andrew",H->"0.0",G->"0.0",F->"C.A. 34050",E->"2"}
+{K->"9",D->"female",C->"51.0",B->"Mrs. Ernest H (Elizabeth Lindsey James)",A->"Lines",H->"1",G->"0",F->"PC 17592",E->"1"}
+{K->"7",D->"female",C->"64.0",B->"Mrs. Edward Gifford (Catherine Elizabeth Halstead)",A->"Crosby",H->"1",G->"1",F->"112901",E->"1"}
+{K->"null",D->"male",C->"null",B->"Mr. Charles H",A->"Harrington",H->"0",G->"0",F->"113796",E->"1"}
+{K->"null",D->"male",C->"37.0",B->"Mr. Charles H",A->"Natsch",H->"1",G->"0",F->"PC 17596",E->"1"}
+{K->"16",D->"F",C->"29.0",B->"Mrs. Lizzie (Elizabeth Anne Wilkinson)",A->"Faunthorpe",H->"0.0",G->"1.0",F->"2926",E->"2"}
+{K->"11",D->"M",C->"1.0",B->"Master. Richard F",A->"Becker",H->"1.0",G->"2.0",F->"230136",E->"2"}
+{K->"7",D->"female",C->"45.0",B->"Mrs. Leonard (Pauline C Boeson)",A->"Gibson",H->"1",G->"0",F->"112378",E->"1"}
+{K->"null",D->"M",C->"25.0",B->"Mr. Reginald Fenton",A->"Butler",H->"0.0",G->"0.0",F->"234686",E->"2"}
+{K->"null",D->"male",C->"27.0",B->"Mr. Harry Elkins",A->"Widener",H->"2",G->"0",F->"113503",E->"1"}
+{K->"null",D->"M",C->"66.0",B->"Mr. Edward H",A->"Wheadon",H->"0.0",G->"0.0",F->"C.A. 24579",E->"2"}
+{K->"12",D->"F",C->"30.0",B->"Miss. Florentina",A->"Duran y More",H->"0.0",G->"1.0",F->"SC/PARIS 2148",E->"2"}
+{K->"null",D->"M",C->"21.0",B->"Mr. Edgar",A->"Giles",H->"0.0",G->"1.0",F->"28133",E->"2"}
+{K->"4",D->"female",C->"47.0",B->"Mrs. Herbert Fuller (Carrie Constance Toogood)",A->"Chaffee",H->"0",G->"1",F->"W.E.P. 5734",E->"1"}
+{K->"null",D->"male",C->"28.5",B->"Mr. Servando",A->"Ovies y Rodriguez",H->"0",G->"0",F->"PC 17562",E->"1"}
+{K->"14",D->"male",C->"null",B->"Mr. William Fisher",A->"Hoyt",H->"0",G->"0",F->"PC 17600",E->"1"}
+{K->"null",D->"M",C->"54.0",B->"Mr. William James",A->"Downton",H->"0.0",G->"0.0",F->"28403",E->"2"}
+{K->"11",D->"F",C->"33.0",B->"Mrs. Frederick Charles (Jane Richards)",A->"Quick",H->"2.0",G->"0.0",F->"26360",E->"2"}
+{K->"null",D->"male",C->"null",B->"Mr. Richard",A->"Fry",H->"0",G->"0",F->"112058",E->"1"}
+{K->"null",D->"M",C->"39.0",B->"Mr. Richard",A->"Otter",H->"0.0",G->"0.0",F->"28213",E->"2"}
+{K->"10",D->"F",C->"33.0",B->"Mrs. Edwy Arthur (Ada Mary Worth)",A->"West",H->"2.0",G->"1.0",F->"C.A. 34651",E->"2"}
+{K->"null",D->"male",C->"31.0",B->"Mr. Washington Augustus II",A->"Roebling",H->"0",G->"0",F->"PC 17590",E->"1"}
+{K->"11",D->"female",C->"33.0",B->"Miss. Edith Louise",A->"Rosenbaum",H->"0",G->"0",F->"PC 17613",E->"1"}
+{K->"null",D->"female",C->"2.0",B->"Miss. Helen Loraine",A->"Allison",H->"2",G->"1",F->"113781",E->"1"}
+{K->"null",D->"male",C->"null",B->"Mr. George Quincy",A->"Clifford",H->"0",G->"0",F->"110465",E->"1"}
+{K->"null",D->"M",C->"23.0",B->"Mr. Richard George",A->"Hocking",H->"1.0",G->"2.0",F->"29104",E->"2"}
+{K->"4",D->"female",C->"50.0",B->"Mrs. George Dunton (Eleanor Elkins)",A->"Widener",H->"1",G->"1",F->"113503",E->"1"}
+{K->"null",D->"male",C->"36.0",B->"Mr. Tyrell William",A->"Cavendish",H->"0",G->"1",F->"19877",E->"1"}
+{K->"null",D->"male",C->"null",B->"Mr. Alexander",A->"Cairns",H->"0",G->"0",F->"113798",E->"1"}
+{K->"4",D->"male",C->"11.0",B->"Master. William Thornton II",A->"Carter",H->"2",G->"1",F->"113760",E->"1"}
+{K->"null",D->"M",C->"24.0",B->"Mr. John William",A->"Gill",H->"0.0",G->"0.0",F->"233866",E->"2"}
+{K->"3",D->"male",C->"36.0",B->"Mr. Thomas Drake Martinez",A->"Cardeza",H->"1",G->"0",F->"PC 17755",E->"1"}
+{K->"6",D->"female",C->"null",B->"Mrs. Edgar Joseph (Leila Saks)",A->"Meyer",H->"0",G->"1",F->"PC 17604",E->"1"}
+{K->"null",D->"M",C->"30.0",B->"Mr. Walter",A->"Harris",H->"0.0",G->"0.0",F->"W/C 14208",E->"2"}
+{K->"3",D->"male",C->"48.0",B->"Mr. Harry",A->"Anderson",H->"0",G->"0",F->"19952",E->"1"}
+{K->"null",D->"M",C->"40.0",B->"Mr. Harry",A->"Faunthorpe",H->"0.0",G->"1.0",F->"2926",E->"2"}
+{K->"null",D->"M",C->"38.0",B->"Mr. Harry",A->"Gale",H->"0.0",G->"1.0",F->"28664",E->"2"}
+{K->"5",D->"male",C->"42.0",B->"Mr. Edward Pennington",A->"Calderhead",H->"0",G->"0",F->"PC 17476",E->"1"}
+{K->"12",D->"F",C->"21.0",B->"Miss. Emily",A->"Rugg",H->"0.0",G->"0.0",F->"C.A. 31026",E->"2"}
+{K->"8",D->"female",C->"18.0",B->"Miss. Ruth",A->"Taussig",H->"2",G->"0",F->"110413",E->"1"}
+{K->"5",D->"female",C->"25.0",B->"Mrs. George Achilles (Dorothy Annan)",A->"Harder",H->"0",G->"1",F->"11765",E->"1"}
+{K->"7",D->"male",C->"40.0",B->"Mr. Henry",A->"Blank",H->"0",G->"0",F->"112277",E->"1"}
+{K->"4",D->"M",C->"0.6667",B->"Master. Viljo",A->"Hamalainen",H->"1.0",G->"1.0",F->"250649",E->"2"}
+{K->"9",D->"F",C->"40.0",B->"Miss. Marion Elsie",A->"Smith",H->"0.0",G->"0.0",F->"31418",E->"2"}
+{K->"5 7",D->"male",C->"48.0",B->"Mr. Elmer Zebley",A->"Taylor",H->"0",G->"1",F->"19996",E->"1"}
+{K->"null",D->"F",C->"22.0",B->"Mrs. J Frank (Claire Bennett)",A->"Karnes",H->"0.0",G->"0.0",F->"F.C.C. 13534",E->"2"}
+{K->"A",D->"male",C->"36.0",B->"Mr. Thomson",A->"Beattie",H->"0",G->"0",F->"13050",E->"1"}
+{K->"4",D->"female",C->"14.0",B->"Miss. Lucile Polk",A->"Carter",H->"2",G->"1",F->"113760",E->"1"}
+{K->"5",D->"male",C->"60.0",B->"Mr. Maxmillian",A->"Frolicher-Stehli",H->"1",G->"1",F->"13567",E->"1"}
+{K->"12",D->"F",C->"21.0",B->"Miss. Alice Frances Louisa",A->"Phillips",H->"1.0",G->"0.0",F->"S.O./P.P. 2",E->"2"}
+{K->"4",D->"female",C->"44.0",B->"Mrs. Louis Albert (Ida Sophia Fischer)",A->"Hippach",H->"1",G->"0",F->"111361",E->"1"}
+{K->"8",D->"female",C->"29.0",B->"Miss. Ellen",A->"Bird",H->"0",G->"0",F->"PC 17483",E->"1"}
+{K->"9",D->"F",C->"50.0",B->"Miss. Ellen",A->"Toomey",H->"0.0",G->"0.0",F->"F.C.C. 13531",E->"2"}
+{K->"null",D->"male",C->"45.0",B->"Mr. Stephen Weart",A->"Blackwell",H->"0",G->"0",F->"113784",E->"1"}
+{K->"null",D->"F",C->"28.0",B->"Mrs. William H (Jessie L)",A->"Trout",H->"0.0",G->"0.0",F->"240929",E->"2"}
+{K->"10",D->"female",C->"18.0",B->"Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",A->"Marvin",H->"0",G->"1",F->"113773",E->"1"}
+{K->"null",D->"M",C->"null",B->"Mr. Serafino Emilio",A->"Mangiavacchi",H->"0.0",G->"0.0",F->"SC/A.3 2861",E->"2"}
+{K->"11",D->"male",C->"0.9167",B->"Master. Hudson Trevor",A->"Allison",H->"2",G->"1",F->"113781",E->"1"}
+{K->"4",D->"female",C->"52.0",B->"Mrs. Walter Bertram (Martha Eustis)",A->"Stephenson",H->"0",G->"1",F->"36947",E->"1"}
+{K->"null",D->"M",C->"36.0",B->"Mr. Samuel James Metcalfe",A->"Hocking",H->"0.0",G->"0.0",F->"242963",E->"2"}
+{K->"null",D->"male",C->"29.0",B->"Mr. Thomas Clinton",A->"Pears",H->"0",G->"1",F->"113776",E->"1"}
+{K->"null",D->"male",C->"null",B->"Mr. Herman",A->"Klaber",H->"0",G->"0",F->"113028",E->"1"}
+{K->"null",D->"male",C->"33.0",B->"Mr. Alfred G",A->"Rowe",H->"0",G->"0",F->"113790",E->"1"}
+{K->"null",D->"F",C->"14.0",B->"Mrs. Nicholas (Adele Achem)",A->"Nasser",H->"0.0",G->"1.0",F->"237736",E->"2"}
+{K->"null",D->"female",C->"36.0",B->"Miss. Edith Corse",A->"Evans",H->"0",G->"0",F->"PC 17531",E->"1"}
+{K->"13",D->"F",C->"22.0",B->"Mrs. Albert Francis (Sylvia Mae Harbaugh)",A->"Caldwell",H->"1.0",G->"1.0",F->"248738",E->"2"}
+{K->"10",D->"M",C->"1.0",B->"Master. Andre",A->"Mallet",H->"2.0",G->"0.0",F->"S.C./PARIS 2079",E->"2"}
+{K->"14",D->"F",C->"48.0",B->"Mrs. John Morgan (Elizabeth Agnes Mary White)",A->"Davies",H->"2.0",G->"0.0",F->"C.A. 33112",E->"2"}
+{K->"null",D->"male",C->"null",B->"Mr. Richard William",A->"Smith",H->"0",G->"0",F->"113056",E->"1"}
+{K->"8",D->"female",C->"39.0",B->"Mrs. Emil (Tillie Mandelbaum)",A->"Taussig",H->"1",G->"1",F->"110413",E->"1"}
+{K->"null",D->"M",C->"30.0",B->"Rev. William",A->"Lahtinen",H->"1.0",G->"1.0",F->"250651",E->"2"}
+{K->"null",D->"male",C->"28.0",B->"Mr. Francisco M",A->"Carrau",H->"0",G->"0",F->"113059",E->"1"}
+{K->"null",D->"male",C->"null",B->"Mr. John D",A->"Baumann",H->"0",G->"0",F->"PC 17318",E->"1"}
+{K->"null",D->"M",C->"24.0",B->"Mr. Ralph",A->"Giles",H->"0.0",G->"0.0",F->"248726",E->"2"}
+{K->"null",D->"male",C->"37.0",B->"Mr. Jacques Heath",A->"Futrelle",H->"0",G->"1",F->"113803",E->"1"}
+{K->"6",D->"female",C->"null",B->"Mrs. (Edith Martha Bowerman)",A->"Chibnall",H->"1",G->"0",F->"113505",E->"1"}
+{K->"null",D->"M",C->"21.0",B->"Mr. Ingvar",A->"Enander",H->"0.0",G->"0.0",F->"236854",E->"2"}
+{K->"5",D->"male",C->"25.0",B->"Mr. George Achilles",A->"Harder",H->"0",G->"1",F->"11765",E->"1"}
+{K->"9",D->"female",C->"24.0",B->"Mme. Leontine Pauline",A->"Aubart",H->"0",G->"0",F->"PC 17477",E->"1"}
+{K->"null",D->"M",C->"30.0",B->"Mr. Reginald",A->"Hale",H->"0.0",G->"0.0",F->"250653",E->"2"}
+{K->"6",D->"female",C->"31.0",B->"Miss. Madeleine",A->"Newell",H->"0",G->"1",F->"35273",E->"1"}
+{K->"3",D->"male",C->"6.0",B->"Master. Robert Douglas",A->"Spedden",H->"2",G->"0",F->"16966",E->"1"}
+{K->"null",D->"male",C->"21.0",B->"Mr. Richard Frasar",A->"White",H->"1",G->"0",F->"35281",E->"1"}
+{K->"15",D->"M",C->"62.0",B->"Mr. George",A->"Harris",H->"0.0",G->"0.0",F->"S.W./PP 752",E->"2"}
+{K->"null",D->"M",C->"18.5",B->"Mr. George",A->"Swane",H->"0.0",G->"0.0",F->"248734",E->"2"}
+{K->"null",D->"male",C->"62.0",B->"Mr. George",A->"Wright",H->"0",G->"0",F->"113807",E->"1"}
+{K->"null",D->"M",C->"52.0",B->"Mr. Charles Henry",A->"Chapman",H->"0.0",G->"0.0",F->"248731",E->"2"}
+{K->"null",D->"M",C->"18.0",B->"Mr. Charles Henry",A->"Davies",H->"0.0",G->"0.0",F->"S.O.C. 14879",E->"2"}
+{K->"9",D->"F",C->"45.0",B->"Mrs. Florence 'Fannie'",A->"Kelly",H->"0.0",G->"0.0",F->"223596",E->"2"}
+{K->"3",D->"male",C->"35.0",B->"Mr. Gustave J",A->"Lesurer",H->"0",G->"0",F->"PC 17755",E->"1"}
+{K->"null",D->"male",C->"null",B->"Mr. Herbert Henry",A->"Hilliard",H->"0",G->"0",F->"17463",E->"1"}
+{K->"null",D->"male",C->"70.0",B->"Capt. Edward Gifford",A->"Crosby",H->"1",G->"1",F->"WE/P 5735",E->"1"}
+{K->"7",D->"female",C->"19.0",B->"Mrs. Dickinson H (Helen Walton)",A->"Bishop",H->"0",G->"1",F->"11967",E->"1"}
+{K->"10",D->"female",C->"60.0",B->"Mrs. Mark (Mary McDougald)",A->"Fortune",H->"4",G->"1",F->"19950",E->"1"}
+{K->"11",D->"F",C->"24.0",B->"Miss. Amelia 'Mildred'",A->"Brown",H->"0.0",G->"0.0",F->"248733",E->"2"}
+{K->"null",D->"M",C->"42.0",B->"Mr. Sidney Samuel",A->"Jacobsohn",H->"0.0",G->"1.0",F->"243847",E->"2"}
+{K->"null",D->"male",C->"null",B->"Mr. Fletcher Fellows",A->"Williams-Lambert",H->"0",G->"0",F->"113510",E->"1"}
+{K->"12",D->"F",C->"24.0",B->"Mrs. Sidney Samuel (Amy Frances Christy)",A->"Jacobsohn",H->"1.0",G->"2.0",F->"243847",E->"2"}
+{K->"14",D->"F",C->"35.0",B->"Miss. Clear Annie",A->"Cameron",H->"0.0",G->"0.0",F->"F.C.C. 13528",E->"2"}
+{K->"5",D->"male",C->"27.0",B->"Mr. Norman Campbell",A->"Chambers",H->"0",G->"1",F->"113806",E->"1"}
+{K->"6",D->"female",C->"54.0",B->"Mrs. Martin (Elizabeth L. Barrett)",A->"Rothschild",H->"0",G->"1",F->"PC 17603",E->"1"}
+{K->"null",D->"M",C->"null",B->"Mr. Noel",A->"Malachard",H->"0.0",G->"0.0",F->"237735",E->"2"}
+{K->"10",D->"F",C->"24.0",B->"Mrs. Albert (Antoinette Magnin)",A->"Mallet",H->"1.0",G->"1.0",F->"S.C./PARIS 2079",E->"2"}
+{K->"null",D->"male",C->"30.0",B->"Mr. Hudson Joshua Creighton",A->"Allison",H->"2",G->"1",F->"113781",E->"1"}
+{K->"null",D->"M",C->"28.0",B->"Mr. Henry James",A->"Beauchamp",H->"0.0",G->"0.0",F->"244358",E->"2"}
+{K->"null",D->"M",C->"27.0",B->"Rev. Juozas",A->"Montvila",H->"0.0",G->"0.0",F->"211536",E->"2"}
+{K->"5",D->"female",C->"48.0",B->"Mrs. Maxmillian (Margaretha Emerentia Stehli)",A->"Frolicher-Stehli",H->"1",G->"1",F->"13567",E->"1"}
+{K->"null",D->"F",C->"24.0",B->"Miss. Henriette ('Mrs Harbeck')",A->"Yrois",H->"0.0",G->"0.0",F->"248747",E->"2"}
+{K->"13",D->"M",C->"26.0",B->"Mr. Albert Francis",A->"Caldwell",H->"1.0",G->"1.0",F->"248738",E->"2"}
+{K->"4",D->"female",C->"16.0",B->"Miss. Jean Gertrude",A->"Hippach",H->"1",G->"0",F->"111361",E->"1"}
+{K->"5",D->"female",C->"54.0",B->"Mrs. Washington (Ruth Vidaver)",A->"Dodge",H->"1",G->"1",F->"33638",E->"1"}
+{K->"null",D->"male",C->"56.0",B->"Mr. John Montgomery",A->"Smart",H->"0",G->"0",F->"113792",E->"1"}
+{K->"11",D->"F",C->"20.0",B->"Miss. Maude",A->"Sincock",H->"0.0",G->"0.0",F->"C.A. 33112",E->"2"}
+{K->"null",D->"male",C->"39.0",B->"Mr. John Bradley",A->"Cumings",H->"0",G->"1",F->"PC 17599",E->"1"}
+{K->"7",D->"male",C->"28.0",B->"Mr. William Thompson",A->"Sloper",H->"0",G->"0",F->"113788",E->"1"}
+{K->"null",D->"M",C->"28.0",B->"Mr. Erik Gustaf",A->"Collander",H->"0.0",G->"0.0",F->"248740",E->"2"}
+{K->"7",D->"female",C->"36.0",B->"Miss. Harriet R",A->"Crosby",H->"2",G->"0",F->"WE/P 5735",E->"1"}
+{K->"1",D->"male",C->"49.0",B->"Sir. Cosmo Edmund ('Mr Morgan')",A->"Duff Gordon",H->"0",G->"1",F->"PC 17485",E->"1"}
+{K->"11",D->"F",C->"4.0",B->"Miss. Marion Louise",A->"Becker",H->"1.0",G->"2.0",F->"230136",E->"2"}
+{K->"null",D->"M",C->"null",B->"Mr. John Joseph",A->"Lamb",H->"0.0",G->"0.0",F->"240261",E->"2"}
+{K->"D",D->"female",C->"35.0",B->"Mrs. Jacques Heath (Lily May Peel)",A->"Futrelle",H->"0",G->"1",F->"113803",E->"1"}
+{K->"6",D->"female",C->"23.0",B->"Miss. Marjorie",A->"Newell",H->"0",G->"1",F->"35273",E->"1"}
+{K->"null",D->"F",C->"30.0",B->"Mrs. Walter H (Irene Colvin)",A->"Corbett",H->"0.0",G->"0.0",F->"237249",E->"2"}
+{K->"D",D->"M",C->"2.0",B->"Master. Edmond Roger",A->"Navratil",H->"1.0",G->"1.0",F->"230080",E->"2"}
+{K->"null",D->"male",C->"61.0",B->"Mr. Wyckoff",A->"Van der hoef",H->"0",G->"0",F->"111240",E->"1"}
+{K->"3",D->"female",C->"49.0",B->"Mrs. Henry Sleeper (Myna Haxtun)",A->"Harper",H->"0",G->"1",F->"PC 17572",E->"1"}
+{K->"8",D->"female",C->"30.0",B->"Miss. Caroline",A->"Bonnell",H->"0",G->"0",F->"36928",E->"1"}
+{K->"C",D->"male",C->"49.0",B->"Mr. Joseph Bruce",A->"Ismay",H->"0",G->"0",F->"112058",E->"1"}
+{K->"null",D->"M",C->"29.0",B->"Mr. Reginald Charles",A->"Coleridge",H->"0.0",G->"0.0",F->"W./C. 14263",E->"2"}
+{K->"6",D->"female",C->"53.0",B->"Mrs. Edward (Helen Churchill Hungerford)",A->"Candee",H->"0",G->"0",F->"PC 17606",E->"1"}
+{K->"null",D->"male",C->"46.0",B->"Mr. Benjamin",A->"Guggenheim",H->"0",G->"0",F->"PC 17593",E->"1"}
+{K->"null",D->"M",C->"43.0",B->"Mr. Benjamin",A->"Hart",H->"1.0",G->"1.0",F->"F.C.C. 13529",E->"2"}
+{K->"null",D->"M",C->"63.0",B->"Mr. Benjamin",A->"Howard",H->"0.0",G->"1.0",F->"24065",E->"2"}
+{K->"13",D->"M",C->"22.0",B->"Mr. Percy Thomas",A->"Oxenham",H->"0.0",G->"0.0",F->"W./C. 14260",E->"2"}
+{K->"16",D->"F",C->"18.0",B->"Miss. Lyyli Karoliina",A->"Silven",H->"2.0",G->"0.0",F->"250652",E->"2"}
+{K->"6",D->"female",C->"24.0",B->"Mlle. Berthe Antonine ('Mrs de Villiers')",A->"Mayne",H->"0",G->"0",F->"PC 17482",E->"1"}
+{K->"7",D->"male",C->"25.0",B->"Mr. Dickinson H",A->"Bishop",H->"0",G->"1",F->"11967",E->"1"}
+{K->"12",D->"M",C->"34.0",B->"Mr. Peter Henry",A->"Renouf",H->"0.0",G->"1.0",F->"31027",E->"2"}
+{K->"null",D->"male",C->"47.0",B->"Mr. Walter Chamberlain",A->"Porter",H->"0",G->"0",F->"110465",E->"1"}
+{K->"6",D->"female",C->"62.0",B->"Mrs. George Nelson (Martha Evelyn)",A->"Stone",H->"0",G->"0",F->"113572",E->"1"}
+{K->"4",D->"female",C->"38.0",B->"Mrs. John Bradley (Florence Briggs Thayer)",A->"Cumings",H->"0",G->"1",F->"PC 17599",E->"1"}
+{K->"null",D->"M",C->"29.0",B->"Mr. Charles Valentine",A->"Clarke",H->"0.0",G->"1.0",F->"2003",E->"2"}
+{K->"null",D->"M",C->"32.0",B->"Mr. Lewis",A->"Hickman",H->"0.0",G->"2.0",F->"S.O.C. 14879",E->"2"}
+{K->"null",D->"male",C->"38.0",B->"Jonkheer. John George",A->"Reuchlin",H->"0",G->"0",F->"19972",E->"1"}
+{K->"14",D->"F",C->"1.0",B->"Miss. Louise",A->"Laroche",H->"2.0",G->"1.0",F->"SC/Paris 2123",E->"2"}
+{K->"null",D->"male",C->"47.0",B->"Mr. Arthur H",A->"Gee",H->"0",G->"0",F->"111320",E->"1"}
+{K->"10",D->"F",C->"36.0",B->"Mrs. (Ada E Hall)",A->"Ball",H->"0.0",G->"0.0",F->"28551",E->"2"}
+{K->"B",D->"male",C->"80.0",B->"Mr. Algernon Henry Wilson",A->"Barkworth",H->"0",G->"0",F->"27042",E->"1"}
+{K->"4",D->"female",C->"30.0",B->"Miss. Augusta",A->"Serepeca",H->"0",G->"0",F->"113798",E->"1"}
+{K->"null",D->"M",C->"48.0",B->"Mr. Jacob Christian",A->"Milling",H->"0.0",G->"0.0",F->"234360",E->"2"}
+{K->"16",D->"F",C->"27.0",B->"Miss. Edwina Celia 'Winnie'",A->"Troutt",H->"0.0",G->"0.0",F->"34218",E->"2"}
+{K->"A",D->"male",C->"21.0",B->"Mr. Richard Norris II",A->"Williams",H->"1",G->"0",F->"PC 17597",E->"1"}
+{K->"null",D->"male",C->"47.0",B->"Mr. Clarence Bloomfield",A->"Moore",H->"0",G->"0",F->"113796",E->"1"}
+{K->"14",D->"F",C->"22.0",B->"Mrs. Joseph (Juliette Marie Louise Lafargue)",A->"Laroche",H->"2.0",G->"1.0",F->"SC/Paris 2123",E->"2"}
+{K->"D",D->"male",C->"28.0",B->"Mr. Mauritz Hakan",A->"Bjornstrom-Steffansson",H->"0",G->"0",F->"110564",E->"1"}
+{K->"null",D->"M",C->"27.0",B->"Mr. Franz",A->"Pulbaum",H->"0.0",G->"0.0",F->"SC/PARIS 2168",E->"2"}
+{K->"null",D->"male",C->"24.0",B->"Mr. Quigg Edmond",A->"Baxter",H->"1",G->"0",F->"PC 17558",E->"1"}
+{K->"null",D->"male",C->"null",B->"Mr. Ervin G",A->"Lewy",H->"0",G->"0",F->"PC 17612",E->"1"}
+{K->"8",D->"female",C->"55.0",B->"Mrs. John Stuart (Ella Holmes)",A->"White",H->"0",G->"0",F->"PC 17760",E->"1"}
+{K->"8",D->"female",C->"31.0",B->"Miss. Mary Natalie",A->"Wick",H->"2",G->"0",F->"36928",E->"1"}
+{K->"6",D->"female",C->"50.0",B->"Mrs. James (Helene DeLaudeniere Chaput)",A->"Baxter",H->"1",G->"0",F->"PC 17558",E->"1"}
+{K->"9",D->"M",C->"24.0",B->"Mr. Sidney C Stuart",A->"Collett",H->"0.0",G->"0.0",F->"28034",E->"2"}
+{K->"null",D->"M",C->"23.0",B->"Mr. Emile",A->"Richard",H->"0.0",G->"0.0",F->"SC/PARIS 2133",E->"2"}
+{K->"null",D->"M",C->"28.0",B->"Mr. Clifford Richard",A->"Parker",H->"0.0",G->"0.0",F->"SC 14888",E->"2"}
+{K->"10",D->"female",C->"21.0",B->"Miss. Gretchen Fiske",A->"Longley",H->"0",G->"0",F->"13502",E->"1"}
+{K->"null",D->"M",C->"42.0",B->"Rev. Thomas Roussel Davids",A->"Byles",H->"0.0",G->"0.0",F->"244310",E->"2"}
+{K->"3",D->"female",C->"58.0",B->"Mrs. William Thompson (Edith Junkins)",A->"Graham",H->"1",G->"0",F->"PC 17582",E->"1"}
+{K->"null",D->"M",C->"50.0",B->"Mr. Henry Price",A->"Hodges",H->"0.0",G->"0.0",F->"250643",E->"2"}
+{K->"null",D->"M",C->"18.0",B->"Mr. Edgardo Samuel",A->"Andrew",H->"0.0",G->"0.0",F->"231945",E->"2"}
+{K->"7",D->"female",C->"23.0",B->"Mrs. Boulton (Olive Potter)",A->"Earnshaw",H->"1",G->"0",F->"11767",E->"1"}
+{K->"6",D->"female",C->"38.0",B->"Miss. Amelie",A->"Icard",H->"0",G->"0",F->"113572",E->"1"}
+{K->"3",D->"male",C->"null",B->"Mr. Adolphe",A->"Saalfeld",H->"0",G->"0",F->"19988",E->"1"}
+{K->"null",D->"M",C->"27.0",B->"Mr. James H",A->"Bracken",H->"0.0",G->"0.0",F->"220367",E->"2"}
+{K->"9",D->"F",C->"40.0",B->"Mrs. James (Elizabeth 'Bessie' Inglis Milne)",A->"Watt",H->"0.0",G->"0.0",F->"C.A. 33595",E->"2"}
+{K->"null",D->"M",C->"31.0",B->"Mr. Johan Henrik Johannesson",A->"Kvillner",H->"0.0",G->"0.0",F->"C.A. 18723",E->"2"}
+{K->"14",D->"F",C->"13.0",B->"Miss. Madeleine Violet",A->"Mellinger",H->"1.0",G->"0.0",F->"250644",E->"2"}
+{K->"7",D->"female",C->"24.0",B->"Miss. Margaret Bechstein",A->"Hays",H->"0",G->"0",F->"11767",E->"1"}
+{K->"5",D->"female",C->"22.0",B->"Miss. Helene Ragnhild",A->"Ostby",H->"1",G->"0",F->"113509",E->"1"}
+{K->"5",D->"female",C->"43.0",B->"Mrs. Charles Emil Henry (Annie May Morris)",A->"Stengel",H->"0",G->"1",F->"11778",E->"1"}
+{K->"6",D->"female",C->"55.0",B->"Mrs. Carl Johan (Sigrid Posse)",A->"Lindstrom",H->"0",G->"0",F->"112377",E->"1"}
+{K->"7",D->"male",C->"45.0",B->"Mr. Paul Romaine",A->"Chevre",H->"0",G->"0",F->"PC 17594",E->"1"}
+{K->"5",D->"female",C->"null",B->"Mrs. Samuel L (Edwiga Grabowska)",A->"Goldenberg",H->"0",G->"1",F->"17453",E->"1"}
+{K->"5",D->"male",C->"50.0",B->"Dr. Henry William",A->"Frauenthal",H->"0",G->"2",F->"PC 17611",E->"1"}
+{K->"7",D->"male",C->"null",B->"Mr. Alfred Fernand",A->"Omont",H->"0",G->"0",F->"F.C. 12998",E->"1"}
+{K->"3",D->"female",C->"31.0",B->"Miss. Helen Alice",A->"Wilson",H->"0",G->"0",F->"16966",E->"1"}
+{K->"null",D->"male",C->"56.0",B->"Mr. James Clinch",A->"Smith",H->"0",G->"0",F->"17764",E->"1"}
+{K->"11",D->"female",C->"35.0",B->"Mrs. Paul (Emma Mock)",A->"Schabert",H->"0",G->"1",F->"13236",E->"1"}
+{K->"7",D->"female",C->"45.0",B->"Mrs. Leo David (Blanche Strouse)",A->"Greenfield",H->"1",G->"0",F->"PC 17759",E->"1"}
+{K->"14",D->"F",C->"45.0",B->"Mrs. Benjamin (Esther Ada Bloomfield)",A->"Hart",H->"1.0",G->"1.0",F->"F.C.C. 13529",E->"2"}
+{K->"null",D->"M",C->"28.0",B->"Mr. Robert Douglas",A->"Norman",H->"0.0",G->"0.0",F->"218629",E->"2"}
+{K->"13",D->"F",C->"30.0",B->"Miss. Hilda Mary",A->"Slayter",H->"0.0",G->"0.0",F->"234818",E->"2"}
+{K->"null",D->"M",C->"null",B->"Mr. Edwin 'Frederick'",A->"Wheeler",H->"0.0",G->"0.0",F->"SC/PARIS 2159",E->"2"}
+{K->"14",D->"F",C->"40.0",B->"Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",A->"Brown",H->"1.0",G->"1.0",F->"29750",E->"2"}
+{K->"null",D->"M",C->"25.0",B->"Mr. Kurt Arnold Gottfrid",A->"Bryhl",H->"0.0",G->"1.0",F->"236853",E->"2"}
+{K->"null",D->"M",C->"35.0",B->"Mr. Daniel",A->"Keane",H->"0.0",G->"0.0",F->"233734",E->"2"}
+{K->"null",D->"M",C->"40.0",B->"Mr. Frank Hubert",A->"Maybery",H->"0.0",G->"0.0",F->"239059",E->"2"}
+{K->"5",D->"male",C->"4.0",B->"Master. Washington",A->"Dodge",H->"2",G->"0",F->"33638",E->"1"}
+{K->"6",D->"female",C->"18.0",B->"Mrs. Lucien Philip (Mary Eloise Hughes)",A->"Smith",H->"0",G->"1",F->"13695",E->"1"}
+{K->"null",D->"M",C->"54.0",B->"Rev. Ernest Courtenay",A->"Carter",H->"0.0",G->"1.0",F->"244252",E->"2"}
+{K->"13",D->"F",C->"28.0",B->"Miss. Mary",A->"Davis",H->"0.0",G->"0.0",F->"237668",E->"2"}
+{K->"null",D->"F",C->"27.0",B->"Mrs. William John Robert (Dorothy Ann Wonnacott)",A->"Turpin",H->"0.0",G->"1.0",F->"11668",E->"2"}
+{K->"null",D->"M",C->"23.0",B->"Mr. William John",A->"Berriman",H->"0.0",G->"0.0",F->"28425",E->"2"}
+{K->"null",D->"M",C->"30.0",B->"Mr. William John",A->"Matthews",H->"0.0",G->"0.0",F->"28228",E->"2"}
+{K->"B",D->"M",C->"19.0",B->"Mr. William John",A->"Mellors",H->"0.0",G->"0.0",F->"SW/PP 751",E->"2"}
+{K->"null",D->"M",C->"null",B->"Mr. William",A->"Campbell",H->"0.0",G->"0.0",F->"239853",E->"2"}
+{K->"null",D->"M",C->"19.0",B->"Mr. William",A->"Carbines",H->"0.0",G->"0.0",F->"28424",E->"2"}
+{K->"null",D->"M",C->"18.0",B->"Mr. William",A->"Dibden",H->"0.0",G->"0.0",F->"S.O.C. 14879",E->"2"}
+{K->"null",D->"M",C->"47.0",B->"Mr. William",A->"Gilbert",H->"0.0",G->"0.0",F->"C.A. 30769",E->"2"}
+{K->"null",D->"male",C->"40.0",B->"Mr. William",A->"Harrison",H->"0",G->"0",F->"112059",E->"1"}
+{K->"null",D->"M",C->"41.0",B->"Rev. Joseph Maria",A->"Peruschitz",H->"0.0",G->"0.0",F->"237393",E->"2"}
+{K->"4",D->"M",C->"3.0",B->"Master. William Rowe",A->"Richards",H->"1.0",G->"1.0",F->"29106",E->"2"}
+{K->"null",D->"M",C->"31.0",B->"Mr. Harvey",A->"Collyer",H->"1.0",G->"1.0",F->"C.A. 31921",E->"2"}
+{K->"12",D->"F",C->"50.0",B->"Mrs. (Lutie Davis)",A->"Parrish",H->"1.0",G->"0.0",F->"230433",E->"2"}
+{K->"10",D->"F",C->"28.0",B->"Mrs. Samuel (Hannah Wizosky)",A->"Abelson",H->"0.0",G->"1.0",F->"P/PP 3381",E->"2"}
+{K->"null",D->"M",C->"34.0",B->"Mr. William A",A->"Angle",H->"0.0",G->"1.0",F->"226875",E->"2"}
+{K->"D",D->"female",C->"35.0",B->"Mrs. Henry Birkhardt (Irene Wallach)",A->"Harris",H->"0",G->"1",F->"36973",E->"1"}
+{K->"3",D->"female",C->"17.0",B->"Mrs. Albert Adrian (Vera Gillespie)",A->"Dick",H->"0",G->"1",F->"17474",E->"1"}
+{K->"null",D->"male",C->"39.0",B->"Mr. William Crothers",A->"Dulles",H->"0",G->"0",F->"PC 17580",E->"1"}
+{K->"null",D->"M",C->"36.0",B->"Mr. Edwy Arthur",A->"West",H->"2.0",G->"1.0",F->"C.A. 34651",E->"2"}
+{K->"null",D->"M",C->"26.0",B->"Mr. Israel",A->"Nesson",H->"0.0",G->"0.0",F->"244368",E->"2"}
+{K->"null",D->"male",C->"27.0",B->"Mr. Walter Miller",A->"Clark",H->"0",G->"1",F->"13508",E->"1"}
+{K->"null",D->"M",C->"42.0",B->"Mr. James Vivian",A->"Drew",H->"1.0",G->"1.0",F->"28220",E->"2"}
+{K->"null",D->"male",C->"55.0",B->"Mr. Harry Markland",A->"Molson",H->"0",G->"0",F->"113787",E->"1"}
+{K->"5",D->"male",C->"42.0",B->"Mr. Edwin Nelson Jr",A->"Kimball",H->"0",G->"1",F->"11753",E->"1"}
+{K->"A",D->"male",C->"null",B->"Mr. George Alexander Lucien",A->"Rheims",H->"0",G->"0",F->"PC 17607",E->"1"}
+{K->"null",D->"male",C->"32.5",B->"Mr. Edwin",A->"Keeping",H->"0",G->"0",F->"113503",E->"1"}
+{K->"null",D->"M",C->"null",B->"Mr. Rene",A->"Pernot",H->"0.0",G->"0.0",F->"SC/PARIS 2131",E->"2"}
+{K->"5",D->"male",C->"35.0",B->"Mr. Spencer Victor",A->"Silverthorne",H->"0",G->"0",F->"PC 17475",E->"1"}
+{K->"13",D->"F",C->"55.0",B->"Mrs. (Mary D Kingcome)",A->"Hewlett",H->"0.0",G->"0.0",F->"248706",E->"2"}
+{K->"null",D->"M",C->"31.0",B->"Mr. Albert",A->"Mallet",H->"1.0",G->"1.0",F->"S.C./PARIS 2079",E->"2"}
+{K->"4",D->"female",C->"18.0",B->"Miss. Emily Borie",A->"Ryerson",H->"2",G->"2",F->"PC 17608",E->"1"}
+{K->"3",D->"female",C->"40.0",B->"Mrs. Frederic Oakley (Margaretta Corning Stone)",A->"Spedden",H->"1",G->"1",F->"16966",E->"1"}
+{K->"10",D->"F",C->"29.0",B->"Mrs. Stephen (Annie Margaret Hill)",A->"Hold",H->"0.0",G->"1.0",F->"26707",E->"2"}
+{K->"null",D->"male",C->"58.0",B->"Mr. Arthur Webster",A->"Newell",H->"2",G->"0",F->"35273",E->"1"}
+{K->"null",D->"M",C->"57.0",B->"Mr. John",A->"Ashby",H->"0.0",G->"0.0",F->"244346",E->"2"}
+{K->"null",D->"male",C->"null",B->"Mr. John",A->"Farthing",H->"0",G->"0",F->"PC 17483",E->"1"}
+{K->"null",D->"M",C->"61.0",B->"Mr. John",A->"Lingane",H->"0.0",G->"0.0",F->"235509",E->"2"}
+{K->"6",D->"male",C->"52.0",B->"Major. Arthur Godfrey",A->"Peuchen",H->"0",G->"0",F->"113786",E->"1"}
+{K->"4",D->"M",C->"0.8333",B->"Master. George Sibley",A->"Richards",H->"1.0",G->"1.0",F->"29106",E->"2"}
+{K->"4",D->"female",C->"54.0",B->"Miss. Elizabeth Mussey",A->"Eustis",H->"0",G->"1",F->"36947",E->"1"}
+{K->"4",D->"male",C->"13.0",B->"Master. John Borie",A->"Ryerson",H->"2",G->"2",F->"PC 17608",E->"1"}
+{K->"8 10",D->"female",C->"21.0",B->"Miss. Constance",A->"Willard",H->"0",G->"0",F->"113795",E->"1"}
+{K->"11",D->"F",C->"19.0",B->"Miss. Kate Florence ('Mrs Kate Louise Phillips Marshall')",A->"Phillips",H->"0.0",G->"0.0",F->"250655",E->"2"}
+{K->"8",D->"female",C->"45.0",B->"Mrs. George Dennick (Mary Hitchcock)",A->"Wick",H->"1",G->"1",F->"36928",E->"1"}
+{K->"null",D->"M",C->"18.0",B->"Mr. Joseph Charles",A->"Fillbrook",H->"0.0",G->"0.0",F->"C.A. 15185",E->"2"}
+{K->"null",D->"M",C->"19.0",B->"Mr. Joseph Charles",A->"Nicholls",H->"1.0",G->"1.0",F->"C.A. 33112",E->"2"}
+{K->"5",D->"female",C->"60.0",B->"Mrs. Frank Manley (Anna Sophia Atkinson)",A->"Warren",H->"0",G->"1",F->"110813",E->"1"}
+{K->"null",D->"male",C->"57.0",B->"Mr. William Augustus",A->"Spencer",H->"0",G->"1",F->"PC 17569",E->"1"}
+{K->"null",D->"male",C->"null",B->"Mr. Thomas Parham",A->"Franklin",H->"0",G->"0",F->"113778",E->"1"}
+{K->"null",D->"M",C->"70.0",B->"Mr. Henry Michael",A->"Mitchell",H->"0.0",G->"0.0",F->"C.A. 24580",E->"2"}
+{K->"null",D->"male",C->"49.0",B->"Mr. John Borland",A->"Thayer",H->"1",G->"1",F->"17421",E->"1"}
+{K->"null",D->"M",C->"null",B->"Mr. Anthony Wood 'Archie'",A->"Frost",H->"0.0",G->"0.0",F->"239854",E->"2"}
+{K->"9",D->"female",C->"16.0",B->"Miss. Mary Conover",A->"Lines",H->"1",G->"0",F->"PC 17592",E->"1"}
+{K->"7",D->"male",C->"null",B->"Mr. Pierre",A->"Marechal",H->"0",G->"0",F->"11774",E->"1"}
+{K->"7",D->"male",C->"24.0",B->"Mr. John Pillsbury",A->"Snyder",H->"0",G->"1",F->"21228",E->"1"}
+{K->"11",D->"F",C->"null",B->"Miss. Jessie Wills",A->"Leitch",H->"0.0",G->"0.0",F->"248727",E->"2"}
+{K->"6",D->"female",C->"22.0",B->"Miss. Elsie Edith",A->"Bowerman",H->"1",G->"0",F->"113505",E->"1"}
+{K->"null",D->"M",C->"28.0",B->"Mr. Frederick James",A->"Banfield",H->"0.0",G->"0.0",F->"C.A./SOTON 34068",E->"2"}
+{K->"null",D->"M",C->"null",B->"Mr. Francis 'Frank'",A->"Parkes",H->"0.0",G->"0.0",F->"239853",E->"2"}
+{K->"null",D->"female",C->"25.0",B->"Mrs. Hudson J C (Bessie Waldo Daniels)",A->"Allison",H->"2",G->"1",F->"113781",E->"1"}
+{K->"B",D->"male",C->"17.0",B->"Mr. John Borland Jr",A->"Thayer",H->"2",G->"0",F->"17421",E->"1"}
+{K->"5",D->"male",C->"49.0",B->"Mr. Samuel L",A->"Goldenberg",H->"0",G->"1",F->"17453",E->"1"}
+{K->"4",D->"F",C->"54.0",B->"Mrs. Elizabeth (Eliza Needs)",A->"Hocking",H->"3.0",G->"1.0",F->"29105",E->"2"}
+{K->"5",D->"female",C->"45.0",B->"Mrs. Edwin Nelson Jr (Gertrude Parsons)",A->"Kimball",H->"0",G->"1",F->"11753",E->"1"}
+{K->"3",D->"female",C->"41.0",B->"Miss. Elizabeth Margaret",A->"Burns",H->"0",G->"0",F->"16966",E->"1"}
+{K->"null",D->"M",C->"44.0",B->"Mr. William H",A->"Harbeck",H->"0.0",G->"0.0",F->"248746",E->"2"}
+{K->"null",D->"female",C->"58.0",B->"Miss. Elise",A->"Lurette",H->"0",G->"0",F->"PC 17569",E->"1"}
+{K->"9",D->"F",C->"26.0",B->"Miss. Marion",A->"Wright",H->"0.0",G->"0.0",F->"220844",E->"2"}
+{K->"2",D->"female",C->"55.0",B->"Mrs. Robert Clifford (Malvina Helen Lamson)",A->"Cornell",H->"0",G->"2",F->"11770",E->"1"}
+{K->"D",D->"female",C->"35.0",B->"Mrs. Frederick Maxfield (Jane Anne Forby)",A->"Hoyt",H->"0",G->"1",F->"19943",E->"1"}
+{K->"null",D->"M",C->"59.0",B->"Mr. Ernst Adolf",A->"Sjostedt",H->"0.0",G->"0.0",F->"237442",E->"2"}
+{K->"13",D->"F",C->"12.0",B->"Miss. Ruth Elizabeth",A->"Becker",H->"1.0",G->"2.0",F->"230136",E->"2"}
+{K->"null",D->"male",C->"30.0",B->"Mr. Joseph Holland",A->"Loring",H->"0",G->"0",F->"113801",E->"1"}
+{K->"null",D->"F",C->"42.0",B->"Mrs. (Karolina)",A->"Bystrom",H->"0.0",G->"0.0",F->"236852",E->"2"}
+{K->"14",D->"F",C->"41.0",B->"Mrs. (Elizabeth Anne Maidment)",A->"Mellinger",H->"1.0",G->"0.0",F->"250644",E->"2"}
+{K->"2",D->"female",C->"15.0",B->"Miss. Georgette Alexandra",A->"Madill",H->"1",G->"0",F->"24160",E->"1"}
+{K->"5",D->"female",C->"22.0",B->"Miss. Hedwig Margaritha",A->"Frolicher",H->"2",G->"0",F->"13568",E->"1"}
+{K->"null",D->"M",C->"23.0",B->"Dr. Alfred",A->"Pain",H->"0.0",G->"0.0",F->"244278",E->"2"}
+{K->"null",D->"male",C->"46.0",B->"Mr. Thomas Francis",A->"McCaffry",H->"0",G->"0",F->"13050",E->"1"}
+{K->"null",D->"M",C->"62.0",B->"Mr. Thomas Francis",A->"Myles",H->"0.0",G->"0.0",F->"240276",E->"2"}
+{K->"4",D->"F",C->"24.0",B->"Mrs. Sidney (Emily Hocking)",A->"Richards",H->"3.0",G->"2.0",F->"29106",E->"2"}
+{K->"null",D->"M",C->"21.0",B->"Mr. Ambrose Jr",A->"Hood",H->"0.0",G->"0.0",F->"S.O.C. 14879",E->"2"}
+{K->"null",D->"male",C->"38.0",B->"Mr. George Edward",A->"Graham",H->"1",G->"0",F->"PC 17582",E->"1"}
+{K->"12",D->"F",C->"45.0",B->"Mrs. (Alice Frances)",A->"Christy",H->"2.0",G->"0.0",F->"237789",E->"2"}
+{K->"4",D->"female",C->"26.0",B->"Mrs. Walter Miller (Virginia McDowell)",A->"Clark",H->"0",G->"1",F->"13508",E->"1"}
+{K->"null",D->"male",C->"28.0",B->"Mr. Edgar Joseph",A->"Meyer",H->"0",G->"1",F->"PC 17604",E->"1"}
+{K->"null",D->"male",C->"25.0",B->"Mr. Jakob",A->"Birnbaum",H->"0",G->"0",F->"13905",E->"1"}
+{K->"null",D->"M",C->"32.0",B->"Mr. Arthur Gordon",A->"McCrae",H->"0.0",G->"0.0",F->"237216",E->"2"}
+{K->"null",D->"male",C->"24.0",B->"Mr. Victor",A->"Giglio",H->"0",G->"0",F->"PC 17593",E->"1"}
+{K->"null",D->"male",C->"null",B->"Mr. Victor",A->"Robbins",H->"0",G->"0",F->"PC 17757",E->"1"}
+{K->"null",D->"M",C->"35.0",B->"Mr. Joseph J",A->"Fynney",H->"0.0",G->"0.0",F->"239865",E->"2"}
+{K->"4",D->"female",C->"48.0",B->"Mrs. Arthur Larned (Emily Maria Borie)",A->"Ryerson",H->"3",G->"1",F->"PC 17608",E->"1"}
+{K->"8",D->"female",C->"35.0",B->"Miss. Amelia",A->"Bissette",H->"0",G->"0",F->"PC 17760",E->"1"}
+{K->"null",D->"M",C->"30.0",B->"Mr. Samuel",A->"Abelson",H->"0.0",G->"1.0",F->"P/PP 3381",E->"2"}
+{K->"null",D->"M",C->"52.0",B->"Mr. Samuel",A->"Greenberg",H->"0.0",G->"0.0",F->"250647",E->"2"}
+{K->"null",D->"M",C->"49.0",B->"Mr. Samuel",A->"Herman",H->"2.0",G->"1.0",F->"220845",E->"2"}
+{K->"null",D->"M",C->"30.0",B->"Mr. Charles Augustus",A->"Aldworth",H->"0.0",G->"0.0",F->"248744",E->"2"}
+{K->"null",D->"M",C->"24.0",B->"Mr. Robert William Norman",A->"Leyson",H->"0.0",G->"0.0",F->"C.A. 29566",E->"2"}
+{K->"null",D->"M",C->"57.0",B->"Rev. Charles Leonard",A->"Kirkland",H->"0.0",G->"0.0",F->"219533",E->"2"}
+{K->"null",D->"male",C->"50.0",B->"Mr. Walter Donald",A->"Douglas",H->"0",G->"1",F->"PC 17761",E->"1"}
+{K->"7",D->"male",C->"23.0",B->"Mr. William Bertram",A->"Greenfield",H->"1",G->"0",F->"PC 17759",E->"1"}
+{K->"14",D->"M",C->"30.0",B->"Mr. Emilio Ilario Giuseppe",A->"Portaluppi",H->"0.0",G->"0.0",F->"C.A. 34644",E->"2"}
+{K->"3",D->"male",C->"31.0",B->"Mr. Albert Adrian",A->"Dick",H->"0",G->"1",F->"17474",E->"1"}
+{K->"null",D->"M",C->"34.0",B->"Mr. Shadrach",A->"Gale",H->"0.0",G->"1.0",F->"28664",E->"2"}
+{K->"14",D->"female",C->"64.0",B->"Mrs. Alexander Taylor (Mary Eliza Ingersoll)",A->"Compton",H->"2",G->"0",F->"PC 17756",E->"1"}
+{K->"null",D->"F",C->"null",B->"Mrs. Percy C (Mary Phyllis Elizabeth Miller)",A->"Corey",H->"0.0",G->"0.0",F->"F.C.C. 13534",E->"2"}
+{K->"null",D->"male",C->"55.0",B->"Mr. Charles Melville",A->"Hays",H->"1",G->"1",F->"12749",E->"1"}
+{K->"5",D->"female",C->"33.0",B->"Mrs. Norman Campbell (Bertha Griggs)",A->"Chambers",H->"0",G->"1",F->"113806",E->"1"}
+{K->"null",D->"male",C->"42.0",B->"Mr. Erik Gustaf ('Mr Edward Lingrey')",A->"Lindeberg-Lind",H->"0",G->"0",F->"17475",E->"1"}
+{K->"3",D->"male",C->"null",B->"Mr. Walter James",A->"Hawksford",H->"0",G->"0",F->"16988",E->"1"}
+{K->"12",D->"F",C->"25.0",B->"Mrs. William (Imanita Parrish Hall)",A->"Shelley",H->"1.0",G->"0.0",F->"230433",E->"2"}
+{K->"14",D->"female",C->"39.0",B->"Miss. Sara Rebecca",A->"Compton",H->"1",G->"1",F->"PC 17756",E->"1"}
+{K->"14",D->"female",C->"33.0",B->"Miss. Daisy E",A->"Minahan",H->"0",G->"1",F->"19928",E->"1"}
+{K->"null",D->"M",C->"34.0",B->"Mr. William Henry",A->"Gillespie",H->"0.0",G->"0.0",F->"12233",E->"2"}
+{K->"null",D->"M",C->"25.0",B->"Mr. Charles Frederick Waddington",A->"Sedgwick",H->"0.0",G->"0.0",F->"244361",E->"2"}
+{K->"null",D->"M",C->"36.0",B->"Mr. Rene Jacques",A->"Levy",H->"0.0",G->"0.0",F->"SC/Paris 2163",E->"2"}
+{K->"5",D->"female",C->"null",B->"Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",A->"Cassebeer",H->"0",G->"0",F->"17770",E->"1"}
+{K->"null",D->"male",C->"null",B->"Mr. William Henry Marsh",A->"Parr",H->"0",G->"0",F->"112052",E->"1"}
+{K->"null",D->"M",C->"33.0",B->"Mr. George Henry",A->"Hunt",H->"0.0",G->"0.0",F->"SCO/W 1585",E->"2"}
+{K->"null",D->"M",C->"46.0",B->"Mr. Peter David",A->"McKane",H->"0.0",G->"0.0",F->"28403",E->"2"}
+{K->"1",D->"female",C->"30.0",B->"Miss. Laura Mabel",A->"Francatelli",H->"0",G->"0",F->"PC 17485",E->"1"}
+{K->"D",D->"female",C->"null",B->"Mrs. Gertrude Maybelle",A->"Thorne",H->"0",G->"0",F->"PC 17585",E->"1"}
+{K->"null",D->"M",C->"60.0",B->"Mr. Thomas William Solomon",A->"Brown",H->"1.0",G->"1.0",F->"29750",E->"2"}
+{K->"null",D->"M",C->"25.0",B->"Mr. Joseph Philippe Lemercier",A->"Laroche",H->"2.0",G->"1.0",F->"SC/Paris 2123",E->"2"}
+{K->"null",D->"M",C->"23.0",B->"Mr. George Floyd",A->"Eitemiller",H->"0.0",G->"0.0",F->"29751",E->"2"}
+{K->"8",D->"female",C->"48.0",B->"Mrs. Frederick Joel (Margaret Welles Barron)",A->"Swift",H->"0",G->"0",F->"17466",E->"1"}
+{K->"14",D->"M",C->"2.0",B->"Master. Ralph Lester",A->"Wells",H->"1.0",G->"1.0",F->"29103",E->"2"}
+{K->"8",D->"female",C->"30.0",B->"Miss. Gladys",A->"Cherry",H->"0",G->"0",F->"110152",E->"1"}
+{K->"8",D->"female",C->"33.0",B->"the Countess. of (Lucy Noel Martha Dyer-Edwards)",A->"Rothes",H->"0",G->"0",F->"110152",E->"1"}
+{K->"null",D->"F",C->"34.0",B->"Mrs. John T (Ada Julia Bone)",A->"Doling",H->"1.0",G->"0.0",F->"231919",E->"2"}
+{K->"null",D->"male",C->"19.0",B->"Mr. Daniel Warner",A->"Marvin",H->"0",G->"1",F->"113773",E->"1"}
+{K->"null",D->"M",C->"18.0",B->"Mr. Percy Andrew",A->"Bailey",H->"0.0",G->"0.0",F->"29108",E->"2"}
+{K->"8",D->"female",C->"33.0",B->"Miss. Sarah",A->"Daniels",H->"0",G->"0",F->"113781",E->"1"}
+{K->"3",D->"female",C->"19.0",B->"Miss. Margaret Edith",A->"Graham",H->"0",G->"0",F->"112053",E->"1"}
+{K->"6",D->"female",C->"44.0",B->"Mrs. James Joseph (Margaret Tobin)",A->"Brown",H->"0",G->"0",F->"PC 17610",E->"1"}
+{K->"2",D->"female",C->"39.0",B->"Miss. Emilie",A->"Kreuchen",H->"0",G->"0",F->"24160",E->"1"}
+{K->"null",D->"male",C->"67.0",B->"Mr. Isidor",A->"Straus",H->"0",G->"1",F->"PC 17483",E->"1"}
+{K->"null",D->"male",C->"41.0",B->"Mr. Frederick R",A->"Kenyon",H->"0",G->"1",F->"17464",E->"1"}
+{K->"null",D->"M",C->"47.0",B->"Mr. John Denzil",A->"Jarvis",H->"0.0",G->"0.0",F->"237565",E->"2"}
+{K->"null",D->"male",C->"46.0",B->"Mr. Charles Cresson",A->"Jones",H->"0",G->"0",F->"694",E->"1"}
+{K->"3",D->"female",C->"52.0",B->"Mrs. Charles Melville (Clara Jennings Gregg)",A->"Hays",H->"1",G->"1",F->"12749",E->"1"}
+{K->"14",D->"M",C->"8.0",B->"Master. John Morgan Jr",A->"Davies",H->"1.0",G->"1.0",F->"C.A. 33112",E->"2"}
+{K->"null",D->"male",C->"46.0",B->"Mr. George ('Mr George Thorne')",A->"Rosenshine",H->"0",G->"0",F->"PC 17585",E->"1"}
+{K->"null",D->"male",C->"55.0",B->"Mr. William Edward",A->"Hipkins",H->"0",G->"0",F->"680",E->"1"}
+{K->"4",D->"F",C->"24.0",B->"Mrs. William (Anna)",A->"Hamalainen",H->"2.0",G->"0.0",F->"250649",E->"2"}
+{K->"10",D->"female",C->"24.0",B->"Miss. Alice Elizabeth",A->"Fortune",H->"2",G->"3",F->"19950",E->"1"}
+{K->"12",D->"F",C->"25.0",B->"Miss. Julie Rachel",A->"Christy",H->"1.0",G->"1.0",F->"237789",E->"2"}
+{K->"null",D->"M",C->"41.0",B->"Mr. Samuel Ward",A->"Stanton",H->"0.0",G->"0.0",F->"237734",E->"2"}
+{K->"null",D->"male",C->"36.0",B->"Mr. John Hugo",A->"Ross",H->"0",G->"0",F->"13049",E->"1"}
+{K->"null",D->"F",C->"18.0",B->"Miss. Marta",A->"Hiltunen",H->"1.0",G->"1.0",F->"250650",E->"2"}
+{K->"null",D->"F",C->"26.0",B->"Mrs. William (Anna Sylfven)",A->"Lahtinen",H->"1.0",G->"1.0",F->"250651",E->"2"}
+{K->"1",D->"male",C->"54.0",B->"Mr. Charles Emil Henry",A->"Stengel",H->"0",G->"1",F->"11778",E->"1"}
+{K->"2",D->"female",C->"43.0",B->"Mrs. Edward Scott (Elisabeth Walton McMillan)",A->"Robert",H->"1",G->"0",F->"24160",E->"1"}
+{K->"null",D->"M",C->"39.0",B->"Mr. Henry Samuel ('Mr Henry Marshall')",A->"Morley",H->"0.0",G->"0.0",F->"250655",E->"2"}
+{K->"8",D->"female",C->"null",B->"Mrs. Frederick R (Marion)",A->"Kenyon",H->"0",G->"1",F->"17464",E->"1"}
+{K->"null",D->"female",C->"50.0",B->"Miss. Ann Elizabeth",A->"Isham",H->"0",G->"0",F->"PC 17595",E->"1"}
+{K->"8",D->"female",C->"58.0",B->"Miss. Elizabeth",A->"Bonnell",H->"0",G->"0",F->"113783",E->"1"}
+{K->"null",D->"male",C->"61.0",B->"Mr. Arthur Larned",A->"Ryerson",H->"3",G->"1",F->"PC 17608",E->"1"}
+{K->"9",D->"M",C->"29.0",B->"Mr. Emilio",A->"Pallas y Castello",H->"0.0",G->"0.0",F->"SC/PARIS 2147",E->"2"}
+{K->"4",D->"female",C->"36.0",B->"Miss. Victorine",A->"Chaudanson",H->"0",G->"0",F->"PC 17608",E->"1"}
+{K->"12",D->"F",C->"34.0",B->"Miss. Ethel",A->"Garside",H->"0.0",G->"0.0",F->"243880",E->"2"}
+{K->"null",D->"male",C->"null",B->"Dr. Arthur Jackson",A->"Brewe",H->"0",G->"0",F->"112379",E->"1"}
+{K->"10",D->"M",C->"8.0",B->"Master. Marshall Brines",A->"Drew",H->"2.0",G->"0.0",F->"28220",E->"2"}
+{K->"12",D->"F",C->"24.0",B->"Mrs. Sinai (Miriam Sternin)",A->"Kantor",H->"0.0",G->"1.0",F->"244367",E->"2"}
+{K->"4",D->"female",C->"36.0",B->"Mrs. William Ernest (Lucile Polk)",A->"Carter",H->"2",G->"1",F->"113760",E->"1"}
+{K->"null",D->"M",C->"18.0",B->"Mr. Arne Jonas",A->"Fahlstrom",H->"0.0",G->"0.0",F->"236171",E->"2"}
+{K->"null",D->"M",C->"32.5",B->"Mr. Nicholas",A->"Nasser",H->"0.0",G->"1.0",F->"237736",E->"2"}
+{K->"7",D->"female",C->"null",B->"Mrs. Alfred (Antoinette)",A->"Flegenheim",H->"0",G->"0",F->"PC 17598",E->"1"}
+{K->"2",D->"female",C->"29.0",B->"Miss. Elisabeth Walton",A->"Allen",H->"0",G->"0",F->"24160",E->"1"}
+{K->"null",D->"M",C->"24.0",B->"Mr. Leonard Mark",A->"Hickman",H->"0.0",G->"2.0",F->"S.O.C. 14879",E->"2"}
+{K->"10",D->"F",C->"29.0",B->"Mrs. Leopold (Mathilde Francoise Pede)",A->"Weisz",H->"0.0",G->"1.0",F->"228414",E->"2"}
+{K->"D",D->"female",C->"59.0",B->"Mrs. John Murray (Caroline Lane Lamson)",A->"Brown",H->"0",G->"2",F->"11769",E->"1"}
+{K->"10",D->"female",C->"28.0",B->"Miss. Ethel Flora",A->"Fortune",H->"2",G->"3",F->"19950",E->"1"}
+{K->"null",D->"M",C->"29.0",B->"Mr. Sebastiano",A->"del Carlo",H->"0.0",G->"1.0",F->"SC/PARIS 2167",E->"2"}
+{K->"11",D->"F",C->"8.0",B->"Miss. Winifred Vera",A->"Quick",H->"1.0",G->"1.0",F->"26360",E->"2"}
+{K->"11",D->"F",C->"6.0",B->"Miss. Annie Jessie 'Nina'",A->"Harper",H->"1.0",G->"0.0",F->"248727",E->"2"}
+{K->"7",D->"male",C->"34.0",B->"Mr. Frederic Kimber",A->"Seward",H->"0",G->"0",F->"113794",E->"1"}
+{K->"null",D->"male",C->"null",B->"Mr. Hugh Roscoe",A->"Rood",H->"0",G->"0",F->"113767",E->"1"}
+{K->"null",D->"M",C->"40.0",B->"Mr. James",A->"Veal",H->"0.0",G->"0.0",F->"28221",E->"2"}
+{K->"14",D->"F",C->"31.0",B->"Miss. Nellie",A->"Walcroft",H->"0.0",G->"0.0",F->"F.C.C. 13528",E->"2"}
+{K->"13",D->"F",C->"19.0",B->"Mrs. Edward (Ethel Clarke)",A->"Beane",H->"0.0",G->"1.0",F->"2908",E->"2"}
+{K->"14",D->"F",C->"4.0",B->"Miss. Joan",A->"Wells",H->"1.0",G->"1.0",F->"29103",E->"2"}
+{K->"13",D->"M",C->"34.0",B->"Mr. Lawrence",A->"Beesley",H->"0.0",G->"0.0",F->"248698",E->"2"}
+{K->"null",D->"M",C->"26.0",B->"Mr. Lawrence",A->"Gavey",H->"0.0",G->"0.0",F->"31028",E->"2"}
+{K->"null",D->"M",C->"27.0",B->"Mr. Leopold",A->"Weisz",H->"0.0",G->"1.0",F->"228414",E->"2"}
+{K->"null",D->"male",C->"41.0",B->"Mr. John Bertram",A->"Brady",H->"0",G->"0",F->"113054",E->"1"}
+{K->"null",D->"male",C->"null",B->"Mr. John Bertram",A->"Crafton",H->"0",G->"0",F->"113791",E->"1"}
+{K->"null",D->"M",C->"26.0",B->"Mr. William Hull",A->"Botsford",H->"0.0",G->"0.0",F->"237670",E->"2"}
+{K->"7",D->"female",C->"22.0",B->"Miss. Dorothy Winifred",A->"Gibson",H->"1",G->"0",F->"112378",E->"1"}
+{K->"null",D->"M",C->"16.0",B->"Mr. Alfred",A->"Gaskell",H->"0.0",G->"0.0",F->"239865",E->"2"}
+{K->"14",D->"F",C->"31.0",B->"Mrs. Harvey (Charlotte Annie Tate)",A->"Collyer",H->"1.0",G->"1.0",F->"C.A. 31921",E->"2"}
+{K->"7",D->"female",C->"23.0",B->"Mrs. John Pillsbury (Nelle Stevenson)",A->"Snyder",H->"0",G->"1",F->"21228",E->"1"}
+{K->"14",D->"female",C->"37.0",B->"Mrs. William Edward (Lillian E Thorpe)",A->"Minahan",H->"0",G->"1",F->"19928",E->"1"}
+{K->"null",D->"male",C->"49.0",B->"Mr. Howard Brown",A->"Case",H->"0",G->"0",F->"19924",E->"1"}
+{K->"null",D->"male",C->"64.0",B->"Mr. Frank Manley",A->"Warren",H->"0",G->"1",F->"110813",E->"1"}
+{K->"3",D->"male",C->"27.0",B->"Mr. Robert Williams",A->"Daniel",H->"0",G->"0",F->"113804",E->"1"}
+{K->"9",D->"male",C->"null",B->"Mr. George ('George Arthur Brayton')",A->"Bradley",H->"0",G->"0",F->"111427",E->"1"}
+{K->"3",D->"male",C->"45.0",B->"Mr. Frederic Oakley",A->"Spedden",H->"1",G->"1",F->"16966",E->"1"}
+{K->"null",D->"male",C->"60.0",B->"Col. John",A->"Weir",H->"0",G->"0",F->"113800",E->"1"}
+{K->"null",D->"F",C->"29.0",B->"Mrs. John Henry (Sara Elizabeth Lawry)",A->"Chapman",H->"0.0",G->"1.0",F->"SC/AH 29037",E->"2"}
+{K->"14",D->"F",C->"15.0",B->"Miss. Edith Eileen",A->"Brown",H->"2.0",G->"0.0",F->"29750",E->"2"}
+{K->"12",D->"F",C->"24.0",B->"Mrs. Sebastiano (Argenia Genovesi)",A->"del Carlo",H->"0.0",G->"1.0",F->"SC/PARIS 2167",E->"2"}
+{K->"13",D->"F",C->"50.0",B->"Miss. Lucy",A->"Ridsdale",H->"0.0",G->"0.0",F->"W./C. 14258",E->"2"}
+{K->"13",D->"male",C->"53.0",B->"Dr. Washington",A->"Dodge",H->"1",G->"1",F->"33638",E->"1"}
+{K->"null",D->"male",C->"65.0",B->"Mr. Francis Davis",A->"Millet",H->"0",G->"0",F->"13509",E->"1"}
+{K->"5",D->"female",C->"19.0",B->"Miss. Helen Monypeny",A->"Newsom",H->"2",G->"0",F->"11752",E->"1"}
+{K->"null",D->"male",C->"29.0",B->"Mr. Milton Clyde",A->"Long",H->"0",G->"0",F->"113501",E->"1"}
+{K->"11",D->"F",C->"23.0",B->"Mrs. Amin S (Marie Marthe Thuillard)",A->"Jerwan",H->"0.0",G->"0.0",F->"SC/AH Basle 541",E->"2"}
+{K->"14",D->"F",C->"8.0",B->"Miss. Marjorie 'Lottie'",A->"Collyer",H->"2.0",G->"0.0",F->"C.A. 31921",E->"2"}
+{K->"10",D->"F",C->"5.0",B->"Miss. Constance Mirium",A->"West",H->"2.0",G->"1.0",F->"C.A. 34651",E->"2"}
+{K->"null",D->"M",C->"34.0",B->"Mr. Martin",A->"Ponesell",H->"0.0",G->"0.0",F->"250647",E->"2"}
+{K->"null",D->"male",C->"55.0",B->"Mr. Martin",A->"Rothschild",H->"0",G->"1",F->"PC 17603",E->"1"}
+{K->"12",D->"F",C->"20.0",B->"Miss. Dagmar Jenny Ingeborg",A->"Bryhl",H->"0.0",G->"1.0",F->"236853",E->"2"}
+{K->"1",D->"female",C->"48.0",B->"Lady. (Lucille Christiana Sutherland) ('Mrs Morgan')",A->"Duff Gordon",H->"0",G->"1",F->"11755",E->"1"}
+{K->"null",D->"male",C->"44.0",B->"Dr. William Edward",A->"Minahan",H->"0",G->"2",F->"19928",E->"1"}
+{K->"null",D->"M",C->"51.0",B->"Rev. Robert James",A->"Bateman",H->"0.0",G->"0.0",F->"S.O.P. 1166",E->"2"}
+{K->"11",D->"F",C->"29.0",B->"Mrs. (Elizabeth Ramell)",A->"Nye",H->"0.0",G->"0.0",F->"C.A. 29395",E->"2"}
+{K->"9",D->"F",C->"36.0",B->"Miss. Kate",A->"Buss",H->"0.0",G->"0.0",F->"27849",E->"2"}
+{K->"9",D->"F",C->"24.0",B->"Miss. Kate",A->"Herman",H->"2.0",G->"1.0",F->"220845",E->"2"}
+{K->"5 7",D->"female",C->"null",B->"Mrs. Elmer Zebley (Juliet Cummins Wright)",A->"Taylor",H->"0",G->"1",F->"19996",E->"1"}
+{K->"15",D->"male",C->"35.0",B->"Mr. Harry ('Mr E Haven')",A->"Homer",H->"0",G->"0",F->"111426",E->"1"}
+{K->"null",D->"male",C->"64.0",B->"Mr. Arthur Ernest",A->"Nicholson",H->"0",G->"0",F->"693",E->"1"}
+{K->"4",D->"female",C->"39.0",B->"Mrs. John Borland (Marian Longstreth Morris)",A->"Thayer",H->"1",G->"1",F->"17421",E->"1"}
+{K->"null",D->"M",C->"35.0",B->"Mr. Richard James",A->"Slemen",H->"0.0",G->"0.0",F->"28206",E->"2"}
+{K->"null",D->"M",C->"34.0",B->"Mr. Sinai",A->"Kantor",H->"0.0",G->"1.0",F->"244367",E->"2"}
+{K->"null",D->"M",C->"21.0",B->"Mr. Henry 'Harry'",A->"Cotterill",H->"0.0",G->"0.0",F->"29107",E->"2"}
+{K->"null",D->"M",C->"30.0",B->"Mr. James Matthew",A->"McCrie",H->"0.0",G->"0.0",F->"233478",E->"2"}
+{K->"null",D->"M",C->"23.0",B->"Mr. William Jeffery",A->"Ware",H->"0.0",G->"1.0",F->"28666",E->"2"}
+{K->"9",D->"M",C->"null",B->"Mr. Julian",A->"Padro y Manent",H->"0.0",G->"0.0",F->"SC/PARIS 2146",E->"2"}
+{K->"null",D->"male",C->"47.0",B->"Col. John Jacob",A->"Astor",H->"0",G->"1",F->"PC 17757",E->"1"}
+{K->"null",D->"male",C->"50.0",B->"Mr. Henry Forbes",A->"Julian",H->"0",G->"0",F->"113044",E->"1"}
+{K->"12",D->"F",C->"27.0",B->"Miss. Asuncion",A->"Duran y More",H->"0.0",G->"1.0",F->"SC/PARIS 2149",E->"2"}
+{K->"null",D->"male",C->"54.0",B->"Mr. Timothy J",A->"McCarthy",H->"0",G->"0",F->"17463",E->"1"}
+{K->"null",D->"male",C->"18.0",B->"Mr. Victor de Satode",A->"Penasco y Castellana",H->"0",G->"1",F->"PC 17758",E->"1"}
+{K->"null",D->"male",C->"71.0",B->"Mr. George B",A->"Goldschmidt",H->"0",G->"0",F->"PC 17754",E->"1"}
+{K->"null",D->"M",C->"27.0",B->"Mr. Percival James R",A->"Sharp",H->"0.0",G->"0.0",F->"244358",E->"2"}
+{K->"null",D->"F",C->"42.0",B->"Mrs. Charles Alexander (Alice Adelaide Slow)",A->"Louch",H->"0.0",G->"1.0",F->"SC/AH 3085",E->"2"}
+{K->"10",D->"F",C->"null",B->"Miss. Nora A",A->"Keane",H->"0.0",G->"0.0",F->"226593",E->"2"}
+{K->"3",D->"female",C->"30.0",B->"Miss. Anne",A->"Perreault",H->"0",G->"0",F->"12749",E->"1"}
+{K->"null",D->"M",C->"null",B->"Mr. Alfred Fleming",A->"Cunningham",H->"0.0",G->"0.0",F->"239853",E->"2"}
+{K->"9",D->"male",C->"45.0",B->"Mr. Charles Hallace ('Mr C Rolmane')",A->"Romaine",H->"0",G->"0",F->"111428",E->"1"}
+{K->"null",D->"M",C->"25.0",B->"Mr. Philip Joseph",A->"Stokes",H->"0.0",G->"0.0",F->"F.C.C. 13540",E->"2"}
+{K->"null",D->"M",C->"23.0",B->"Mr. Moses Aaron",A->"Troupiansky",H->"0.0",G->"0.0",F->"233639",E->"2"}
+{K->"null",D->"male",C->"48.0",B->"Mr. Emil",A->"Brandeis",H->"0",G->"0",F->"PC 17591",E->"1"}
+{K->"null",D->"male",C->"52.0",B->"Mr. Emil",A->"Taussig",H->"1",G->"1",F->"110413",E->"1"}
+{K->"null",D->"M",C->"22.0",B->"Mr. Ernest Wilfred",A->"Jefferys",H->"0.0",G->"2.0",F->"C.A. 31029",E->"2"}
+{K->"null",D->"M",C->"54.0",B->"Dr. Ernest",A->"Moraweck",H->"0.0",G->"0.0",F->"29011",E->"2"}
+{K->"14",D->"F",C->"29.0",B->"Mrs. Arthur Henry ('Addie' Dart Trevaskis)",A->"Wells",H->"2.0",G->"0.0",F->"29103",E->"2"}
+{K->"null",D->"M",C->"null",B->"Mr. Ennis Hastings",A->"Watson",H->"0.0",G->"0.0",F->"239856",E->"2"}
+{K->"null",D->"male",C->"50.0",B->"Mr. William Baird",A->"Silvey",H->"0",G->"1",F->"13507",E->"1"}
+{K->"10",D->"F",C->"0.9167",B->"Miss. Barbara J",A->"West",H->"2.0",G->"1.0",F->"C.A. 34651",E->"2"}
+{K->"null",D->"M",C->"39.0",B->"Mr. August",A->"Meyer",H->"0.0",G->"0.0",F->"248723",E->"2"}
+{K->"null",D->"M",C->"26.0",B->"Mr. August",A->"Schmidt",H->"0.0",G->"0.0",F->"248659",E->"2"}
+{K->"null",D->"male",C->"23.0",B->"Mr. Vivian Ponsonby",A->"Payne",H->"0",G->"0",F->"12749",E->"1"}
+{K->"null",D->"male",C->"61.0",B->"Mr. Frederick",A->"Sutton",H->"0",G->"0",F->"36963",E->"1"}
+{K->"null",D->"M",C->"16.0",B->"Mr. Thomas Charles",A->"Mudd",H->"0.0",G->"0.0",F->"S.O./P.P. 3",E->"2"}
+{K->"5",D->"male",C->"36.0",B->"Mr. John Irwin ('Irving')",A->"Flynn",H->"0",G->"0",F->"PC 17474",E->"1"}
+{K->"10",D->"female",C->"51.0",B->"Mrs. John C (Anna Andrews)",A->"Hogeboom",H->"0",G->"1",F->"13502",E->"1"}
+{K->"8",D->"female",C->"36.0",B->"Miss. Marie Grice",A->"Young",H->"0",G->"0",F->"PC 17760",E->"1"}
+{K->"10",D->"F",C->"34.0",B->"Mrs. James Vivian (Lulu Thorne Christian)",A->"Drew",H->"1.0",G->"1.0",F->"28220",E->"2"}
+{K->"null",D->"M",C->"42.0",B->"Mr. Solomon",A->"Bowenur",H->"0.0",G->"0.0",F->"211535",E->"2"}
+{K->"8",D->"female",C->"39.0",B->"Dona. Fermina",A->"Oliva y Ocana",H->"0",G->"0",F->"PC 17758",E->"1"}
+{K->"null",D->"male",C->"50.0",B->"Mr. George Dunton",A->"Widener",H->"1",G->"1",F->"113503",E->"1"}
+{K->"null",D->"male",C->"24.0",B->"Mr. Lucien Philip",A->"Smith",H->"0",G->"1",F->"13695",E->"1"}
+{K->"14",D->"F",C->"28.0",B->"Mrs. Charles V (Ada Maria Winfield)",A->"Clarke",H->"0.0",G->"1.0",F->"2003",E->"2"}
+{K->"3",D->"female",C->"27.0",B->"Mrs. Thornton (Orian Hays)",A->"Davidson",H->"2",G->"1",F->"F.C. 12750",E->"1"}
+{K->"null",D->"M",C->"28.0",B->"Rev. John",A->"Harper",H->"1.0",G->"0.0",F->"248727",E->"2"}
+{K->"null",D->"M",C->"37.0",B->"Mr. John Henry",A->"Chapman",H->"0.0",G->"1.0",F->"SC/AH 29037",E->"2"}
+{K->"null",D->"M",C->"25.0",B->"Mr. Samuel James Hayden",A->"Sobey",H->"0.0",G->"0.0",F->"C.A. 29178",E->"2"}
+{K->"3",D->"male",C->"32.0",B->"Dr. Max",A->"Stahelin-Maeglin",H->"0",G->"0",F->"13214",E->"1"}
+{K->"null",D->"male",C->"64.0",B->"Mr. Mark",A->"Fortune",H->"4",G->"1",F->"19950",E->"1"}
+{K->"6",D->"female",C->"26.0",B->"Miss. Ellen 'Nellie'",A->"Barber",H->"0",G->"0",F->"19877",E->"1"}
+{K->"4",D->"F",C->"20.0",B->"Miss. Ellen 'Nellie'",A->"Hocking",H->"1.0",G->"2.0",F->"29105",E->"2"}
+{K->"5",D->"male",C->"37.0",B->"Mr. Richard Leonard",A->"Beckwith",H->"1",G->"1",F->"11751",E->"1"}
+{K->"null",D->"male",C->"17.0",B->"Mr. Jose Pedro",A->"Carrau",H->"0",G->"0",F->"113059",E->"1"}
+{K->"7",D->"male",C->"36.0",B->"Mr. James Robert",A->"McGough",H->"0",G->"0",F->"PC 17473",E->"1"}
+{K->"10",D->"M",C->"42.0",B->"Mr. Masabumi",A->"Hosono",H->"0.0",G->"0.0",F->"237798",E->"2"}
+{K->"14",D->"F",C->"34.0",B->"Mrs. (Amelia Milley)",A->"Lemore",H->"0.0",G->"0.0",F->"C.A. 34260",E->"2"}
+{K->"9",D->"F",C->"12.0",B->"Miss. Bertha J",A->"Watt",H->"0.0",G->"0.0",F->"C.A. 33595",E->"2"}
+{K->"null",D->"male",C->"47.0",B->"Mr. Edward Pomeroy",A->"Colley",H->"0",G->"0",F->"5727",E->"1"}
+{K->"9",D->"female",C->"24.0",B->"Mlle. Emma",A->"Sagesser",H->"0",G->"0",F->"PC 17477",E->"1"}
+{K->"null",D->"male",C->"58.0",B->"Mr. Edward Austin",A->"Kent",H->"0",G->"0",F->"11771",E->"1"}
+{K->"11",D->"F",C->"36.0",B->"Mrs. William A (Florence 'Mary' Agnes Hughes)",A->"Angle",H->"0.0",G->"1.0",F->"226875",E->"2"}
+{K->"5",D->"male",C->"26.0",B->"Mr. Karl Howell",A->"Behr",H->"0",G->"0",F->"111369",E->"1"}
+{K->"null",D->"male",C->"62.0",B->"Mr. William Thomas",A->"Stead",H->"0",G->"0",F->"113514",E->"1"}
+{K->"5",D->"female",C->"47.0",B->"Mrs. Richard Leonard (Sallie Monypeny)",A->"Beckwith",H->"1",G->"1",F->"11751",E->"1"}
+{K->"null",D->"male",C->"40.0",B->"Don. Manuel E",A->"Uruchurtu",H->"0",G->"0",F->"PC 17601",E->"1"}
+{K->"null",D->"M",C->"23.0",B->"Mr. Charles Robert",A->"Baimbrigge",H->"0.0",G->"0.0",F->"C.A. 31030",E->"2"}
+{K->"null",D->"male",C->"57.0",B->"Mr. George Dennick",A->"Wick",H->"1",G->"1",F->"36928",E->"1"}
+{K->"8",D->"female",C->"35.0",B->"Mrs. Alexander Oskar (Mary Aline Towner)",A->"Holverson",H->"0",G->"1",F->"113789",E->"1"}
+{K->"3",D->"female",C->"40.0",B->"Miss. Elizabeth W",A->"Shutes",H->"0",G->"0",F->"PC 17582",E->"1"}
+{K->"5",D->"male",C->"43.0",B->"Mr. Isaac Gerald",A->"Frauenthal",H->"0",G->"1",F->"17765",E->"1"}
+{K->"null",D->"male",C->"65.0",B->"Mr. Engelhart Cornelius",A->"Ostby",H->"1",G->"0",F->"113509",E->"1"}
+{K->"7",D->"male",C->"31.0",B->"Mr. Gilbert Milligan Jr",A->"Tucker",H->"0",G->"0",F->"2543",E->"1"}
+{K->"4",D->"female",C->"null",B->"Miss. Margaret",A->"Fleming",H->"0",G->"0",F->"17421",E->"1"}
+{K->"9",D->"F",C->"28.0",B->"Ms. Encarnacion",A->"Reynaldo",H->"0.0",G->"0.0",F->"230434",E->"2"}
+{K->"null",D->"male",C->"46.0",B->"Mr. Herbert Fuller",A->"Chaffee",H->"0",G->"1",F->"W.E.P. 5734",E->"1"}
+{K->"null",D->"male",C->"39.0",B->"Mr. Thomas Jr",A->"Andrews",H->"0",G->"0",F->"112050",E->"1"}
+{K->"1",D->"male",C->"null",B->"Mr. Abraham L",A->"Salomon",H->"0",G->"0",F->"111163",E->"1"}
+{K->"null",D->"M",C->"21.0",B->"Mr. Stanley George",A->"Hickman",H->"0.0",G->"2.0",F->"S.O.C. 14879",E->"2"}
+{K->"14",D->"F",C->"3.0",B->"Miss. Simonne Marie Anne Andree",A->"Laroche",H->"2.0",G->"1.0",F->"SC/Paris 2123",E->"2"}
+{K->"2",D->"female",C->"48.0",B->"Mrs. Walter Donald (Mahala Dutton)",A->"Douglas",H->"0",G->"1",F->"PC 17761",E->"1"}
+{K->"7",D->"female",C->"56.0",B->"Mrs. Thomas Jr (Lily Alexenia Wilson)",A->"Potter",H->"1",G->"0",F->"11767",E->"1"}
+{K->"null",D->"F",C->"38.0",B->"Miss. Annie Clemmer",A->"Funk",H->"0.0",G->"0.0",F->"237671",E->"2"}
+{K->"B",D->"male",C->"53.0",B->"Col. Archibald IV",A->"Gracie",H->"0",G->"0",F->"113780",E->"1"}
+{K->"null",D->"M",C->"14.0",B->"Mr. George Frederick",A->"Sweet",H->"0.0",G->"0.0",F->"220845",E->"2"}
+{K->"14",D->"F",C->"7.0",B->"Miss. Eva Miriam",A->"Hart",H->"2.0",G->"0.0",F->"F.C.C. 13529",E->"2"}
+{K->"11",D->"female",C->"39.0",B->"Mrs. William Baird (Alice Munger)",A->"Silvey",H->"0",G->"1",F->"13507",E->"1"}
+{K->"null",D->"male",C->"37.0",B->"Mr. Alexander Taylor Jr",A->"Compton",H->"1",G->"1",F->"PC 17756",E->"1"}
+{K->"14",D->"M",C->"null",B->"Mr. Charles Eugene",A->"Williams",H->"0.0",G->"0.0",F->"244373",E->"2"}
+{K->"3",D->"male",C->"27.0",B->"Mr. Hammad",A->"Hassab",H->"0",G->"0",F->"PC 17572",E->"1"}
