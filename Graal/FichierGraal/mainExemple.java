@@ -215,18 +215,32 @@ public static void main(String args[]) throws SQLException, IOException, KBBuild
 		/// DEBUT VERSION 2 MAPPING ///
 		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM, CABIN FROM TITANICFIRSTCLASS"), new Predicate("cabineRelation",3)));
 		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM, CABIN FROM TITANICSECONDCLASS"), new Predicate("cabineRelation",3)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT  LASTNAME AS NOM,FIRSTNAME AS PRENOM, CABIN FROM TITANICTHIRDCLASS"), new Predicate("cabineRelation",3)));
+		
 		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,AGE,SEX FROM TITANICFIRSTCLASS"), new Predicate("passagerRelation",4)));
 		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,AGE,SEX FROM TITANICSECONDCLASS"), new Predicate("passagerRelation",4)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT LASTNAME AS NOM,FIRSTNAME AS PRENOM,AGE,SEX FROM TITANICTHIRDCLASS"), new Predicate("passagerRelation",4)));
 		
 		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,TICKET,SIBSP,PARCH,TFARE,SURVIVED,BOAT,BODY FROM TITANICFIRSTCLASS"), new Predicate("voyageTitanic", 9)));
 		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,TICKET,SIBSP,PARCH,TFARE,SURVIVED,BOAT,BODY FROM TITANICSECONDCLASS"), new Predicate("voyageTitanic", 9)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT LASTNAME AS NOM,FIRSTNAME AS PRENOM,TICKET,SIBSP,PARCH,TFARE,SURVIVED,BOAT,BODY FROM TITANICTHIRDCLASS"), new Predicate("voyageTitanic", 9)));
 		
 		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,PCLASS FROM TITANICFIRSTCLASS"), new Predicate("aPourClasse", 3)));
 		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,PCLASS FROM TITANICSECONDCLASS"), new Predicate("aPourClasse", 3)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT LASTNAME AS NOM,FIRSTNAME AS PRENOM,PCLASS FROM TITANICTHIRDCLASS"), new Predicate("aPourClasse", 3)));
 		
 		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,HOME_DEST FROM TITANICFIRSTCLASS"), new Predicate("aEmbarque", 3)));
 		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,HOME_DEST FROM TITANICSECONDCLASS"), new Predicate("aEmbarque", 3)));
-	
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT LASTNAME AS NOM,FIRSTNAME AS PRENOM,HOME_DEST FROM TITANICTHIRDCLASS"), new Predicate("aEmbarque", 3)));
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		/// FIN VERSION 2 MAPPING ///
 		
 		System.out.println("Affichage du graphe résultat contenant les différents prédicats créer et remplie avec les données de la database  :");
@@ -259,7 +273,7 @@ public static void main(String args[]) throws SQLException, IOException, KBBuild
 		
 		ConjunctiveQuery query = DlgpParser.parseQuery("?(A,B,C,D,M,E,F,G,H,K) :- " 
 		+ " passagerRelation(A,B,C,D),"
-		+ " cabineRelation(A,B,M)"
+		+ " cabineRelation(A,B,M),"
 		+ " aPourClasse(A,B,E),"
 		+ " voyageTitanic(A,B,F,G,H,I,J,K,L).");
 
