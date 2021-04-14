@@ -191,6 +191,14 @@ public class SQLiteJDBC {
 					nextRecord[1]="1";
 				}
 				
+				//SEX
+				if(nextRecord[3].equals("F")) {
+					nextRecord[3]="female";
+				}
+				if(nextRecord[3].equals("M")) {
+					nextRecord[3]="male";
+				}
+				
 				//AGE
 				if(nextRecord[4].equals("?")|| nextRecord[4].equals("Unknown")) {
 					nextRecord[4]="null";
