@@ -1,5 +1,5 @@
 package fr.Graal.testJar;
-
+import py4j.GatewayServer;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -14,6 +14,7 @@ import fr.lirmm.graphik.graal.api.core.ConjunctiveQuery;
 import fr.lirmm.graphik.graal.api.core.Predicate;
 import fr.lirmm.graphik.graal.api.core.Substitution;
 import fr.lirmm.graphik.graal.api.core.Term;
+import fr.lirmm.graphik.graal.api.io.ParseException;
 import fr.lirmm.graphik.graal.api.kb.KnowledgeBase;
 import fr.lirmm.graphik.graal.api.kb.KnowledgeBaseException;
 import fr.lirmm.graphik.graal.core.AbstractSubstitution;
@@ -32,6 +33,22 @@ import py4j.GatewayServer;
 
 
 public class mainExemple {
+	
+	static DefaultInMemoryGraphStore graphBilan = new DefaultInMemoryGraphStore();
+	static ArrayList<Atom> passagerList = new ArrayList<Atom>();
+	
+	public CloseableIterator<Substitution> evaluate(String dlgp) throws ParseException, KnowledgeBaseException {
+		
+		
+		KBBuilder kbase = new KBBuilder();
+		kbase.setStore(graphBilan);
+		KnowledgeBase kb = kbase.build();
+		ConjunctiveQuery query = DlgpParser.parseQuery(dlgp);
+		CloseableIterator<Substitution> result = kb.query(query);
+		return result;
+	}
+	
+	
 	
 	//Méthode pour créer une liste de Term pour le mapping
 	public static ArrayList<Term> createTermList() {
@@ -133,8 +150,7 @@ public static void main(String args[]) throws SQLException, IOException, KBBuild
 		}
 		
 		// liste d'atome contenant tout les passager
-		ArrayList<Atom> passagerList = new ArrayList<Atom>();
-		
+
 		/// VERSION 1 MAPPING ///
 		
 		// ---- DEBUT GESTION RELATION CABINE  ---- //
@@ -246,7 +262,6 @@ public static void main(String args[]) throws SQLException, IOException, KBBuild
 		System.out.println("Affichage du graphe résultat contenant les différents prédicats créer et remplie avec les données de la database  :");
 		System.out.println(" ");
 		// Creation du graphe
-				DefaultInMemoryGraphStore graphBilan = new DefaultInMemoryGraphStore();
 				for (int i = 0; i < passagerList.size(); i++) {
 					graphBilan.add(passagerList.get(i));
 				} 
@@ -269,6 +284,7 @@ public static void main(String args[]) throws SQLException, IOException, KBBuild
 		
 		
 		
+		
 		System.out.println("Requête DLGP : ");
 		
 		ConjunctiveQuery query = DlgpParser.parseQuery("?(A,B,C,D,M,E,F,G,H,K) :- " 
@@ -276,6 +292,9 @@ public static void main(String args[]) throws SQLException, IOException, KBBuild
 		+ " cabineRelation(A,B,M),"
 		+ " aPourClasse(A,B,E),"
 		+ " voyageTitanic(A,B,F,G,H,I,J,K,L).");
+		
+		String dlgpQuery = "?(A,B,C,D,M,E,F,G,H,K) :- " + " passagerRelation(A,B,C,D)," + " cabineRelation(A,B,M)," + " aPourClasse(A,B,E)," + " voyageTitanic(A,B,F,G,H,I,J,K,L).";
+		
 
 		ConjunctiveQuery check = DlgpParser.parseQuery("?(A,B,G) :- "
 		+ " voyageTitanic(A,B,C,D,E,F,G,H,I).");
@@ -283,14 +302,21 @@ public static void main(String args[]) throws SQLException, IOException, KBBuild
 		
 		System.out.println(query);	
 		
-		CloseableIterator<?> result = kb.query(query);
+		CloseableIterator<Substitution> result = kb.query(query);
 		CloseableIterator<?> checked = kb.query(check);
 
 		System.out.println("Début écriture requête : ");
 		writeQuery(result,"data");
 		writeQuery(checked,"check");
-		
 		System.out.println("Fin écriture requête !");
+		
+		
+		
+		mainExemple test = new mainExemple();
+		GatewayServer server = new GatewayServer(test);
+		server.start();
+		
+		
 		
 		
 	
