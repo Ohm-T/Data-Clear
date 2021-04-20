@@ -9,6 +9,8 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.bson.Document;
+
 import fr.lirmm.graphik.graal.api.core.Atom;
 import fr.lirmm.graphik.graal.api.core.ConjunctiveQuery;
 import fr.lirmm.graphik.graal.api.core.Predicate;
@@ -30,12 +32,23 @@ import fr.lirmm.graphik.graal.store.rdbms.util.SQLQuery;
 import fr.lirmm.graphik.util.stream.CloseableIterator;
 import py4j.GatewayServer;
 
+import com.mongodb.Block;
+import com.mongodb.MongoClient;
+import com.mongodb.MongoClientURI;
+import com.mongodb.ServerAddress;
+import com.mongodb.client.FindIterable;
+import com.mongodb.client.MongoCollection;
+import com.mongodb.client.MongoDatabase;
+import com.mongodb.MongoCredential;
+import com.mongodb.MongoClientOptions;
 
 
 public class mainExemple {
 	
 	static DefaultInMemoryGraphStore graphBilan = new DefaultInMemoryGraphStore();
+	static DefaultInMemoryGraphStore graphBilanMongo = new DefaultInMemoryGraphStore();
 	static ArrayList<Atom> passagerList = new ArrayList<Atom>();
+	static ArrayList<Atom> passagerListMongo = new ArrayList<Atom>();
 	
 	public CloseableIterator<Substitution> evaluate(String dlgp) throws ParseException, KnowledgeBaseException {
 		
@@ -116,8 +129,13 @@ public class mainExemple {
 				}
 		
 		
-
-	
+		//Parcourir une collection mongoDB
+		static Block<Document> printBlock = new Block<Document>() {
+		       @Override
+		       public void apply(final Document document) {
+		           System.out.println(document.toJson());
+		       }
+		};
 
 public static void main(String args[]) throws SQLException, IOException, KBBuilderException, KnowledgeBaseException {
 	
@@ -132,7 +150,28 @@ public static void main(String args[]) throws SQLException, IOException, KBBuild
 		SqliteDriver testBase;
 		testBase = GetDatabase.createDatabase();
 		
+		//Création du driver et récupération de la base de donnée mongo
+		MongoClient testMongoBase;
+		testMongoBase = GetDatabase.createMongoBase();
+		MongoDatabase mongoBase = testMongoBase.getDatabase("titanic");
 		
+		MongoCollection<Document> coll = mongoBase.getCollection("third_class");
+		//coll.find().forEach(printBlock);
+		
+		FindIterable<Document> caca = coll.find().projection(new Document("lastname",1).append("_id",0).append("firstname", 1).append("sex", 1));
+		
+		passagerListMongo.addAll(MongoDBMappingEvaluator.evaluate(coll,coll.find().projection(new Document("lastname",1).append("_id",0).append("firstname", 1).append("sex", 1)) , new Predicate("mongoPassagerRelation",3)));
+		System.out.println(passagerListMongo.size());
+		
+		for (int i = 0; i < passagerListMongo.size(); i++) {
+			graphBilanMongo.add(passagerListMongo.get(i));
+		} 
+		System.out.println("Vérification : ");
+		
+		System.out.println("Taille de la liste de passager :  ");
+		System.out.println(passagerListMongo.size());
+		System.out.println("Taille du graphe : ");
+		writeGraph(graphBilanMongo);
 		//Affichage des colonnes de la poremière classe
 		List<DBColumn> firstClass;
 		List<DBColumn> secondClass;
@@ -311,11 +350,11 @@ public static void main(String args[]) throws SQLException, IOException, KBBuild
 		System.out.println("Fin écriture requête !");
 		
 		
-		
+		/*
 		mainExemple test = new mainExemple();
 		GatewayServer server = new GatewayServer(test);
 		server.start();
-		
+		*/
 		
 		
 		

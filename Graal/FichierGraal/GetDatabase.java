@@ -7,6 +7,11 @@ import java.sql.SQLException;
 
 
 import fr.lirmm.graphik.graal.store.rdbms.driver.SqliteDriver;
+import com.mongodb.MongoClient;
+import com.mongodb.MongoClientURI;
+import com.mongodb.ServerAddress;
+import com.mongodb.MongoCredential;
+import com.mongodb.MongoClientOptions;
 
 
 
@@ -22,6 +27,13 @@ public class GetDatabase {
 		SqliteDriver database  = new SqliteDriver(path);	
 		
 		return database;
+		
 	}
+		public static MongoClient createMongoBase() {
+			
+			MongoClient mongobase = new MongoClient(new MongoClientURI("mongodb://localhost:27017"));
+			return mongobase;
+					
+		}
 
 }
