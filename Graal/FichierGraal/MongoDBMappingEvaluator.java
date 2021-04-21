@@ -29,10 +29,20 @@ public class MongoDBMappingEvaluator {
 				ArrayList<Term> temp = mainExemple.createTermList();
 				// "Document{{lastname=Mahon, firstname=Mr. John, sex=male}}
 				//Tant qu'il y a des données à mettre dans le prédicat
+				String tempString = "";
 				for(int i = 1; i <= p.getArity(); i++) {
-					/*String tempS = x.toString();
-					String[] pls = tempS.split("=");*/
-					String tempString = x.toString();
+					String tempS = x.toString();
+					String[] pls = tempS.split("[a-zA-Z_0-9]*=");
+					
+					if(i >= pls.length) {
+						tempString = "null";
+					}
+					else {
+					
+					tempString = pls[i];
+					tempString = tempString.replace("}}", "");
+					System.out.println(tempString);
+					}
 					if(tempString != "null")  {					
 						temp.add(DefaultTermFactory.instance().createLiteral(tempString));
 					}
