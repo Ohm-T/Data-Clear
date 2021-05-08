@@ -128,6 +128,35 @@ public class mainExemple {
 					
 				}
 		
+		//Méthode d'une requête 
+				public static void writeQueryMore(CloseableIterator<?> result,CloseableIterator<?> result2, String txt) throws IOException {
+					try {
+							
+						File file = new File("C:\\Users\\beaug\\Desktop\\M1S2\\TER\\Python\\" + txt + ".csv");
+							
+						if(!file.exists()) {
+								file.createNewFile();
+							}
+							
+							FileWriter fw = new FileWriter(file.getAbsoluteFile());
+							BufferedWriter bw = new BufferedWriter(fw);
+							
+							while(result.hasNext()) {
+								bw.write(result.next().toString() + "\n");
+							}
+							
+							while(result2.hasNext()) {
+								bw.write(result2.next().toString() + "\n");
+							}
+							bw.close();
+							
+							
+							} catch (IOException e) {
+								e.printStackTrace();
+							}
+							
+						}
+		
 		
 		//Parcourir une collection mongoDB
 		static Block<Document> printBlock = new Block<Document>() {
@@ -256,29 +285,29 @@ public static void main(String args[]) throws SQLException, IOException, KBBuild
 		
 		passagerList.addAll(MongoDBMappingEvaluator.evaluate(coll,coll.find().projection(new Document("lastname",1).append("_id",0).append("firstname", 1).append("sex", 1).append("age", 1)) , new Predicate("passagerRelation",4)));
 		passagerList.addAll(MongoDBMappingEvaluator.evaluate(coll,coll.find().projection(new Document("lastname",1).append("_id",0).append("firstname", 1).append("cabin", 1)) , new Predicate("cabineRelation",3)));
-		passagerList.addAll(MongoDBMappingEvaluator.evaluate(coll,coll.find().projection(new Document("lastname",1).append("_id",0).append("firstname", 1).append("ticket", 1).append("sibsp", 1).append("parch", 1).append("fare", 1).append("survived", 1).append("boat", 1).append("body",1)) , new Predicate("voyageTitanicMongo",9)));
+		passagerList.addAll(MongoDBMappingEvaluator.evaluate(coll,coll.find().projection(new Document("lastname",1).append("_id",0).append("firstname", 1).append("ticket", 1).append("sibsp", 1).append("parch", 1).append("fare", 1).append("survived", 1).append("boat", 1).append("body",1)) , new Predicate("voyageTitanic2",9)));
 		passagerList.addAll(MongoDBMappingEvaluator.evaluate(coll,coll.find().projection(new Document("lastname",1).append("_id",0).append("firstname", 1).append("pclass", 1)) , new Predicate("aPourClasse",3)));
 		passagerList.addAll(MongoDBMappingEvaluator.evaluate(coll,coll.find().projection(new Document("lastname",1).append("_id",0).append("firstname", 1).append("home.dest", 1)) , new Predicate("aEmbarque",3)));
 		
 		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM, CABIN FROM TITANICFIRSTCLASS"), new Predicate("cabineRelation",3)));
 		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM, CABIN FROM TITANICSECONDCLASS"), new Predicate("cabineRelation",3)));
-		//passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT  LASTNAME AS NOM,FIRSTNAME AS PRENOM, CABIN FROM TITANICTHIRDCLASS"), new Predicate("cabineRelation",3)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT  LASTNAME AS NOM,FIRSTNAME AS PRENOM, CABIN FROM TITANICTHIRDCLASS"), new Predicate("cabineRelation",3)));
 		
 		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,AGE,SEX FROM TITANICFIRSTCLASS"), new Predicate("passagerRelation",4)));
 		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,AGE,SEX FROM TITANICSECONDCLASS"), new Predicate("passagerRelation",4)));
-		//passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT LASTNAME AS NOM,FIRSTNAME AS PRENOM,AGE,SEX FROM TITANICTHIRDCLASS"), new Predicate("passagerRelation",4)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT LASTNAME AS NOM,FIRSTNAME AS PRENOM,AGE,SEX FROM TITANICTHIRDCLASS"), new Predicate("passagerRelation",4)));
 		
 		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,TICKET,SIBSP,PARCH,TFARE,SURVIVED,BOAT,BODY FROM TITANICFIRSTCLASS"), new Predicate("voyageTitanic", 9)));
 		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,TICKET,SIBSP,PARCH,TFARE,SURVIVED,BOAT,BODY FROM TITANICSECONDCLASS"), new Predicate("voyageTitanic", 9)));
-		//passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT LASTNAME AS NOM,FIRSTNAME AS PRENOM,TICKET,SIBSP,PARCH,TFARE,SURVIVED,BOAT,BODY FROM TITANICTHIRDCLASS"), new Predicate("voyageTitanic", 9)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT LASTNAME AS NOM,FIRSTNAME AS PRENOM,TICKET,SIBSP,PARCH,TFARE,SURVIVED,BOAT,BODY FROM TITANICTHIRDCLASS"), new Predicate("voyageTitanic", 9)));
 		
 		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,PCLASS FROM TITANICFIRSTCLASS"), new Predicate("aPourClasse", 3)));
 		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,PCLASS FROM TITANICSECONDCLASS"), new Predicate("aPourClasse", 3)));
-		//passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT LASTNAME AS NOM,FIRSTNAME AS PRENOM,PCLASS FROM TITANICTHIRDCLASS"), new Predicate("aPourClasse", 3)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT LASTNAME AS NOM,FIRSTNAME AS PRENOM,PCLASS FROM TITANICTHIRDCLASS"), new Predicate("aPourClasse", 3)));
 		
 		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,HOME_DEST FROM TITANICFIRSTCLASS"), new Predicate("aEmbarque", 3)));
 		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT substr(NAME,1, instr(NAME, ',') - 1) AS NOM,substr(NAME, instr(NAME, ',') + 2) AS PRENOM,HOME_DEST FROM TITANICSECONDCLASS"), new Predicate("aEmbarque", 3)));
-		//passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT LASTNAME AS NOM,FIRSTNAME AS PRENOM,HOME_DEST FROM TITANICTHIRDCLASS"), new Predicate("aEmbarque", 3)));
+		passagerList.addAll(SQLMappingEvaluator.evaluate(testBase, new SQLQuery("SELECT LASTNAME AS NOM,FIRSTNAME AS PRENOM,HOME_DEST FROM TITANICTHIRDCLASS"), new Predicate("aEmbarque", 3)));
 		
 		
 		
@@ -328,28 +357,33 @@ public static void main(String args[]) throws SQLException, IOException, KBBuild
 		
 
 		ConjunctiveQuery check = DlgpParser.parseQuery("?(A,B,G) :- "
-		+ " voyageTitanic(A,B,C,D,E,F,G,H,I),"
-		+ " voyageTitanicMongo(G,A,B,C,D,E,F,H,I).");
+		+ " voyageTitanic(A,B,X,Y,O,P,G,L,N).");
 		
+		ConjunctiveQuery checkMongo = DlgpParser.parseQuery("?(A,B,G) :- "
+		+ " voyageTitanic2(G,A,B,X,Y,O,P,L,N).");
 		
-		System.out.println(query);	
-		System.out.println(check);	
+	
+
 		CloseableIterator<Substitution> result = kb.query(query);
-		CloseableIterator<Substitution> checked = kb.query(check);
+		CloseableIterator<Substitution> checked = kb.query(check) ;
+		CloseableIterator<Substitution> checked2 =  kb.query(checkMongo);
 		
+		
+	/*	while(checked2.hasNext()) {
+			System.out.println(checked2.next());
+		}*/
 		
 
 		System.out.println("Début écriture requête : ");
 		writeQuery(result,"data");
-		writeQuery(checked,"check");
+		writeQueryMore(checked,checked2,"check");
 		System.out.println("Fin écriture requête !");
 		
 		
 		
-	/*	mainExemple test = new mainExemple();
+		mainExemple test = new mainExemple();
 		GatewayServer server = new GatewayServer(test);
-		server.start();*/
-		
+		server.start();
 		
 		
 		

@@ -19,13 +19,13 @@ import fr.lirmm.graphik.graal.store.rdbms.util.SQLQuery;
 
 public class MongoDBMappingEvaluator {
 	//SQlMappingEvaluater
-		public static ArrayList<Atom> evaluate(MongoCollection<Document> coll,FindIterable<Document> query, Predicate p) throws SQLException {
+		public static ArrayList<Atom> evaluate(MongoCollection<Document> coll,FindIterable<Document> queryResult, Predicate p) throws SQLException {
 			
 			ArrayList<Atom> tempAtomList = new ArrayList<Atom>();
 
 			try {
 			
-			for(Document x : query) {
+			for(Document x : queryResult) {
 				ArrayList<Term> temp = mainExemple.createTermList();
 				// "Document{{lastname=Mahon, firstname=Mr. John, sex=male}}
 				//Tant qu'il y a des données à mettre dans le prédicat
@@ -41,6 +41,7 @@ public class MongoDBMappingEvaluator {
 					
 					tempString = pls[i];
 					tempString = tempString.replace("}}", "");
+					tempString = tempString.replace(",", "");
 					System.out.println(tempString);
 					}
 					if(tempString != "null")  {					

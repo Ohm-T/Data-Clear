@@ -1,1307 +1,2015 @@
-{B->"Mr. Jose Joaquim",A->"de Brito",G->"0"}
-{B->"Miss. Helmina Josefina",A->"Nilsson",G->"1"}
-{B->"Mr. Ali",A->"Assam",G->"0"}
-{B->"Miss. Erna Alexandra",A->"Andersson",G->"1"}
-{B->"Master. Hudson Trevor",A->"Allison",G->"1"}
-{B->"Mr. Mansour",A->"Hanna",G->"0"}
-{B->"Mr. Nestor Cyriel",A->"Vande Walle",G->"0"}
-{B->"Miss. Barbara J",A->"West",G->"1"}
-{B->"Mr. John",A->"Simmons",G->"0"}
-{B->"Mr. Engelhart Cornelius",A->"Ostby",G->"0"}
-{B->"Mr. Lawrence",A->"Beesley",G->"1"}
-{B->"Mr. Frank",A->"Duane",G->"0"}
-{B->"Miss. Emily",A->"Rugg",G->"1"}
-{B->"Mr. Robert Douglas",A->"Norman",G->"0"}
-{B->"Master. Karl Thorsten",A->"Skoog",G->"0"}
-{B->"Mr. Victor",A->"Vander Cruyssen",G->"0"}
-{B->"Mrs. Samuel (Emma)",A->"Risien",G->"0"}
-{B->"Miss. Margaret Bechstein",A->"Hays",G->"1"}
-{B->"Dr. Ernest",A->"Moraweck",G->"0"}
-{B->"Miss. Annie Jessie 'Nina'",A->"Harper",G->"1"}
-{B->"Mrs. John Morgan (Elizabeth Agnes Mary White)",A->"Davies",G->"1"}
-{B->"Miss. Bridget",A->"O'Driscoll",G->"1"}
-{B->"Mrs. George Nelson (Martha Evelyn)",A->"Stone",G->"1"}
-{B->"Miss. Ethel Flora",A->"Fortune",G->"1"}
-{B->"Mrs. Frederick Maxfield (Jane Anne Forby)",A->"Hoyt",G->"1"}
-{B->"Mr. Robert J",A->"Knight",G->"0"}
-{B->"Mr. John Hatfield",A->"Cribb",G->"0"}
-{B->"Mr. Emil",A->"Brandeis",G->"0"}
-{B->"Miss. Kate Florence ('Mrs Kate Louise Phillips Marshall')",A->"Phillips",G->"1"}
-{B->"Mr. Clifford Richard",A->"Parker",G->"0"}
-{B->"Mr. Hanna Assi",A->"Barah",G->"1"}
-{B->"Mr. Washington Augustus II",A->"Roebling",G->"0"}
-{B->"Mr. Richard James",A->"Slemen",G->"0"}
-{B->"Mr. Edward",A->"Ryan",G->"1"}
-{B->"Mr. August Ferdinand",A->"Nilsson",G->"0"}
-{B->"Mr. Charles Alexander",A->"Fortune",G->"0"}
-{B->"Mr. Percival James R",A->"Sharp",G->"0"}
-{B->"Mr. Charles Frederick",A->"Goodwin",G->"0"}
-{B->"Mr. Redjo",A->"Delalic",G->"0"}
-{B->"Mrs. Alexander Taylor (Mary Eliza Ingersoll)",A->"Compton",G->"1"}
-{B->"Mr. Samuel L",A->"Goldenberg",G->"1"}
-{B->"Mr. Luigi",A->"Finoli",G->"1"}
-{B->"Mr. Henry Birkhardt",A->"Harris",G->"0"}
-{B->"Rev. Thomas Roussel Davids",A->"Byles",G->"0"}
-{B->"Mr. Chang",A->"Chip",G->"1"}
-{B->"Mr. Satio",A->"Coleff",G->"0"}
-{B->"Mrs. Walter Donald (Mahala Dutton)",A->"Douglas",G->"1"}
-{B->"Mr. James Robert",A->"McGough",G->"1"}
-{B->"Mr. Simon",A->"Lithman",G->"0"}
-{B->"Mr. Frederick James",A->"Banfield",G->"0"}
-{B->"Mr. Fletcher Fellows",A->"Williams-Lambert",G->"0"}
-{B->"Miss. Bertha",A->"Lehmann",G->"1"}
-{B->"Mr. Kurt Arnold Gottfrid",A->"Bryhl",G->"0"}
-{B->"Mr. John",A->"Garfirth",G->"0"}
-{B->"Miss. Margaret Edith",A->"Graham",G->"1"}
-{B->"Miss. Telma Matilda",A->"Strom",G->"0"}
-{B->"Mr. Leopold",A->"Weisz",G->"0"}
-{B->"Mr. James Vivian",A->"Drew",G->"0"}
-{B->"Miss. Ruth",A->"Taussig",G->"1"}
-{B->"Mr. Harry",A->"Anderson",G->"1"}
-{B->"Mr. Peter David",A->"McKane",G->"0"}
-{B->"Mr. Thomas",A->"Storey",G->"0"}
-{B->"Mr. Johann",A->"Markun",G->"0"}
-{B->"Mr. Austin Blyler",A->"van Billiard",G->"0"}
-{B->"Mr. Olof Edvin",A->"Vendel",G->"0"}
-{B->"Master. George Hugh",A->"Rice",G->"0"}
-{B->"Mrs. Hudson J C (Bessie Waldo Daniels)",A->"Allison",G->"0"}
-{B->"Mr. George",A->"Patchett",G->"0"}
-{B->"Mr. Nikolai Johannes",A->"Peltomaki",G->"0"}
-{B->"Mr. Johan Henrik Johannesson",A->"Kvillner",G->"0"}
-{B->"Mr. William H",A->"Harbeck",G->"0"}
-{B->"Mr. John Irwin ('Irving')",A->"Flynn",G->"1"}
-{B->"Mr. Ristiu",A->"Dantcheff",G->"0"}
-{B->"Mr. Johan Hansen",A->"Nysveen",G->"0"}
-{B->"Mrs. Alexander A (Grace Charity Laury)",A->"Robins",G->"0"}
-{B->"Miss. Saiide",A->"Barbara",G->"0"}
-{B->"Mr. Frederick Charles",A->"Sawyer",G->"0"}
-{B->"Mr. William Henry",A->"Gillespie",G->"0"}
-{B->"Miss. Margaret",A->"Fleming",G->"1"}
-{B->"Miss. Luise Gretchen",A->"Kink-Heilmann",G->"1"}
-{B->"Mr. Ernst Axel Algot",A->"Aronsson",G->"0"}
-{B->"Mr. Alexander Taylor Jr",A->"Compton",G->"0"}
-{B->"Mrs. John Jacob (Madeleine Talmadge Force)",A->"Astor",G->"1"}
-{B->"Mr. James",A->"Farrell",G->"0"}
-{B->"Mr. Luka",A->"Oreskovic",G->"0"}
-{B->"Mr. Tido",A->"Rekic",G->"0"}
-{B->"Miss. Katriina",A->"Jussila",G->"0"}
-{B->"Don. Manuel E",A->"Uruchurtu",G->"0"}
-{B->"Mr. Alfred John",A->"Carver",G->"0"}
-{B->"Mr. Eberhard Thelander",A->"Fischer",G->"0"}
-{B->"Mr. Peter L",A->"Lemberopolous",G->"0"}
-{B->"Master. Carl Edgar",A->"Asplund",G->"0"}
-{B->"Mr. Francesco",A->"Celotti",G->"0"}
-{B->"Mrs. Maxmillian (Margaretha Emerentia Stehli)",A->"Frolicher-Stehli",G->"1"}
-{B->"Mr. William James",A->"Elsbury",G->"0"}
-{B->"Mrs. Arthur Henry ('Addie' Dart Trevaskis)",A->"Wells",G->"1"}
-{B->"Mr. Evan",A->"Davies",G->"0"}
-{B->"Mr. Stephen Weart",A->"Blackwell",G->"0"}
-{B->"Mr. Lionel",A->"Leonard",G->"0"}
-{B->"Mr. Mito",A->"Mitkoff",G->"0"}
-{B->"Mr. Nakli",A->"Toufik",G->"0"}
-{B->"Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",A->"Brown",G->"1"}
-{B->"Miss. Stella Anna",A->"Sage",G->"0"}
-{B->"Mr. Marius",A->"Petersen",G->"0"}
-{B->"Miss. Bridget Delia",A->"Mahon",G->"0"}
-{B->"Mr. Leon",A->"Hampe",G->"0"}
-{B->"Mr. Charles Augustus",A->"Aldworth",G->"0"}
-{B->"Miss. Brigdet Delia",A->"McDermott",G->"1"}
-{B->"Miss. Torborg Danira",A->"Palsson",G->"0"}
-{B->"Mr. William A",A->"Angle",G->"0"}
-{B->"Mr. Lalio",A->"Todoroff",G->"0"}
-{B->"Mr. Benjamin",A->"Guggenheim",G->"0"}
-{B->"Mrs. Frederic Oakley (Margaretta Corning Stone)",A->"Spedden",G->"1"}
-{B->"Mr. Fahim ('Philip Zenni')",A->"Leeni",G->"1"}
-{B->"Master. William Rowe",A->"Richards",G->"1"}
-{B->"Mr. David",A->"Reeves",G->"0"}
-{B->"Mr. Hanna",A->"Mamee",G->"1"}
-{B->"Mr. Peju",A->"Coleff",G->"0"}
-{B->"Mr. Juha",A->"Niskanen",G->"1"}
-{B->"Mr. Joseph",A->"Elias",G->"0"}
-{B->"Mrs. (Rosa)",A->"Pinsky",G->"1"}
-{B->"Mr. Patrick",A->"Colbert",G->"0"}
-{B->"Miss. Agda Thorilda Viktoria",A->"Lindahl",G->"0"}
-{B->"Miss. Aurora Adelia",A->"Landergren",G->"1"}
-{B->"Mr. Pastcho ('Pentcho')",A->"Petroff",G->"0"}
-{B->"Mr. George",A->"Harris",G->"1"}
-{B->"Mr. Arthur Gordon",A->"McCrae",G->"0"}
-{B->"Mr. Mile",A->"Smiljanic",G->"0"}
-{B->"Mr. Peter Henry",A->"Renouf",G->"0"}
-{B->"Mrs. Bertram (Eva Georgetta Light)",A->"Dean",G->"1"}
-{B->"Mr. Thomas Jr",A->"Andrews",G->"0"}
-{B->"Mrs. John Pillsbury (Nelle Stevenson)",A->"Snyder",G->"1"}
-{B->"Miss. Jenny Lovisa",A->"Henriksson",G->"0"}
-{B->"Mr. Jean Baptiste",A->"Van Impe",G->"0"}
-{B->"Mr. Samuel",A->"Greenberg",G->"0"}
-{B->"Mr. Simon",A->"Maisner",G->"0"}
-{B->"Mr. John D",A->"Baumann",G->"0"}
-{B->"Mr. Mitto",A->"Denkoff",G->"0"}
-{B->"Miss. Dorothy Winifred",A->"Gibson",G->"1"}
-{B->"Miss. Joan",A->"Wells",G->"1"}
-{B->"Mr. Patrick",A->"Dooley",G->"0"}
-{B->"Mr. Austen",A->"Partner",G->"0"}
-{B->"Mrs. Alfred (Antoinette)",A->"Flegenheim",G->"1"}
-{B->"Mr. Joseph Philippe Lemercier",A->"Laroche",G->"0"}
-{B->"Mr. Arthur Larned",A->"Ryerson",G->"0"}
-{B->"Mr. Charles (Charles Fardon)",A->"Franklin",G->"0"}
-{B->"Mr. George Quincy",A->"Clifford",G->"0"}
-{B->"Mr. Arthur",A->"Keefe",G->"0"}
-{B->"Mr. Walter Chamberlain",A->"Porter",G->"0"}
-{B->"Master. Sigvard Harald Elias",A->"Andersson",G->"0"}
-{B->"Mrs. Elizabeth (Eliza Needs)",A->"Hocking",G->"1"}
-{B->"Mr. Orsen",A->"Sirayanian",G->"0"}
-{B->"Miss. Susan",A->"Webber",G->"1"}
-{B->"Mr. Nicholas",A->"Nasser",G->"0"}
-{B->"Mr. Achille",A->"Waelens",G->"0"}
-{B->"Mr. Hans Peder",A->"Jensen",G->"0"}
-{B->"Mr. Aaron ('Abi Weller')",A->"Willer",G->"0"}
-{B->"Mr. John Edward",A->"Maguire",G->"0"}
-{B->"Mrs. Josef (Josefine Franchi)",A->"Arnold-Franchi",G->"0"}
-{B->"Mr. Nedelio",A->"Petroff",G->"0"}
-{B->"Mr. Kristo",A->"Laleff",G->"0"}
-{B->"Miss. Mathilde",A->"Lefebre",G->"0"}
-{B->"Miss. Margaret Marcella 'Maggie'",A->"Daly",G->"1"}
-{B->"Capt. Edward Gifford",A->"Crosby",G->"0"}
-{B->"Mr. Matthew",A->"Sadlier",G->"0"}
-{B->"Mr. Bartol",A->"Cor",G->"0"}
-{B->"Mr. Tannous",A->"Elias",G->"0"}
-{B->"Mr. Herbert Henry",A->"Hilliard",G->"0"}
-{B->"Mr. Frederick Edward",A->"Giles",G->"0"}
-{B->"Miss. Thamine",A->"Zabour",G->"0"}
-{B->"Mrs. Walter Miller (Virginia McDowell)",A->"Clark",G->"1"}
-{B->"Mrs. Louis Albert (Ida Sophia Fischer)",A->"Hippach",G->"1"}
-{B->"Mr. Yousseff",A->"Ibrahim Shawah",G->"0"}
-{B->"Mrs. Tyrell William (Julia Florence Siegel)",A->"Cavendish",G->"1"}
-{B->"Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",A->"Danbom",G->"0"}
-{B->"Mr. Tyrell William",A->"Cavendish",G->"0"}
-{B->"Miss. Alicia",A->"McCoy",G->"1"}
-{B->"Mr. Gurshon 'Gus'",A->"Cohen",G->"1"}
-{B->"Miss. Hanora 'Nora'",A->"Hegarty",G->"0"}
-{B->"Mr. Alfonzo",A->"Meo",G->"0"}
-{B->"Mr. Victor",A->"Giglio",G->"0"}
-{B->"Mr. Olaf",A->"Pedersen",G->"0"}
-{B->"Mr. Karl Johan",A->"Salander",G->"0"}
-{B->"Mr. Daniel Warner",A->"Marvin",G->"0"}
-{B->"Mr. Samuel James Metcalfe",A->"Hocking",G->"0"}
-{B->"Mrs. Lizzie (Elizabeth Anne Wilkinson)",A->"Faunthorpe",G->"1"}
-{B->"Mrs. Leonard (Pauline C Boeson)",A->"Gibson",G->"1"}
-{B->"Mr. Sleiman",A->"Attalah",G->"0"}
-{B->"Mr. Lee",A->"Bing",G->"1"}
-{B->"Miss. Rosalie",A->"Bidois",G->"1"}
-{B->"Mr. Reginald Fenton",A->"Butler",G->"0"}
-{B->"Mr. Serafino Emilio",A->"Mangiavacchi",G->"0"}
-{B->"Miss. Kate",A->"Buss",G->"1"}
-{B->"Mr. Gunnar Isidor",A->"Tenglin",G->"1"}
-{B->"Miss. Hilda Mary",A->"Slayter",G->"1"}
-{B->"Mr. Johannes Joseph",A->"Vande Velde",G->"0"}
-{B->"Mr. Anders Johan",A->"Andersson",G->"0"}
-{B->"Mr. Sinai",A->"Kantor",G->"0"}
-{B->"Mr. Harry ('Mr E Haven')",A->"Homer",G->"1"}
-{B->"Mr. Edwin",A->"Keeping",G->"0"}
-{B->"Miss. Ingeborg Constanzia",A->"Andersson",G->"0"}
-{B->"Mr. Michael",A->"Linehan",G->"0"}
-{B->"Mr. George William",A->"MacKay",G->"0"}
-{B->"Mrs. Anders Johan (Alfrida Konstantia Brogren)",A->"Andersson",G->"0"}
-{B->"Mr. Stanio",A->"Gheorgheff",G->"0"}
-{B->"Mr. John",A->"Ashby",G->"0"}
-{B->"Miss. Lillian Amy",A->"Goodwin",G->"0"}
-{B->"Dona. Fermina",A->"Oliva y Ocana",G->"1"}
-{B->"Mr. Berk (Berk Trembisky)",A->"Pickard",G->"1"}
-{B->"Mr. Percival",A->"Thorneycroft",G->"0"}
-{B->"Mr. Albert Francis",A->"Caldwell",G->"1"}
-{B->"Mr. John Fredrik Alexander",A->"Holm",G->"0"}
-{B->"Miss. Jamila",A->"Nicola-Yarred",G->"1"}
-{B->"Mrs. Emil (Tillie Mandelbaum)",A->"Taussig",G->"1"}
-{B->"Miss. Amelia 'Mildred'",A->"Brown",G->"1"}
-{B->"Miss. Maria Youssef",A->"Touma",G->"1"}
-{B->"Miss. Manda",A->"Cacic",G->"0"}
-{B->"Mrs. Karl Alfred (Maria Mathilda Gustafsson)",A->"Backstrom",G->"1"}
-{B->"Master. Sidney Leonard",A->"Goodwin",G->"0"}
-{B->"Miss. Catherine Helen 'Carrie'",A->"Johnston",G->"0"}
-{B->"Mr. William Thomas",A->"Beavan",G->"0"}
-{B->"Mrs. Percy C (Mary Phyllis Elizabeth Miller)",A->"Corey",G->"0"}
-{B->"Mr. Oskar Leander",A->"Johansson Palmquist",G->"1"}
-{B->"Mr. Nils Martin",A->"Odahl",G->"0"}
-{B->"Mr. Samuel",A->"Niklasson",G->"0"}
-{B->"Mr. Amin",A->"Saad",G->"0"}
-{B->"Mr. Albert A",A->"Stewart",G->"0"}
-{B->"Mr. William",A->"Campbell",G->"0"}
-{B->"Mr. Stanley Hubert",A->"Fox",G->"0"}
-{B->"Miss. Elsie",A->"Doling",G->"1"}
-{B->"Mr. August",A->"Meyer",G->"0"}
-{B->"Mr. Joseph",A->"Murdlin",G->"0"}
-{B->"Mr. Leo Peter",A->"Vanden Steen",G->"0"}
-{B->"Miss. Gertrud Emilia",A->"Klasen",G->"0"}
-{B->"Mr. Uscher",A->"Paulner",G->"0"}
-{B->"Mr. Thomas",A->"Smith",G->"0"}
-{B->"Mr. Ilia",A->"Stoytcheff",G->"0"}
-{B->"Mrs. Edgar Joseph (Leila Saks)",A->"Meyer",G->"1"}
-{B->"Mr. Karl Albert",A->"Midtsjo",G->"1"}
-{B->"Mr. George",A->"Wright",G->"0"}
-{B->"Mr. Jose Neto",A->"Jardin",G->"0"}
-{B->"Mr. Philemon",A->"van Melkebeke",G->"0"}
-{B->"Miss. Eva Miriam",A->"Hart",G->"1"}
-{B->"Mr. Milton Clyde",A->"Long",G->"0"}
-{B->"Mr. Farred Chehab",A->"Emir",G->"0"}
-{B->"Mr. Bernt",A->"Johannesen-Bratthammer",G->"1"}
-{B->"Mr. Viktor Richard",A->"Rosblom",G->"0"}
-{B->"Miss. Amalie",A->"Geiger",G->"1"}
-{B->"Miss. Ann Elizabeth",A->"Isham",G->"0"}
-{B->"Miss. Augusta Maria",A->"Vander Planke",G->"0"}
-{B->"Mr. Liudevit",A->"Cor",G->"0"}
-{B->"Mr. Claus Peter",A->"Hansen",G->"0"}
-{B->"Miss. (Marion Ogden)",A->"Meanwell",G->"0"}
-{B->"Mr. Charles Duane",A->"Williams",G->"0"}
-{B->"Mr. Michael",A->"Connaghton",G->"0"}
-{B->"Mr. Linhart",A->"Wenzel",G->"0"}
-{B->"Mrs. Johan (Johanna Persdotter Larsson)",A->"Ahlin",G->"0"}
-{B->"Master. Urho Abraham",A->"Panula",G->"0"}
-{B->"Master. Paul Folke",A->"Palsson",G->"0"}
-{B->"Rev. Robert James",A->"Bateman",G->"0"}
-{B->"Mr. Charles William",A->"Warren",G->"0"}
-{B->"Mr. Samuel",A->"Abelson",G->"0"}
-{B->"Mr. Daniel",A->"Coxon",G->"0"}
-{B->"Mrs. Joseph (Juliette Marie Louise Lafargue)",A->"Laroche",G->"1"}
-{B->"Mr. Adolf Fredrik",A->"Dyker",G->"0"}
-{B->"Mr. Peter Andreas Lauritz Andersen",A->"Soholt",G->"0"}
-{B->"Mr. Johan Charles",A->"Asplund",G->"1"}
-{B->"Mr. Leo Edmondus",A->"Vander Planke",G->"0"}
-{B->"Miss. Margaret Jane",A->"Murphy",G->"1"}
-{B->"Mr. Vincenz",A->"Kink",G->"0"}
-{B->"Mr. Pehr Fabian Oliver Malkolm",A->"Myhrman",G->"0"}
-{B->"Mr. Herbert",A->"Denbury",G->"0"}
-{B->"Mrs. Frederick Charles (Jane Richards)",A->"Quick",G->"1"}
-{B->"Mr. Antoni",A->"Yasbeck",G->"0"}
-{B->"Mr. Ole Martin",A->"Olsen",G->"0"}
-{B->"Mrs. Ernest Courtenay (Lilian Hughes)",A->"Carter",G->"0"}
-{B->"Mr. Sahid",A->"Nakid",G->"1"}
-{B->"Mr. Johan Werner",A->"Salonen",G->"0"}
-{B->"Mrs. William Ernest (Lucile Polk)",A->"Carter",G->"1"}
-{B->"Miss. Mary",A->"Canavan",G->"0"}
-{B->"Mr. Johan Samuel",A->"Andersson",G->"0"}
-{B->"Mr. Mauritz Nils Martin",A->"Adahl",G->"0"}
-{B->"Mr. Tannous",A->"Doharr",G->"0"}
-{B->"Mr. Julian",A->"Padro y Manent",G->"1"}
-{B->"Miss. Asuncion",A->"Duran y More",G->"1"}
-{B->"Mr. Walter James",A->"Hawksford",G->"1"}
-{B->"Mr. Julius",A->"Vander Planke",G->"0"}
-{B->"Mrs. Ernest H (Elizabeth Lindsey James)",A->"Lines",G->"1"}
-{B->"Mr. Edward Watson",A->"Ford",G->"0"}
-{B->"Miss. Ellen 'Nellie'",A->"O'Dwyer",G->"1"}
-{B->"Mr. Thomas Francis",A->"Myles",G->"0"}
-{B->"Mrs. (Catherine David)",A->"Barbara",G->"0"}
-{B->"Miss. Banoura",A->"Ayoub",G->"1"}
-{B->"Mr. Charles Henry",A->"Davies",G->"0"}
-{B->"Mr. Marinko",A->"Demetri",G->"0"}
-{B->"Mrs. Sam (Leah Rosen)",A->"Aks",G->"1"}
-{B->"Miss. Hannah",A->"Naughton",G->"0"}
-{B->"Mr. Olaf Elon",A->"Osen",G->"0"}
-{B->"Mr. Arthur H",A->"Gee",G->"0"}
-{B->"Mr. Alexander Morrison",A->"Thomson",G->"0"}
-{B->"Mrs. Alexander (Thamine 'Thelma')",A->"Thomas",G->"1"}
-{B->"Mrs. Charles Emil Henry (Annie May Morris)",A->"Stengel",G->"1"}
-{B->"Mr. Karl Siegwart Andreas",A->"Olsen",G->"0"}
-{B->"Mr. Ernest Wilfred",A->"Jefferys",G->"0"}
-{B->"Mr. Moses Aaron",A->"Troupiansky",G->"0"}
-{B->"Mr. Joseph Bruce",A->"Ismay",G->"1"}
-{B->"Rev. Ernest Courtenay",A->"Carter",G->"0"}
-{B->"Mr. Henry Price",A->"Hodges",G->"0"}
-{B->"Mr. Emilio",A->"Pallas y Castello",G->"1"}
-{B->"Miss. Ellen Natalia",A->"Shine",G->"1"}
-{B->"Mr. Janko",A->"Vovk",G->"0"}
-{B->"Mr. Antti Gustaf",A->"Leinonen",G->"0"}
-{B->"Mr. Charles P",A->"Thomas",G->"0"}
-{B->"Mrs. Andrew G (Elizabeth 'Lily' Watson)",A->"Johnston",G->"0"}
-{B->"Mr. William Baird",A->"Silvey",G->"0"}
-{B->"Dr. Washington",A->"Dodge",G->"1"}
-{B->"Mrs. William Baird (Alice Munger)",A->"Silvey",G->"1"}
-{B->"Mr. Thomas Parham",A->"Franklin",G->"0"}
-{B->"Mr. Henry Sleeper",A->"Harper",G->"1"}
-{B->"Mrs. Percival (Florence Kate White)",A->"Thorneycroft",G->"1"}
-{B->"Mr. John",A->"Horgan",G->"0"}
-{B->"Mrs. Thomas (Edith Wearne)",A->"Pears",G->"1"}
-{B->"Mr. Edgar Joseph",A->"Meyer",G->"0"}
-{B->"Mr. Samuel James Hayden",A->"Sobey",G->"0"}
-{B->"Miss. Edith Corse",A->"Evans",G->"0"}
-{B->"Miss. Velin",A->"Ohman",G->"1"}
-{B->"Mr. Jakob",A->"Birnbaum",G->"0"}
-{B->"Mr. Leslie",A->"Williams",G->"0"}
-{B->"Ms. Encarnacion",A->"Reynaldo",G->"1"}
-{B->"Miss. Susan Parker 'Suzette'",A->"Ryerson",G->"1"}
-{B->"Mr. Alexander Oskar",A->"Holverson",G->"0"}
-{B->"Master. Marshall Brines",A->"Drew",G->"1"}
-{B->"Mr. Walter Miller",A->"Clark",G->"0"}
-{B->"Mrs. Gertrude Maybelle",A->"Thorne",G->"1"}
-{B->"Mr. William John",A->"Matthews",G->"0"}
-{B->"Mr. Ernst Adolf",A->"Sjostedt",G->"0"}
-{B->"Mr. Gustave J",A->"Lesurer",G->"1"}
-{B->"Mr. Rahamin Haim",A->"Moutal",G->"0"}
-{B->"Miss. Mabel Helen",A->"Fortune",G->"1"}
-{B->"Mrs. Oscar W (Elisabeth Vilhelmina Berg)",A->"Johnson",G->"1"}
-{B->"Mr. Johan Emil",A->"Petterson",G->"0"}
-{B->"Mr. Emil",A->"Taussig",G->"0"}
-{B->"Mr. Harry Elkins",A->"Widener",G->"0"}
-{B->"Mr. James",A->"Kelly",G->"0"}
-{B->"Mr. John James",A->"Ware",G->"0"}
-{B->"Mr. Jeremiah",A->"Burke",G->"0"}
-{B->"Mrs. Albert (Antoinette Magnin)",A->"Mallet",G->"1"}
-{B->"Mr. Luka",A->"Cacic",G->"0"}
-{B->"Mr. Karl Johan",A->"Johansson",G->"0"}
-{B->"Mr. Charles Alexander",A->"Louch",G->"0"}
-{B->"Mr. Benjamin",A->"Hart",G->"0"}
-{B->"Mr. Robert",A->"Guest",G->"0"}
-{B->"Rev. William",A->"Lahtinen",G->"0"}
-{B->"Mr. John Henry",A->"Chapman",G->"0"}
-{B->"Mrs. Darwis (Hanne Youssef Razi)",A->"Touma",G->"1"}
-{B->"Miss. Edith Eileen",A->"Brown",G->"1"}
-{B->"Mr. Lawrence",A->"Gavey",G->"0"}
-{B->"Mr. Jacques Heath",A->"Futrelle",G->"0"}
-{B->"Mrs. William (Margaret Norton)",A->"Rice",G->"0"}
-{B->"Mrs. James Warburton Martinez (Charlotte Wardle Drake)",A->"Cardeza",G->"1"}
-{B->"Mr. Ingvar",A->"Enander",G->"0"}
-{B->"Mr. Harold J",A->"Reynolds",G->"0"}
-{B->"Mr. Ramon",A->"Artagaveytia",G->"0"}
-{B->"Mrs. James Joseph (Margaret Tobin)",A->"Brown",G->"1"}
-{B->"Mr. Howard Hugh 'Harry'",A->"Williams",G->"0"}
-{B->"Miss. Jelka",A->"Oreskovic",G->"0"}
-{B->"Mr. Shadrach",A->"Gale",G->"0"}
-{B->"Mr. John",A->"Bourke",G->"0"}
-{B->"Mr. Knud Paust",A->"Rommetvedt",G->"0"}
-{B->"Mr. Ennis Hastings",A->"Watson",G->"0"}
-{B->"Mr. Lee",A->"Ling",G->"0"}
-{B->"Miss. Gerda Ulrika",A->"Dahlberg",G->"0"}
-{B->"Mr. Timothy",A->"O'Brien",G->"0"}
-{B->"Mr. William Crothers",A->"Dulles",G->"0"}
-{B->"Mr. Johan Cervin",A->"Svensson",G->"1"}
-{B->"Mr. Frederick",A->"Sutton",G->"0"}
-{B->"Mr. Charles Henry",A->"Chapman",G->"0"}
-{B->"Miss. Marjorie 'Lottie'",A->"Collyer",G->"1"}
-{B->"Mr. Abraham August Johannes",A->"Abrahamsson",G->"1"}
-{B->"Mr. Jovo",A->"Calic",G->"0"}
-{B->"Mr. Nathan",A->"Goldsmith",G->"0"}
-{B->"Mr. Jozef",A->"Drazenoic",G->"0"}
-{B->"Miss. Eliina",A->"Honkanen",G->"1"}
-{B->"Miss. Jennie",A->"Drapkin",G->"1"}
-{B->"Mrs. John (Annie Bullen)",A->"Sage",G->"0"}
-{B->"Mrs. Wilhelm (Elna Matilda Persson)",A->"Strom",G->"0"}
-{B->"Mrs. George Dunton (Eleanor Elkins)",A->"Widener",G->"1"}
-{B->"Mrs. Mark (Mary McDougald)",A->"Fortune",G->"1"}
-{B->"Mr. Phillippe",A->"Wiseman",G->"0"}
-{B->"Mme. Leontine Pauline",A->"Aubart",G->"1"}
-{B->"Mrs. Martin (Elizabeth L. Barrett)",A->"Rothschild",G->"1"}
-{B->"Mr. Nils",A->"Johansson",G->"0"}
-{B->"Miss. Dorothy Edith 'Dolly'",A->"Sage",G->"0"}
-{B->"Master. Viljo",A->"Hamalainen",G->"1"}
-{B->"Mr. Jean Nassr",A->"Saade",G->"0"}
-{B->"Mr. William Thompson",A->"Sloper",G->"1"}
-{B->"Mr. Ortin",A->"Zakarian",G->"0"}
-{B->"Mrs. John James (Florence Louise Long)",A->"Ware",G->"1"}
-{B->"Mr. Richard",A->"Otter",G->"0"}
-{B->"Mr. Jan Baptist",A->"Sheerlinck",G->"1"}
-{B->"Miss. Helen 'Ellen'",A->"Carr",G->"1"}
-{B->"Mr. Edward",A->"Beane",G->"1"}
-{B->"Mr. Henry Samuel ('Mr Henry Marshall')",A->"Morley",G->"0"}
-{B->"Mrs. Alexander (Helga E Lindqvist)",A->"Hirvonen",G->"1"}
-{B->"Miss. Katie",A->"Peters",G->"0"}
-{B->"Mr. Samuel",A->"Dennis",G->"0"}
-{B->"Mr. Vassilios ('Catavelas Vassilios')",A->"Katavelas",G->"0"}
-{B->"Mr. Simon Sivertsen",A->"Saether",G->"0"}
-{B->"Mr. Thure Edvin",A->"Lundstrom",G->"1"}
-{B->"Miss. Mari Aina",A->"Jussila",G->"0"}
-{B->"Mr. Noel",A->"Malachard",G->"0"}
-{B->"Mr. Nils August",A->"Karlsson",G->"0"}
-{B->"Miss. Katherine",A->"McGowan",G->"0"}
-{B->"Major. Archibald Willingham",A->"Butt",G->"0"}
-{B->"Mrs. (Lutie Davis)",A->"Parrish",G->"1"}
-{B->"Mr. Alfred George John",A->"Rush",G->"0"}
-{B->"Mr. George Achilles",A->"Harder",G->"1"}
-{B->"Mr. Thomas Francis",A->"McCaffry",G->"0"}
-{B->"Mr. Edward Roland",A->"Stanley",G->"0"}
-{B->"Master. Alden Gates",A->"Caldwell",G->"1"}
-{B->"Mrs. Paul (Emma Mock)",A->"Schabert",G->"1"}
-{B->"Master. Akar",A->"Boulos",G->"0"}
-{B->"Mr. John Bertram",A->"Crafton",G->"0"}
-{B->"Mr. Nikolai Erland",A->"Kallio",G->"0"}
-{B->"Mr. Arthur Ernest",A->"Nicholson",G->"0"}
-{B->"Mr. Pekka Pietari",A->"Hakkarainen",G->"0"}
-{B->"Mr. Karl Johan",A->"Wiklund",G->"0"}
-{B->"Mrs. Benjamin (Esther Ada Bloomfield)",A->"Hart",G->"1"}
-{B->"Mr. Maxmillian",A->"Frolicher-Stehli",G->"1"}
-{B->"Mrs. William Robert (Emma Eliza Ward)",A->"Bucknell",G->"1"}
-{B->"Mrs. John T (Ada Julia Bone)",A->"Doling",G->"1"}
-{B->"Miss. Ida Augusta Margareta",A->"Andersson",G->"0"}
-{B->"Mr. Stjepan",A->"Turcin",G->"0"}
-{B->"Mr. Percival Wayland",A->"White",G->"0"}
-{B->"Mr. Harry",A->"Gale",G->"0"}
-{B->"Master. Thomas Henry",A->"Sage",G->"0"}
-{B->"Mr. Ivan",A->"Mineff",G->"0"}
-{B->"Mr. Patrick",A->"Shaughnessy",G->"0"}
-{B->"Miss. Carla Christine Nielsine",A->"Andersen-Jensen",G->"1"}
-{B->"Mr. John",A->"Mahon",G->"0"}
-{B->"Mrs. John (Catherine)",A->"Bourke",G->"0"}
-{B->"Mrs. Harvey (Charlotte Annie Tate)",A->"Collyer",G->"1"}
-{B->"Miss. Ebba Iris Alfrida",A->"Andersson",G->"0"}
-{B->"Mr. Sidney Samuel",A->"Jacobsohn",G->"0"}
-{B->"Miss. Elizabeth Margaret",A->"Burns",G->"1"}
-{B->"Mr. Philipp Edmund",A->"Mock",G->"1"}
-{B->"Mrs. Fatima",A->"Masselmani",G->"1"}
-{B->"Miss. Amy Zillah Elsie",A->"Stanley",G->"1"}
-{B->"Miss. Marija",A->"Cacic",G->"0"}
-{B->"Col. Archibald IV",A->"Gracie",G->"1"}
-{B->"Mr. Cerin",A->"Balkic",G->"0"}
-{B->"Mrs. Henry Sleeper (Myna Haxtun)",A->"Harper",G->"1"}
-{B->"Col. John Jacob",A->"Astor",G->"0"}
-{B->"Mr. Albert",A->"Mallet",G->"0"}
-{B->"Miss. Stina Viola",A->"Palsson",G->"0"}
-{B->"Mrs. Alexander Oskar (Mary Aline Towner)",A->"Holverson",G->"1"}
-{B->"Mrs. J Frank (Claire Bennett)",A->"Karnes",G->"0"}
-{B->"Mr. Eino William",A->"Lindqvist",G->"1"}
-{B->"Mrs. Joseph (Sultana)",A->"Boulos",G->"0"}
-{B->"Master. Washington",A->"Dodge",G->"1"}
-{B->"Mrs. Julius (Emelia Maria Vandemoortele)",A->"Vander Planke",G->"0"}
-{B->"Mr. Frank John",A->"Goldsmith",G->"0"}
-{B->"Mr. Sarkis",A->"Lahoud",G->"0"}
-{B->"Miss. Mary",A->"Kelly",G->"1"}
-{B->"Mr. Thor Anderson",A->"Olsvigen",G->"0"}
-{B->"Mr. Joseph",A->"Foley",G->"0"}
-{B->"Miss. Julia",A->"Smyth",G->"1"}
-{B->"Mr. Andrew G",A->"Johnston",G->"0"}
-{B->"Mr. Charles Joseph",A->"Shorney",G->"0"}
-{B->"Mr. Johan Julian",A->"Sundman",G->"1"}
-{B->"Mr. Philip Joseph",A->"Stokes",G->"0"}
-{B->"Mr. Theodor",A->"Kraeff",G->"0"}
-{B->"Mrs. (Selena Rogers)",A->"Cook",G->"1"}
-{B->"Mrs. Carl Johan (Sigrid Posse)",A->"Lindstrom",G->"1"}
-{B->"Mrs. Charles Melville (Clara Jennings Gregg)",A->"Hays",G->"1"}
-{B->"Mr. Joseph Holland",A->"Loring",G->"0"}
-{B->"Miss. Bertha E",A->"Mulvihill",G->"1"}
-{B->"Mr. Edwin 'Frederick'",A->"Wheeler",G->"0"}
-{B->"Mr. Milan",A->"Karaic",G->"0"}
-{B->"Mr. Israel",A->"Nesson",G->"0"}
-{B->"Mr. Edward H",A->"Wheadon",G->"0"}
-{B->"Mr. Thomas Rowan",A->"Morrow",G->"0"}
-{B->"Mrs. Frederick R (Marion)",A->"Kenyon",G->"1"}
-{B->"Mr. Stoytcho",A->"Mionoff",G->"0"}
-{B->"Mr. Mansouer",A->"Novel",G->"0"}
-{B->"Miss. Gladys",A->"Cherry",G->"1"}
-{B->"Miss. Anne",A->"Perreault",G->"1"}
-{B->"Miss. Ellen 'Nellie'",A->"Barber",G->"1"}
-{B->"Miss. Hanora 'Nora'",A->"Healy",G->"1"}
-{B->"Mr. Benjamin Laventall",A->"Foreman",G->"0"}
-{B->"Mrs. Lucien Philip (Mary Eloise Hughes)",A->"Smith",G->"1"}
-{B->"Miss. Mary Delia",A->"Burns",G->"0"}
-{B->"Mr. August Sigfrid",A->"Carlsson",G->"0"}
-{B->"Rev. Joseph Maria",A->"Peruschitz",G->"0"}
-{B->"Mr. Gilbert Milligan Jr",A->"Tucker",G->"1"}
-{B->"Mr. Patrick",A->"Connors",G->"0"}
-{B->"Miss. Caroline",A->"Bonnell",G->"1"}
-{B->"Mr. Frank",A->"Miles",G->"0"}
-{B->"Mrs. William (Anna Bernhardina Karlsson)",A->"Skoog",G->"0"}
-{B->"Miss. Sarah",A->"Daniels",G->"1"}
-{B->"Miss. Ruth Elizabeth",A->"Becker",G->"1"}
-{B->"Mr. Ernest James",A->"Crease",G->"0"}
-{B->"Mrs. (Edith Martha Bowerman)",A->"Chibnall",G->"1"}
-{B->"Mr. Abraham L",A->"Salomon",G->"1"}
-{B->"Mrs. John Bradley (Florence Briggs Thayer)",A->"Cumings",G->"1"}
-{B->"Miss. Anna Sofia",A->"Nysten",G->"1"}
-{B->"Mr. Escott Robert",A->"Phillips",G->"0"}
-{B->"Mr. David",A->"Charters",G->"0"}
-{B->"Miss. Eugenie",A->"Baclini",G->"1"}
-{B->"Mr. Arne Jonas",A->"Fahlstrom",G->"0"}
-{B->"Mrs. Frederick Charles (Mary Helene Baxter)",A->"Douglas",G->"1"}
-{B->"Miss. Augusta Charlotta",A->"Lindblom",G->"0"}
-{B->"Mr. George ('George Arthur Brayton')",A->"Bradley",G->"1"}
-{B->"Mr. Yoto",A->"Danoff",G->"0"}
-{B->"Mr. Richard Frasar",A->"White",G->"0"}
-{B->"Mr. Charles Edward",A->"Goodwin",G->"0"}
-{B->"Miss. Roberta",A->"Maioni",G->"1"}
-{B->"Mr. Alexander A",A->"Robins",G->"0"}
-{B->"Mr. Michael",A->"McEvoy",G->"0"}
-{B->"Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",A->"Marvin",G->"1"}
-{B->"Master. Harald",A->"Skoog",G->"0"}
-{B->"Mr. William Anderson",A->"Walker",G->"0"}
-{B->"Miss. Ellen",A->"Toomey",G->"1"}
-{B->"Miss. Dagmar Jenny Ingeborg",A->"Bryhl",G->"1"}
-{B->"Mrs. William Arthur (Cordelia K Stanlick)",A->"Lobb",G->"0"}
-{B->"Mr. Daniel J",A->"Moran",G->"0"}
-{B->"Mr. Joseph Charles",A->"Nicholls",G->"0"}
-{B->"Miss. Phyllis May",A->"Quick",G->"1"}
-{B->"Mrs. (Lena Jacobsen Solvang)",A->"Rasmussen",G->"0"}
-{B->"Mr. Frank Hubert",A->"Maybery",G->"0"}
-{B->"Master. John Borie",A->"Ryerson",G->"1"}
-{B->"Mr. John Bradley",A->"Cumings",G->"0"}
-{B->"Mr. Edwin Nelson Jr",A->"Kimball",G->"1"}
-{B->"Mr. Harry",A->"Faunthorpe",G->"0"}
-{B->"Sir. Cosmo Edmund ('Mr Morgan')",A->"Duff Gordon",G->"1"}
-{B->"Mrs. Antoni (Selini Alexander)",A->"Yasbeck",G->"1"}
-{B->"Mr. Ralph",A->"Giles",G->"0"}
-{B->"Mr. John George",A->"Sage",G->"0"}
-{B->"Miss. Pieta Sofia",A->"Ilmakangas",G->"0"}
-{B->"Master. William Henry",A->"Sage",G->"0"}
-{B->"Mrs. George Dennick (Mary Hitchcock)",A->"Wick",G->"1"}
-{B->"Mr. John Henry",A->"Perkin",G->"0"}
-{B->"Mr. Ylio",A->"Ilieff",G->"0"}
-{B->"Mrs. Nils (Alma Cornelia Berglund)",A->"Palsson",G->"0"}
-{B->"Mr. Edward",A->"Willey",G->"0"}
-{B->"Miss. Edwina Celia 'Winnie'",A->"Troutt",G->"1"}
-{B->"Mr. Edward Pennington",A->"Calderhead",G->"1"}
-{B->"Mr. Dibo",A->"Elias",G->"0"}
-{B->"Miss. Helene Barbara",A->"Baclini",G->"1"}
-{B->"Mr. Betros",A->"Khalil",G->"0"}
-{B->"Mr. Neshan",A->"Krekorian",G->"1"}
-{B->"Mrs. Frederick (Augusta Tyler)",A->"Goodwin",G->"0"}
-{B->"Mr. Francis William",A->"Somerton",G->"0"}
-{B->"Mr. Henrik Juul",A->"Hansen",G->"0"}
-{B->"Master. Eugene Joseph",A->"Abbott",G->"0"}
-{B->"Mrs. (Beila)",A->"Moor",G->"1"}
-{B->"Mr. William Thomas",A->"Stead",G->"0"}
-{B->"Mr. Albert Johan",A->"Moss",G->"1"}
-{B->"Mr. William Henry Marsh",A->"Parr",G->"0"}
-{B->"Mr. Carl Oscar Vilhelm Gustafsson",A->"Asplund",G->"0"}
-{B->"Mrs. Claus Peter (Jennie L Howard)",A->"Hansen",G->"1"}
-{B->"Mr. Edgardo Samuel",A->"Andrew",G->"0"}
-{B->"Mr. Minko",A->"Nankoff",G->"0"}
-{B->"Master. Henry Forbes",A->"Lefebre",G->"0"}
-{B->"Mr. David John",A->"Barton",G->"0"}
-{B->"Mr. Richard Norris II",A->"Williams",G->"1"}
-{B->"Miss. Beatrice Irene",A->"Sandstrom",G->"1"}
-{B->"Miss. Alice Elizabeth",A->"Fortune",G->"1"}
-{B->"Miss. May Elizabeth",A->"Howard",G->"1"}
-{B->"Miss. Anna Kristine",A->"Salkjelsvik",G->"1"}
-{B->"Mr. William Cahoone Jr",A->"Johnson",G->"0"}
-{B->"Mr. Alfred Fleming",A->"Cunningham",G->"0"}
-{B->"Mr. John Samuel",A->"Davies",G->"0"}
-{B->"Mrs. (Mary)",A->"Mack",G->"0"}
-{B->"Mr. Erik Gustaf ('Mr Edward Lingrey')",A->"Lindeberg-Lind",G->"0"}
-{B->"Miss. Marion Elsie",A->"Smith",G->"1"}
-{B->"Miss. Jean Gertrude",A->"Hippach",G->"1"}
-{B->"Mrs. John Murray (Caroline Lane Lamson)",A->"Brown",G->"1"}
-{B->"Mr. Percy Thomas",A->"Oxenham",G->"1"}
-{B->"Mr. Matti",A->"Rintamaki",G->"0"}
-{B->"Mr. Arthur",A->"Ford",G->"0"}
-{B->"Mr. Charles",A->"Wilhelms",G->"1"}
-{B->"Mr. Mohamed",A->"Badt",G->"0"}
-{B->"Mr. Karl Howell",A->"Behr",G->"1"}
-{B->"Mr. Franz",A->"Karun",G->"1"}
-{B->"Mrs. Mara",A->"Osman",G->"1"}
-{B->"Mrs. William John Robert (Dorothy Ann Wonnacott)",A->"Turpin",G->"0"}
-{B->"Mrs. Albert Francis (Sylvia Mae Harbaugh)",A->"Caldwell",G->"1"}
-{B->"Mrs. Edward (Helen Churchill Hungerford)",A->"Candee",G->"1"}
-{B->"Master. Eugene",A->"Rice",G->"0"}
-{B->"Mr. Paul Edvin",A->"Andreasson",G->"0"}
-{B->"Mrs. Henry William (Clara Heinsheimer)",A->"Frauenthal",G->"1"}
-{B->"Mr. William John Robert",A->"Turpin",G->"0"}
-{B->"Mr. Svend Lauritz",A->"Jensen",G->"0"}
-{B->"Miss. Bridget",A->"McNeill",G->"0"}
-{B->"Mr. Maurice",A->"O'Connor",G->"0"}
-{B->"Mr. Anthony Wood 'Archie'",A->"Frost",G->"0"}
-{B->"Miss. Nourelain",A->"Boulos",G->"0"}
-{B->"Mr. William Alfred",A->"Brocklebank",G->"0"}
-{B->"Mr. Ivan",A->"Strilic",G->"0"}
-{B->"Mr. Klas Albin",A->"Klasen",G->"0"}
-{B->"Mrs. Arthur Larned (Emily Maria Borie)",A->"Ryerson",G->"1"}
-{B->"Master. Alfred Edward",A->"Peacock",G->"0"}
-{B->"Dr. Arthur Jackson",A->"Brewe",G->"0"}
-{B->"Mr. William Henry",A->"Nancarrow",G->"0"}
-{B->"Mrs. John Borland (Marian Longstreth Morris)",A->"Thayer",G->"1"}
-{B->"Mr. John Joseph",A->"Lamb",G->"0"}
-{B->"Mlle. Berthe Antonine ('Mrs de Villiers')",A->"Mayne",G->"1"}
-{B->"Mr. Joseph",A->"Caram",G->"0"}
-{B->"Miss. Bridget Delia",A->"Bradley",G->"1"}
-{B->"Mr. Alfred G",A->"Rowe",G->"0"}
-{B->"Mr. Alfred",A->"Gaskell",G->"0"}
-{B->"Miss. Hildur E",A->"Hirvonen",G->"1"}
-{B->"Mrs. Samuel (Hannah Wizosky)",A->"Abelson",G->"1"}
-{B->"Mrs. (Hulda Kristina Eugenia Lofqvist)",A->"Klasen",G->"0"}
-{B->"Mr. Bertram Frank",A->"Dean",G->"0"}
-{B->"Mr. Isaac Gerald",A->"Frauenthal",G->"1"}
-{B->"Mr. Apostolos",A->"Chronopoulos",G->"0"}
-{B->"Mr. Ling",A->"Hee",G->"1"}
-{B->"Mr. Victor",A->"Robbins",G->"0"}
-{B->"Miss. Mary Natalie",A->"Wick",G->"1"}
-{B->"Master. Robert Douglas",A->"Spedden",G->"1"}
-{B->"Mrs. (Mary D Kingcome)",A->"Hewlett",G->"1"}
-{B->"Miss. Alice Phoebe",A->"Harknett",G->"0"}
-{B->"Mr. Carl Olof",A->"Jansson",G->"1"}
-{B->"Mr. Eiriik",A->"Jussila",G->"1"}
-{B->"Miss. Mary",A->"Lennon",G->"0"}
-{B->"Mr. George Edward",A->"Graham",G->"0"}
-{B->"Mr. Ingvald Olai Olsen",A->"Hagland",G->"0"}
-{B->"Mr. Kanio",A->"Ivanoff",G->"0"}
-{B->"Mr. Eugene Patrick",A->"Daly",G->"1"}
-{B->"Mrs. John C (Anna Andrews)",A->"Hogeboom",G->"1"}
-{B->"Mr. Stephen",A->"Hold",G->"0"}
-{B->"Mr. James Clinch",A->"Smith",G->"0"}
-{B->"Mr. John",A->"Kennedy",G->"1"}
-{B->"Mr. Clarence Bloomfield",A->"Moore",G->"0"}
-{B->"Mr. Walter",A->"Harris",G->"0"}
-{B->"Mrs. Betros (Zahie 'Maria' Elias)",A->"Khalil",G->"0"}
-{B->"Mr. Neal",A->"McNamee",G->"0"}
-{B->"Mr. Charles Hallace ('Mr C Rolmane')",A->"Romaine",G->"1"}
-{B->"Mr. Eliezer",A->"Gilinski",G->"0"}
-{B->"Mr. Alfred ('Baron von Drachstedt')",A->"Nourney",G->"1"}
-{B->"Miss. Kate",A->"Hagardon",G->"0"}
-{B->"Mr. Bengt Edvin",A->"Larsson",G->"0"}
-{B->"Mr. David",A->"Vartanian",G->"1"}
-{B->"Mrs. Walter Bertram (Martha Eustis)",A->"Stephenson",G->"1"}
-{B->"Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",A->"Dyker",G->"1"}
-{B->"Mr. Assad",A->"Torfa",G->"0"}
-{B->"Miss. Maude",A->"Sincock",G->"1"}
-{B->"Mr. Alfons",A->"de Pelsmaeker",G->"0"}
-{B->"Mr. Maurice",A->"Sirota",G->"0"}
-{B->"Miss. Helene Ragnhild",A->"Ostby",G->"1"}
-{B->"Mr. John Denzil",A->"Jarvis",G->"0"}
-{B->"Mr. Erik Gustaf",A->"Collander",G->"0"}
-{B->"Mrs. Thomas Henry (Mary E Finck)",A->"Davison",G->"1"}
-{B->"Mr. John Bertram",A->"Brady",G->"0"}
-{B->"Mr. Thomas Leonard",A->"Theobald",G->"0"}
-{B->"Mr. Franz",A->"Pulbaum",G->"0"}
-{B->"Mr. Wazli",A->"Yousif",G->"0"}
-{B->"Mr. Richard",A->"Fry",G->"0"}
-{B->"Mr. William",A->"Harrison",G->"0"}
-{B->"Miss. Catharina",A->"Van Impe",G->"0"}
-{B->"Miss. Nora",A->"Murphy",G->"1"}
-{B->"Miss. Lucy",A->"Ridsdale",G->"1"}
-{B->"Miss. Katherine 'Kate'",A->"Murphy",G->"1"}
-{B->"Mr. Frederick Maxfield",A->"Hoyt",G->"1"}
-{B->"Master. Clarence Gustaf Hugo",A->"Asplund",G->"0"}
-{B->"Mr. Henry Jr",A->"Sutehall",G->"0"}
-{B->"Miss. Julie Rachel",A->"Christy",G->"1"}
-{B->"Miss. Bridget Mary",A->"O'Sullivan",G->"0"}
-{B->"Miss. Ida Sofia",A->"Strandberg",G->"0"}
-{B->"Miss. Louise",A->"Laroche",G->"1"}
-{B->"Mr. Nikola",A->"Lulic",G->"1"}
-{B->"Mr. Timothy J",A->"McCarthy",G->"0"}
-{B->"Mr. George ('Mr George Thorne')",A->"Rosenshine",G->"0"}
-{B->"Mr. Thomas",A->"O'Brien",G->"0"}
-{B->"Mrs. (Mantoura Boulos)",A->"Moussa",G->"1"}
-{B->"Mr. Francisco M",A->"Carrau",G->"0"}
-{B->"Mr. William Henry",A->"Tornquist",G->"1"}
-{B->"Mr. Stephen Curnow",A->"Jenkin",G->"0"}
-{B->"Mr. Frans Olof",A->"Carlsson",G->"0"}
-{B->"Mr. Shedid",A->"Daher",G->"0"}
-{B->"Mr. Edward Austin",A->"Kent",G->"0"}
-{B->"Rev. Juozas",A->"Montvila",G->"0"}
-{B->"Mr. William John",A->"Rogers",G->"0"}
-{B->"Col. John",A->"Weir",G->"0"}
-{B->"Mr. Camille",A->"Wittevrongel",G->"0"}
-{B->"Mr. Henry",A->"Hart",G->"0"}
-{B->"Miss. Kate",A->"Connolly",G->"1"}
-{B->"Mrs. Thomas (Annie Louise Rowley)",A->"Meek",G->"0"}
-{B->"Miss. Ellen Natalia",A->"Pettersson",G->"0"}
-{B->"Miss. Robina Maggie 'Ruby'",A->"Ford",G->"0"}
-{B->"Master. Gerios",A->"Moubarek",G->"1"}
-{B->"Mr. Francis Davis",A->"Millet",G->"0"}
-{B->"Master. Frank John William 'Frankie'",A->"Goldsmith",G->"1"}
-{B->"Mr. Thomas Joseph",A->"McCormack",G->"1"}
-{B->"Mr. Victor Francis",A->"Sunderland",G->"1"}
-{B->"Mr. Christo",A->"Nenkoff",G->"0"}
-{B->"Miss. Bertha",A->"LeRoy",G->"1"}
-{B->"Mr. Hans Martin Monsen",A->"Birkeland",G->"0"}
-{B->"Miss. Salli Helena",A->"Rosblom",G->"0"}
-{B->"Mr. Woolf",A->"Spector",G->"0"}
-{B->"Master. James William",A->"van Billiard",G->"0"}
-{B->"Master. Assad Alexander",A->"Thomas",G->"1"}
-{B->"Mrs. Washington (Ruth Vidaver)",A->"Dodge",G->"1"}
-{B->"Mr. Patrick",A->"Canavan",G->"0"}
-{B->"Miss. Sigrid Elisabeth",A->"Andersson",G->"0"}
-{B->"Master. Bertram Vere",A->"Dean",G->"1"}
-{B->"Mrs. William Edward (Lillian E Thorpe)",A->"Minahan",G->"1"}
-{B->"Miss. Elin Ester Maria",A->"Braf",G->"0"}
-{B->"Mr. John William",A->"Gill",G->"0"}
-{B->"Mr. Carl/Charles Peter",A->"Widegren",G->"0"}
-{B->"Miss. Albina",A->"Bazzani",G->"1"}
-{B->"Mr. George John Jr",A->"Sage",G->"0"}
-{B->"Mr. Ivan",A->"Stankovic",G->"0"}
-{B->"Mr. Charles Cresson",A->"Jones",G->"0"}
-{B->"Mr. Richard William",A->"Smith",G->"0"}
-{B->"Mrs. Guillaume Joseph (Emma)",A->"de Messemaeker",G->"1"}
-{B->"Miss. Katherine",A->"Buckley",G->"0"}
-{B->"Mr. Sigurd Hansen",A->"Moen",G->"0"}
-{B->"Mr. Erik",A->"Johansson",G->"0"}
-{B->"Miss. Lillian Gertrud",A->"Asplund",G->"1"}
-{B->"Mrs. Anton (Luise Heilmann)",A->"Kink-Heilmann",G->"1"}
-{B->"Mr. Daniel",A->"Buckley",G->"1"}
-{B->"Mr. Hugh",A->"Woolner",G->"1"}
-{B->"Miss. Elizabeth",A->"Dowdell",G->"1"}
-{B->"Miss. Florentina",A->"Duran y More",G->"1"}
-{B->"Master. Georges Youssef",A->"Touma",G->"1"}
-{B->"Mr. George Dunton",A->"Widener",G->"0"}
-{B->"Major. Arthur Godfrey",A->"Peuchen",G->"1"}
-{B->"Mr. George B",A->"Goldschmidt",G->"0"}
-{B->"Miss. Amelie",A->"Icard",G->"1"}
-{B->"Mr. Lewis Richard",A->"Braund",G->"0"}
-{B->"Mr. Ervin G",A->"Lewy",G->"0"}
-{B->"Mr. George",A->"Swane",G->"0"}
-{B->"Miss. Katherine 'Katie'",A->"Gilnagh",G->"1"}
-{B->"Mr. William",A->"Morley",G->"0"}
-{B->"Mr. David John 'Dai'",A->"Bowen",G->"0"}
-{B->"Mr. Johannes Halvorsen",A->"Kalvik",G->"0"}
-{B->"Mr. Samuel Ward",A->"Stanton",G->"0"}
-{B->"Mrs. Mariana ('Miriam')",A->"Assaf Khalil",G->"1"}
-{B->"Mrs. James (Ellen Needs)",A->"Wilkes",G->"1"}
-{B->"Mr. Karl Rudolf",A->"Brobeck",G->"0"}
-{B->"Mrs. Hjalmar (Agnes Charlotta Bengtsson)",A->"Sandstrom",G->"1"}
-{B->"Mrs. Elmer Zebley (Juliet Cummins Wright)",A->"Taylor",G->"1"}
-{B->"Miss. Hedwig Margaritha",A->"Frolicher",G->"1"}
-{B->"Mr. Ignjac",A->"Hendekovic",G->"0"}
-{B->"Mr. Patrick",A->"O'Keefe",G->"1"}
-{B->"Mr. Alfred Fernand",A->"Omont",G->"1"}
-{B->"Mr. Einar Gervasius",A->"Karlsson",G->"1"}
-{B->"Mr. Stefo",A->"Pavlovic",G->"0"}
-{B->"Mr. William Edward",A->"Hipkins",G->"0"}
-{B->"Mr. Edvard A",A->"Larsson-Rondberg",G->"0"}
-{B->"Mr. Douglas Bullen",A->"Sage",G->"0"}
-{B->"Mr. Charles Eugene",A->"Williams",G->"1"}
-{B->"Mr. Ernst Ulrik",A->"Persson",G->"1"}
-{B->"Mr. Stanley George",A->"Hickman",G->"0"}
-{B->"Mr. Alexander",A->"Cairns",G->"0"}
-{B->"Mrs. Solomon (Latifa Qurban)",A->"Baclini",G->"1"}
-{B->"Ms. Bridget",A->"O'Donoghue",G->"0"}
-{B->"Mr. Tannous",A->"Thomas",G->"0"}
-{B->"Miss. Elise",A->"Lurette",G->"1"}
-{B->"Mrs. James (Elizabeth 'Bessie' Inglis Milne)",A->"Watt",G->"1"}
-{B->"Miss. Virginia Ethel",A->"Emanuel",G->"1"}
-{B->"Master. Juha Niilo",A->"Panula",G->"0"}
-{B->"Mrs. Herbert Fuller (Carrie Constance Toogood)",A->"Chaffee",G->"1"}
-{B->"Mr. John",A->"Adams",G->"0"}
-{B->"Mr. Jacob Christian",A->"Milling",G->"0"}
-{B->"Mrs. James Vivian (Lulu Thorne Christian)",A->"Drew",G->"1"}
-{B->"Miss. Augusta",A->"Serepeca",G->"1"}
-{B->"Master. Michel M",A->"Navratil",G->"1"}
-{B->"Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",A->"Cassebeer",G->"1"}
-{B->"Miss. Mary",A->"Davis",G->"1"}
-{B->"Miss. Marija",A->"Oreskovic",G->"0"}
-{B->"Mr. Hanna",A->"Boulos",G->"0"}
-{B->"Mrs. William (Anna)",A->"Hamalainen",G->"1"}
-{B->"Mr. Andrew 'Andy'",A->"Keane",G->"0"}
-{B->"Mr. Emilio Ilario Giuseppe",A->"Portaluppi",G->"1"}
-{B->"Mr. Iisakki Antino Aijo",A->"Nirva",G->"0"}
-{B->"Mr. Ahmed",A->"Ali",G->"0"}
-{B->"Mrs. Edvard Bengtsson (Elin Gerda Persson)",A->"Lindell",G->"0"}
-{B->"Mr. Edwy Arthur",A->"West",G->"0"}
-{B->"Mr. Abraham (David Lishin)",A->"Harmer",G->"0"}
-{B->"Miss. Elisabeth Walton",A->"Allen",G->"1"}
-{B->"Mrs. (Elizabeth Anne Maidment)",A->"Mellinger",G->"1"}
-{B->"Mr. William Fisher",A->"Hoyt",G->"0"}
-{B->"Mrs. Dickinson H (Helen Walton)",A->"Bishop",G->"1"}
-{B->"Mrs. Leopold (Mathilde Francoise Pede)",A->"Weisz",G->"1"}
-{B->"Miss. Honora",A->"Fleming",G->"0"}
-{B->"Mr. George Henry",A->"Hunt",G->"0"}
-{B->"Mr. Victor de Satode",A->"Penasco y Castellana",G->"0"}
-{B->"Mr. John Hall ('Henry')",A->"Lovell",G->"0"}
-{B->"Miss. Elizabeth",A->"Bonnell",G->"1"}
-{B->"Mr. Francis 'Frank'",A->"Parkes",G->"0"}
-{B->"Miss. Bertha J",A->"Watt",G->"1"}
-{B->"Mrs. Catherine (Catherine Rizk)",A->"Peter",G->"1"}
-{B->"Mr. Ernest Portage",A->"Tomlin",G->"0"}
-{B->"Mr. Emil",A->"Christmann",G->"0"}
-{B->"Master. Eino Viljami",A->"Panula",G->"0"}
-{B->"Miss. Anna Sofia",A->"Turja",G->"1"}
-{B->"Mr. Anton",A->"Kink-Heilmann",G->"1"}
-{B->"Master. Arthur",A->"Rice",G->"0"}
-{B->"Master. Walter John",A->"van Billiard",G->"0"}
-{B->"Miss. Marion",A->"Wright",G->"1"}
-{B->"Mr. Frank Thomas",A->"Andrew",G->"0"}
-{B->"Lady. (Lucille Christiana Sutherland) ('Mrs Morgan')",A->"Duff Gordon",G->"1"}
-{B->"Mr. Patrick",A->"O'Connor",G->"0"}
-{B->"Mr. Fridtjof Arne",A->"Madsen",G->"1"}
-{B->"Mr. Reginald Harry",A->"Rogers",G->"0"}
-{B->"Mr. Konrad Mathias Reiersen",A->"Hagland",G->"0"}
-{B->"Mr. Charles H",A->"Harrington",G->"0"}
-{B->"Miss. Marie Catherine",A->"Baclini",G->"1"}
-{B->"Mr. Karl Ivar Sven",A->"Berglund",G->"0"}
-{B->"Mr. Patrick",A->"Fox",G->"0"}
-{B->"Mr. Roger",A->"Tobin",G->"0"}
-{B->"Miss. Helen Mary 'Ellie'",A->"Mockler",G->"1"}
-{B->"Mr. Frederick",A->"Ware",G->"0"}
-{B->"Mr. Thomson",A->"Beattie",G->"0"}
-{B->"Mr. Samuel Beard",A->"Risien",G->"0"}
-{B->"Mr. William",A->"Carbines",G->"0"}
-{B->"Mrs. Sidney (Emily Hocking)",A->"Richards",G->"1"}
-{B->"Miss. Mabel",A->"Skoog",G->"0"}
-{B->"Mrs. Edwin Nelson Jr (Gertrude Parsons)",A->"Kimball",G->"1"}
-{B->"Miss. Winifred Vera",A->"Quick",G->"1"}
-{B->"Mr. Demetrios",A->"Chronopoulos",G->"0"}
-{B->"Mr. Arthur Webster",A->"Newell",G->"0"}
-{B->"Mr. Thomas Charles",A->"Mudd",G->"0"}
-{B->"Mr. Jacob",A->"Cook",G->"0"}
-{B->"Master. Halim Gonios ('William George')",A->"Moubarek",G->"1"}
-{B->"Mr. James",A->"Lester",G->"0"}
-{B->"Mr. Henry James",A->"Beauchamp",G->"0"}
-{B->"Mr. William Bertram",A->"Greenfield",G->"1"}
-{B->"Mr. August Viktor",A->"Larsson",G->"0"}
-{B->"Mr. Joseph Charles",A->"Fillbrook",G->"0"}
-{B->"Mr. Ivan",A->"Cor",G->"0"}
-{B->"Miss. Caroline Louise",A->"Endres",G->"1"}
-{B->"Miss. Katherine 'Katie'",A->"Mullens",G->"1"}
-{B->"Mr. Jakob",A->"Pasic",G->"0"}
-{B->"Rev. John",A->"Harper",G->"0"}
-{B->"Master. William Loch 'William'",A->"Coutts",G->"1"}
-{B->"Mr. Jeso",A->"Culumovic",G->"0"}
-{B->"Dr. Alfred",A->"Pain",G->"0"}
-{B->"Miss. Kate",A->"Connolly",G->"0"}
-{B->"Miss. Ida Livija",A->"Ilmakangas",G->"0"}
-{B->"Mr. Henry Forbes",A->"Julian",G->"0"}
-{B->"Mr. Mirko",A->"Dika",G->"0"}
-{B->"Mr. Ernest Charles",A->"Cann",G->"0"}
-{B->"Miss. Berta Olivia",A->"Nilsson",G->"1"}
-{B->"Mr. Sante",A->"Ringhini",G->"0"}
-{B->"Mr. Niels Peder",A->"Jensen",G->"0"}
-{B->"Mr. Edvard",A->"Pekoniemi",G->"0"}
-{B->"Miss. Ethel",A->"Garside",G->"1"}
-{B->"Mr. Sebastiano",A->"del Carlo",G->"0"}
-{B->"Mrs. Albert Adrian (Vera Gillespie)",A->"Dick",G->"1"}
-{B->"Mr. Richard George",A->"Hocking",G->"0"}
-{B->"Mr. Adola",A->"Asim",G->"0"}
-{B->"Mr. Raihed",A->"Razi",G->"0"}
-{B->"Miss. Marguerite Rut",A->"Sandstrom",G->"1"}
-{B->"Mr. Howard Brown",A->"Case",G->"0"}
-{B->"Miss. Georgette Alexandra",A->"Madill",G->"1"}
-{B->"Miss. Anna Sofia",A->"Sjoblom",G->"1"}
-{B->"Miss. Elizabeth Gladys 'Millvina'",A->"Dean",G->"1"}
-{B->"Miss. Lilian W",A->"Bentham",G->"1"}
-{B->"Mr. William Hull",A->"Botsford",G->"0"}
-{B->"Miss. Jessie Wills",A->"Leitch",G->"1"}
-{B->"Miss. Anna Katherine 'Annie Kate'",A->"Kelly",G->"1"}
-{B->"Miss. Mary",A->"Mangan",G->"0"}
-{B->"Mr. Elmer Zebley",A->"Taylor",G->"1"}
-{B->"Mr. Frank Manley",A->"Warren",G->"0"}
-{B->"Mr. John",A->"Flynn",G->"0"}
-{B->"Mr. Thomas Clinton",A->"Pears",G->"0"}
-{B->"Mr. Nils Hilding",A->"Jonsson",G->"0"}
-{B->"Mr. Kalle Edvard",A->"Makinen",G->"0"}
-{B->"Mr. Lazar",A->"Minkoff",G->"0"}
-{B->"Mr. Jovan",A->"Dimic",G->"0"}
-{B->"Miss. Helen Alice",A->"Wilson",G->"1"}
-{B->"Mrs. Allen Oliver (Nellie E Baumgardner)",A->"Becker",G->"1"}
-{B->"Mr. Alfred",A->"Johnson",G->"0"}
-{B->"Mr. Harvey",A->"Collyer",G->"0"}
-{B->"Mrs. George (Omine 'Amenia' Alexander)",A->"Moubarek",G->"1"}
-{B->"Mr. Mate",A->"Pokrnic",G->"0"}
-{B->"Mr. Frederic Oakley",A->"Spedden",G->"1"}
-{B->"Mr. Josef",A->"Arnold-Franchi",G->"0"}
-{B->"Mr. William",A->"Alexander",G->"0"}
-{B->"Miss. Anna",A->"Sinkkonen",G->"1"}
-{B->"Mrs. John Stuart (Ella Holmes)",A->"White",G->"1"}
-{B->"Mr. Servando",A->"Ovies y Rodriguez",G->"0"}
-{B->"Mr. George Frederick",A->"Sweet",G->"0"}
-{B->"Mr. John",A->"Thomas",G->"0"}
-{B->"Mrs. Amin S (Marie Marthe Thuillard)",A->"Jerwan",G->"1"}
-{B->"Mr. Robert William Norman",A->"Leyson",G->"0"}
-{B->"Miss. Emily Louisa",A->"Badman",G->"1"}
-{B->"Miss. Emilie",A->"Kreuchen",G->"1"}
-{B->"Mrs. Stanton (Rosa Hunt)",A->"Abbott",G->"1"}
-{B->"Miss. Helen Loraine",A->"Allison",G->"0"}
-{B->"Master. Michael J",A->"Peter",G->"1"}
-{B->"Master. William Thornton II",A->"Carter",G->"1"}
-{B->"Mr. Johan Birger",A->"Gustafsson",G->"0"}
-{B->"Mr. William",A->"Gilbert",G->"0"}
-{B->"Miss. Ada",A->"Sage",G->"0"}
-{B->"Mr. Quigg Edmond",A->"Baxter",G->"0"}
-{B->"Mr. Dickinson H",A->"Bishop",G->"1"}
-{B->"Mr. Hudson Joshua Creighton",A->"Allison",G->"0"}
-{B->"Mr. Richard Leonard",A->"Beckwith",G->"1"}
-{B->"Mr. Gerious",A->"Youseff",G->"0"}
-{B->"Mr. Sarkis",A->"Mardirosian",G->"0"}
-{B->"Mr. Hanna",A->"Samaan",G->"0"}
-{B->"Mr. John Montgomery",A->"Smart",G->"0"}
-{B->"Mr. Abraham",A->"Hyman",G->"1"}
-{B->"Miss. Sara Rebecca",A->"Compton",G->"1"}
-{B->"Mr. James",A->"Moran",G->"0"}
-{B->"Miss. Jessie Allis",A->"Goodwin",G->"0"}
-{B->"Miss. Madeleine",A->"Newell",G->"1"}
-{B->"Mrs. William Augustus (Marie Eugenie)",A->"Spencer",G->"1"}
-{B->"Mrs. (Amelia Milley)",A->"Lemore",G->"1"}
-{B->"Mr. Valtcho",A->"Dintcheff",G->"0"}
-{B->"Mr. James",A->"Veal",G->"0"}
-{B->"Mr. Rene Aime",A->"Lievens",G->"0"}
-{B->"Mrs. (Hedwig)",A->"Turkula",G->"1"}
-{B->"Miss. Margareth",A->"Mannion",G->"1"}
-{B->"Miss. Helen Monypeny",A->"Newsom",G->"1"}
-{B->"Mr. Johan Svensson",A->"Lundahl",G->"0"}
-{B->"Master. Edvin Rojj Felix",A->"Asplund",G->"1"}
-{B->"Mr. James",A->"Flynn",G->"0"}
-{B->"Mr. Philip",A->"Kiernan",G->"0"}
-{B->"Miss. Ellen 'Nellie'",A->"Hocking",G->"1"}
-{B->"Mr. Johan",A->"Ekstrom",G->"0"}
-{B->"Mr. Joseph",A->"Davies",G->"0"}
-{B->"Dr. Alice (Farnham)",A->"Leader",G->"1"}
-{B->"Mr. Fang",A->"Lang",G->"1"}
-{B->"the Countess. of (Lucy Noel Martha Dyer-Edwards)",A->"Rothes",G->"1"}
-{B->"Mr. Hugh Roscoe",A->"Rood",G->"0"}
-{B->"Mr. Martin",A->"Gallagher",G->"0"}
-{B->"Mr. Jaako Arnold",A->"Panula",G->"0"}
-{B->"Miss. Annie Clemmer",A->"Funk",G->"0"}
-{B->"Mr. Carl Robert",A->"Carlsson",G->"0"}
-{B->"Mr. Reginald",A->"Hale",G->"0"}
-{B->"Mr. Benjamin",A->"Howard",G->"0"}
-{B->"Mr. William Henry",A->"Saundercock",G->"0"}
-{B->"Mr. Hans Kristensen",A->"Givard",G->"0"}
-{B->"Mr. Fared",A->"Kassem",G->"0"}
-{B->"Mr. Clifford Thomas",A->"Jefferys",G->"0"}
-{B->"Master. William Frederick",A->"Goodwin",G->"0"}
-{B->"Miss. Annie",A->"Jermyn",G->"1"}
-{B->"Mr. Charles Valentine",A->"Clarke",G->"0"}
-{B->"Mr. William Augustus",A->"Spencer",G->"0"}
-{B->"Mrs. Edward Scott (Elisabeth Walton McMillan)",A->"Robert",G->"1"}
-{B->"Miss. Emily Borie",A->"Ryerson",G->"1"}
-{B->"Mr. Ali",A->"Lam",G->"1"}
-{B->"Mr. Leonard Charles",A->"Moore",G->"0"}
-{B->"Miss. Marta",A->"Hiltunen",G->"0"}
-{B->"Miss. Johanna 'Hannah'",A->"Riordan",G->"1"}
-{B->"Miss. Alice",A->"Cleaver",G->"1"}
-{B->"Miss. Ellen",A->"Bird",G->"1"}
-{B->"Mrs. James (Helene DeLaudeniere Chaput)",A->"Baxter",G->"1"}
-{B->"Miss. Sarah A",A->"Roth",G->"1"}
-{B->"Mrs. George Achilles (Dorothy Annan)",A->"Harder",G->"1"}
-{B->"Miss. Julia",A->"Barry",G->"0"}
-{B->"Mr. Oskar Arvid",A->"Hedman",G->"1"}
-{B->"Miss. Lyyli Karoliina",A->"Silven",G->"1"}
-{B->"Mr. Pierre",A->"Marechal",G->"1"}
-{B->"Master. Richard F",A->"Becker",G->"1"}
-{B->"Mr. James George",A->"Reed",G->"0"}
-{B->"Miss. Marion Louise",A->"Becker",G->"1"}
-{B->"Mr. Thomas J",A->"Kilgannon",G->"0"}
-{B->"Miss. Margaret 'Maggie'",A->"Madigan",G->"1"}
-{B->"Mr. Tannous",A->"Betros",G->"0"}
-{B->"Mr. Domingos Fernandeo",A->"Coelho",G->"0"}
-{B->"Mr. Khalil",A->"Saad",G->"0"}
-{B->"Miss. Eleanor Ileen",A->"Johnson",G->"1"}
-{B->"Mr. Manuel Estanslas",A->"Goncalves",G->"0"}
-{B->"Miss. Agnes",A->"McCoy",G->"1"}
-{B->"Mr. Leo",A->"Zimmerman",G->"0"}
-{B->"Mr. Hans Linus",A->"Eklund",G->"0"}
-{B->"Mr. George Floyd",A->"Eitemiller",G->"0"}
-{B->"Miss. Constance Gladys",A->"Sage",G->"0"}
-{B->"Mr. Lewis",A->"Hickman",G->"0"}
-{B->"Mr. Frederick William",A->"Shellard",G->"0"}
-{B->"Mr. William James",A->"Downton",G->"0"}
-{B->"Miss. Wendla Maria",A->"Heininen",G->"0"}
-{B->"Mr. Norman Campbell",A->"Chambers",G->"1"}
-{B->"Miss. Bertha",A->"Moran",G->"1"}
-{B->"Miss. Karen Marie",A->"Abelseth",G->"1"}
-{B->"Miss. Susanna Juhantytar 'Sanni'",A->"Riihivouri",G->"0"}
-{B->"Mrs. Sinai (Miriam Sternin)",A->"Kantor",G->"1"}
-{B->"Mr. Petco",A->"Slabenoff",G->"0"}
-{B->"Mr. John Borland",A->"Thayer",G->"0"}
-{B->"Mrs. Charles V (Ada Maria Winfield)",A->"Clarke",G->"1"}
-{B->"Mr. Mauritz Hakan",A->"Bjornstrom-Steffansson",G->"1"}
-{B->"Mrs. William H (Jessie L)",A->"Trout",G->"1"}
-{B->"Mr. Jego Grga",A->"Cacic",G->"0"}
-{B->"Mr. Patrick D",A->"O'Connell",G->"0"}
-{B->"Mr. Elias",A->"Samaan",G->"0"}
-{B->"Mrs. Viktor (Helena Wilhelmina)",A->"Rosblom",G->"0"}
-{B->"Mrs. Benjamin (Edith Nile)",A->"Peacock",G->"0"}
-{B->"Mr. Youssef",A->"Samaan",G->"0"}
-{B->"Mrs. Sebastiano (Argenia Genovesi)",A->"del Carlo",G->"1"}
-{B->"Mr. Lalio",A->"Jonkoff",G->"0"}
-{B->"Jonkheer. John George",A->"Reuchlin",G->"0"}
-{B->"Mr. Emile",A->"Richard",G->"0"}
-{B->"Mr. Mustafa",A->"Nasr",G->"0"}
-{B->"Mr. Rossmore Edward",A->"Abbott",G->"0"}
-{B->"Mrs. Norman Campbell (Bertha Griggs)",A->"Chambers",G->"1"}
-{B->"Master. Philip Frank",A->"Aks",G->"1"}
-{B->"Mrs. William A (Florence 'Mary' Agnes Hughes)",A->"Angle",G->"1"}
-{B->"Mr. Anthony",A->"Abbing",G->"0"}
-{B->"Mr. Malkolm Joackim",A->"Johnson",G->"0"}
-{B->"Mr. Frederick William",A->"Pengelly",G->"0"}
-{B->"Miss. Adele Kiamie 'Jane'",A->"Najib",G->"1"}
-{B->"Miss. Clear Annie",A->"Cameron",G->"1"}
-{B->"Mr. William",A->"Dennis",G->"0"}
-{B->"Mr. Rene Jacques",A->"Levy",G->"0"}
-{B->"Dr. Henry William",A->"Frauenthal",G->"1"}
-{B->"Mr. Mapriededer",A->"Zakarian",G->"0"}
-{B->"Master. Eden Leslie 'Neville'",A->"Coutts",G->"1"}
-{B->"Mr. George Dennick",A->"Wick",G->"0"}
-{B->"Miss. Margaret Delia",A->"Devaney",G->"1"}
-{B->"Mr. Julius",A->"Sap",G->"1"}
-{B->"Mr. Husein",A->"Sivic",G->"0"}
-{B->"Mr. Choong",A->"Foo",G->"1"}
-{B->"Mr. Matti Alexanteri",A->"Maenpaa",G->"0"}
-{B->"Mr. Penko",A->"Naidenoff",G->"0"}
-{B->"Mr. Frederick R",A->"Kenyon",G->"0"}
-{B->"Mrs. Edward (Ethel Clarke)",A->"Beane",G->"1"}
-{B->"Mr. Sidney C Stuart",A->"Collett",G->"1"}
-{B->"Mr. Olof",A->"Svensson",G->"0"}
-{B->"Mr. Charles Robert",A->"Baimbrigge",G->"0"}
-{B->"Mr. Jose Pedro",A->"Carrau",G->"0"}
-{B->"Miss. Anna",A->"Peter",G->"1"}
-{B->"Master. Harold Victor",A->"Goodwin",G->"0"}
-{B->"Mr. Len",A->"Lam",G->"0"}
-{B->"Col. Oberst Alfons",A->"Simonius-Blumer",G->"1"}
-{B->"Mr. Vivian Ponsonby",A->"Payne",G->"0"}
-{B->"Mr. Ernest",A->"Pearce",G->"0"}
-{B->"Mr. Todor",A->"Sdycoff",G->"0"}
-{B->"Mr. Thomas Henry",A->"Conlon",G->"0"}
-{B->"Mr. William Ernest",A->"Carter",G->"1"}
-{B->"Mr. Herman",A->"Klaber",G->"0"}
-{B->"Miss. Gretchen Fiske",A->"Longley",G->"1"}
-{B->"Mr. Henry Damsgaard",A->"Hansen",G->"0"}
-{B->"Mr. Olaus Jorgensen",A->"Abelseth",G->"1"}
-{B->"Mr. Reginald Charles",A->"Coleridge",G->"0"}
-{B->"Master. Eric",A->"Rice",G->"0"}
-{B->"Mr. Ambrose Jr",A->"Hood",G->"0"}
-{B->"Mr. William John",A->"Berriman",G->"0"}
-{B->"Mr. Ernst Gilbert",A->"Danbom",G->"0"}
-{B->"Mrs. William (Winnie 'Minnie' Treanor)",A->"Coutts",G->"1"}
-{B->"Miss. Bertha",A->"Ilett",G->"1"}
-{B->"Mr. Thomas Henry",A->"Davison",G->"0"}
-{B->"Mrs. Stephen (Annie Margaret Hill)",A->"Hold",G->"1"}
-{B->"Mr. Mark",A->"Fortune",G->"0"}
-{B->"Mr. Ernst Herbert",A->"Bjorklund",G->"0"}
-{B->"Mr. Rene",A->"Pernot",G->"0"}
-{B->"Master. Andre",A->"Mallet",G->"1"}
-{B->"Mr. Henry Margido",A->"Olsen",G->"0"}
-{B->"Mr. Henry Michael",A->"Mitchell",G->"0"}
-{B->"Mrs. Robert Clifford (Malvina Helen Lamson)",A->"Cornell",G->"1"}
-{B->"Mr. Wyckoff",A->"Van der hoef",G->"0"}
-{B->"Mr. Peter Denis",A->"Daly",G->"1"}
-{B->"Mr. James",A->"Scanlan",G->"0"}
-{B->"Mr. Algernon Henry Wilson",A->"Barkworth",G->"1"}
-{B->"Miss. Hilda Maria",A->"Hellstrom",G->"1"}
-{B->"Mr. William Neal",A->"Ford",G->"0"}
-{B->"Mr. Ivan",A->"Jalsevac",G->"1"}
-{B->"Mr. Hammad",A->"Hassab",G->"1"}
-{B->"Mr. Jakob Alfred",A->"Wiklund",G->"0"}
-{B->"Mr. William John",A->"Mellors",G->"1"}
-{B->"Mr. Alfred Ossian",A->"Gustafsson",G->"0"}
-{B->"Miss. Henriette ('Mrs Harbeck')",A->"Yrois",G->"0"}
-{B->"Miss. Ida",A->"Lefebre",G->"0"}
-{B->"Mrs. Walter H (Irene Colvin)",A->"Corbett",G->"0"}
-{B->"Mr. Henry",A->"Blank",G->"1"}
-{B->"Mr. Gerious",A->"Yousseff",G->"0"}
-{B->"Mr. Karl Edwart",A->"Dahl",G->"1"}
-{B->"Mrs. Samuel L (Edwiga Grabowska)",A->"Goldenberg",G->"1"}
-{B->"Miss. Amelia",A->"Bissette",G->"1"}
-{B->"Miss. Laina",A->"Heikkinen",G->"1"}
-{B->"Mr. Selman Francis",A->"Slocovski",G->"0"}
-{B->"Miss. Anna",A->"Ward",G->"1"}
-{B->"Mr. Gustaf Joel",A->"Johansson",G->"0"}
-{B->"Mr. Albert Karvin",A->"Andersen",G->"0"}
-{B->"Miss. Grace Scott",A->"Bowen",G->"1"}
-{B->"Rev. Charles Leonard",A->"Kirkland",G->"0"}
-{B->"Mr. Gustaf Hjalmar",A->"Edvardsson",G->"0"}
-{B->"Mr. John Viktor",A->"Bengtsson",G->"0"}
-{B->"Mr. Thomas James",A->"Everett",G->"0"}
-{B->"Mrs. (Alice Frances)",A->"Christy",G->"1"}
-{B->"Mrs. William (Anna Sylfven)",A->"Lahtinen",G->"0"}
-{B->"Mr. Carl",A->"Jonsson",G->"1"}
-{B->"Miss. Lucile Polk",A->"Carter",G->"1"}
-{B->"Mr. Gerios",A->"Assaf",G->"0"}
-{B->"Mr. Branko",A->"Dakic",G->"0"}
-{B->"Mr. August",A->"Schmidt",G->"0"}
-{B->"Mr. Ilmari Rudolf",A->"Alhomaki",G->"0"}
-{B->"Mr. Houssein G N",A->"Hassan",G->"0"}
-{B->"Mrs. (Elizabeth Ramell)",A->"Nye",G->"1"}
-{B->"Mr. William",A->"Foley",G->"0"}
-{B->"Miss. Hanora 'Norah'",A->"O'Leary",G->"1"}
-{B->"Mr. Antti Wilhelm",A->"Sivola",G->"0"}
-{B->"Master. Ralph Lester",A->"Wells",G->"1"}
-{B->"Mr. Frederic Kimber",A->"Seward",G->"1"}
-{B->"Mr. Tome",A->"Pokrnic",G->"0"}
-{B->"Mr. Thomas Drake Martinez",A->"Cardeza",G->"1"}
-{B->"Miss. Manta Josefina",A->"Nieminen",G->"0"}
-{B->"Miss. Laura Alice",A->"Cribb",G->"1"}
-{B->"Mr. Julius Konrad Eugen",A->"Karlsson",G->"0"}
-{B->"Miss. Victorine",A->"Chaudanson",G->"1"}
-{B->"Mr. Charles Melville",A->"Hays",G->"0"}
-{B->"Miss. Daisy E",A->"Minahan",G->"1"}
-{B->"Mr. Ivan",A->"Staneff",G->"0"}
-{B->"Mr. Charles H",A->"Natsch",G->"0"}
-{B->"Mr. Robert Williams",A->"Daniel",G->"1"}
-{B->"Miss. Marjorie",A->"Newell",G->"1"}
-{B->"Mr. Joseph Jr",A->"Elias",G->"0"}
-{B->"Mr. Albert Adrian",A->"Dick",G->"1"}
-{B->"Master. Seman",A->"Betros",G->"0"}
-{B->"Miss. Kate",A->"Herman",G->"1"}
-{B->"Mr. Percy William",A->"Deacon",G->"0"}
-{B->"Mr. Joseph",A->"Duquemin",G->"1"}
-{B->"Mr. Wilhelm",A->"Skoog",G->"0"}
-{B->"Miss. Nellie",A->"Walcroft",G->"1"}
-{B->"Mrs. Edward Gifford (Catherine Elizabeth Halstead)",A->"Crosby",G->"1"}
-{B->"Miss. Maria ('Mary')",A->"Nakid",G->"1"}
-{B->"Mrs. Juha (Maria Emilia Ojala)",A->"Panula",G->"0"}
-{B->"Miss. Elizabeth W",A->"Shutes",G->"1"}
-{B->"Miss. Manca",A->"Karun",G->"1"}
-{B->"Miss. Simonne Marie Anne Andree",A->"Laroche",G->"1"}
-{B->"Mr. Patrick",A->"Ryan",G->"0"}
-{B->"Mr. Martin",A->"McMahon",G->"0"}
-{B->"Mrs. William (Imanita Parrish Hall)",A->"Shelley",G->"1"}
-{B->"Miss. Ellis Anna Maria",A->"Andersson",G->"0"}
-{B->"Mr. Frederick",A->"Sage",G->"0"}
-{B->"Mr. Harry Markland",A->"Molson",G->"0"}
-{B->"Mrs. Nicholas (Adele Achem)",A->"Nasser",G->"1"}
-{B->"Mr. Raffull",A->"Baccos",G->"0"}
-{B->"Mr. Leonard Mark",A->"Hickman",G->"0"}
-{B->"Mrs. Thomas Jr (Lily Alexenia Wilson)",A->"Potter",G->"1"}
-{B->"Miss. Matilda",A->"Petranec",G->"0"}
-{B->"Mr. John James",A->"Borebank",G->"0"}
-{B->"Master. Albert",A->"Rice",G->"0"}
-{B->"Master. Harold Theodor",A->"Johnson",G->"1"}
-{B->"Mr. Alexander",A->"Radeff",G->"0"}
-{B->"Mr. Charles Emil Henry",A->"Stengel",G->"1"}
-{B->"Mr. Daniel",A->"Keane",G->"0"}
-{B->"Mr. Martin",A->"Ponesell",G->"0"}
-{B->"Mr. Spencer Victor",A->"Silverthorne",G->"1"}
-{B->"Mr. Johan",A->"Svensson",G->"0"}
-{B->"Mr. Henry John",A->"Spinner",G->"0"}
-{B->"Mr. Thomas William Solomon",A->"Brown",G->"0"}
-{B->"Miss. Treasteall",A->"Peacock",G->"0"}
-{B->"Mrs. Pekka Pietari (Elin Matilda Dolck)",A->"Hakkarainen",G->"1"}
-{B->"Mr. August Edvard ('Wennerstrom')",A->"Andersson",G->"1"}
-{B->"Master. Elias",A->"Nicola-Yarred",G->"1"}
-{B->"Mr. Minko",A->"Angheloff",G->"0"}
-{B->"Miss. Constance",A->"Willard",G->"1"}
-{B->"Master. John Morgan Jr",A->"Davies",G->"1"}
-{B->"Master. Gilbert Sigvard Emanuel",A->"Danbom",G->"0"}
-{B->"Mrs. Charles Alexander (Alice Adelaide Slow)",A->"Louch",G->"1"}
-{B->"Mrs. Sidney Samuel (Amy Frances Christy)",A->"Jacobsohn",G->"1"}
-{B->"Mr. Joseph",A->"Peduzzi",G->"0"}
-{B->"Mr. Theodore",A->"de Mulder",G->"1"}
-{B->"Miss. Elina",A->"Olsson",G->"0"}
-{B->"Mr. Ernst William",A->"Torber",G->"0"}
-{B->"Mr. Lucien Philip",A->"Smith",G->"0"}
-{B->"Mr. Einar",A->"Windelov",G->"0"}
-{B->"Dr. Max",A->"Stahelin-Maeglin",G->"1"}
-{B->"Mr. Herbert Fuller",A->"Chaffee",G->"0"}
-{B->"Miss. Kristina Sofia",A->"Laitinen",G->"0"}
-{B->"Miss. Harriet R",A->"Crosby",G->"1"}
-{B->"Mrs. Florence 'Fannie'",A->"Kelly",G->"1"}
-{B->"Mr. Karl Alfred",A->"Backstrom",G->"0"}
-{B->"Mrs. Joseph (Sophie Halaut Easu)",A->"Abrahim",G->"1"}
-{B->"Mr. Marin",A->"Markoff",G->"0"}
-{B->"Mr. Richard Cater",A->"Nosworthy",G->"0"}
-{B->"Mr. Percy Andrew",A->"Bailey",G->"0"}
-{B->"Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",A->"Penasco y Castellana",G->"1"}
-{B->"Mrs. (Karolina)",A->"Bystrom",G->"1"}
-{B->"Miss. Doolina Margaret 'Daisy'",A->"Ford",G->"0"}
-{B->"Mr. Patrick",A->"Lane",G->"0"}
-{B->"Mr. Edward",A->"Lockyer",G->"0"}
-{B->"Mrs. Neal (Eileen O'Leary)",A->"McNamee",G->"0"}
-{B->"Miss. Nora A",A->"Keane",G->"1"}
-{B->"Mrs. Joseph (Maria Elias)",A->"Caram",G->"0"}
-{B->"Miss. Margit Elizabeth",A->"Skoog",G->"0"}
-{B->"Mr. Roderick Robert Crispin",A->"Chisholm",G->"0"}
-{B->"Miss. Jeannie",A->"Lefebre",G->"0"}
-{B->"Mr. John Pillsbury",A->"Snyder",G->"1"}
-{B->"Master. Filip Oscar",A->"Asplund",G->"0"}
-{B->"Mr. Joseph J",A->"Fynney",G->"0"}
-{B->"Miss. Maria",A->"Kink",G->"0"}
-{B->"Mr. James Matthew",A->"McCrie",G->"0"}
-{B->"Mr. Owen Harris",A->"Braund",G->"0"}
-{B->"Mr. Vasil",A->"Plotcharsky",G->"0"}
-{B->"Mrs. John Henry (Sara Elizabeth Lawry)",A->"Chapman",G->"0"}
-{B->"Mr. Richard Henry",A->"Rouse",G->"0"}
-{B->"Mr. William",A->"Dibden",G->"0"}
-{B->"Miss. Constance Mirium",A->"West",G->"1"}
-{B->"Mr. Petar",A->"Calic",G->"0"}
-{B->"Miss. Alice Frances Louisa",A->"Phillips",G->"1"}
-{B->"Mr. Bernard",A->"McCoy",G->"1"}
-{B->"Mrs. Edward Dale (Charlotte Lamson)",A->"Appleton",G->"1"}
-{B->"Mr. John",A->"Lingane",G->"0"}
-{B->"Master. Meier",A->"Moor",G->"1"}
-{B->"Mrs. Frank John (Emily Alice Brown)",A->"Goldsmith",G->"1"}
-{B->"Mrs. (Ada E Hall)",A->"Ball",G->"1"}
-{B->"Mr. George Alexander Lucien",A->"Rheims",G->"1"}
-{B->"Mrs. Richard Leonard (Sallie Monypeny)",A->"Beckwith",G->"1"}
-{B->"Mr. Johan Martin",A->"Holthen",G->"0"}
-{B->"Mrs. Henry Birkhardt (Irene Wallach)",A->"Harris",G->"1"}
-{B->"Mr. James H",A->"Bracken",G->"0"}
-{B->"Miss. Mary",A->"McGovern",G->"1"}
-{B->"Miss. Elsie Edith",A->"Bowerman",G->"1"}
-{B->"Mr. Jakob Alfred",A->"Johanson",G->"0"}
-{B->"Miss. Catherine 'Katie'",A->"McCarthy",G->"1"}
-{B->"Mr. Oscar Wilhelm",A->"Olsson",G->"1"}
-{B->"Mr. Daniel Danielsen",A->"Gronnestad",G->"0"}
-{B->"Miss. Elizabeth Mussey",A->"Eustis",G->"1"}
-{B->"Mr. Owen George",A->"Allum",G->"0"}
-{B->"Miss. Hulda Amanda Adolfina",A->"Vestrom",G->"0"}
-{B->"Mr. George Henry",A->"Green",G->"0"}
-{B->"Master. Artur Karl",A->"Olsen",G->"1"}
-{B->"Mr. William Arthur",A->"Lobb",G->"0"}
-{B->"Mr. Guillaume Joseph",A->"de Messemaeker",G->"1"}
-{B->"Mrs. Said (Waika 'Mary' Mowad)",A->"Nakid",G->"1"}
-{B->"Mlle. Emma",A->"Sagesser",G->"1"}
-{B->"Mr. Albert",A->"Augustsson",G->"0"}
-{B->"Mr. Paul Romaine",A->"Chevre",G->"1"}
-{B->"Mr. John",A->"Kiernan",G->"0"}
-{B->"Mr. Harry",A->"Sadowitz",G->"0"}
-{B->"Mrs. William Thompson (Edith Junkins)",A->"Graham",G->"1"}
-{B->"Mr. Alfred J",A->"Davies",G->"0"}
-{B->"Mr. Albert",A->"Wirz",G->"0"}
-{B->"Mr. Edgar",A->"Giles",G->"0"}
-{B->"Mr. Harry",A->"Corn",G->"0"}
-{B->"Mrs. Jean Baptiste (Rosalie Paula Govaert)",A->"Van Impe",G->"0"}
-{B->"Master. William Arthur 'Willie'",A->"Johnston",G->"0"}
-{B->"Mr. Edvard Bengtsson",A->"Lindell",G->"0"}
-{B->"Mrs. Peter Henry (Lillian Jefferys)",A->"Renouf",G->"1"}
-{B->"Mr. Solomon",A->"Bowenur",G->"0"}
-{B->"Mr. John",A->"Farthing",G->"0"}
-{B->"Mr. Samuel",A->"Herman",G->"0"}
-{B->"Mr. Nicola",A->"Matinoff",G->"0"}
-{B->"Mrs. Benjamin (Ellen Truelove Arman)",A->"Howard",G->"0"}
-{B->"Mr. Masabumi",A->"Hosono",G->"1"}
-{B->"Mr. Charles Frederick Waddington",A->"Sedgwick",G->"0"}
-{B->"Mrs. Edwy Arthur (Ada Mary Worth)",A->"West",G->"1"}
-{B->"Mrs. Jacques Heath (Lily May Peel)",A->"Futrelle",G->"1"}
-{B->"Mr. Juho",A->"Tikkanen",G->"0"}
-{B->"Mr. Adolf Mathias Nicolai Olsen",A->"Humblen",G->"0"}
-{B->"Dr. William Edward",A->"Minahan",G->"0"}
-{B->"Mr. John Hugo",A->"Ross",G->"0"}
-{B->"Mr. Edward Pomeroy",A->"Colley",G->"0"}
-{B->"Mr. Denis",A->"Lennon",G->"0"}
-{B->"Mrs. Isidor (Rosalie Ida Blun)",A->"Straus",G->"0"}
-{B->"Mrs. Thomas (Johanna 'Hannah' Godfrey)",A->"O'Brien",G->"1"}
-{B->"Mrs. Samuel (Jane Laver)",A->"Herman",G->"1"}
-{B->"Miss. Olga Elida",A->"Lundin",G->"1"}
-{B->"Miss. Laura Mabel",A->"Francatelli",G->"1"}
-{B->"Mr. Guentcho",A->"Bostandyeff",G->"0"}
-{B->"Mr. Karl Gideon",A->"Gustafsson",G->"0"}
-{B->"Mrs. Frank (Frances)",A->"Lefebre",G->"0"}
-{B->"Mr. Isidor",A->"Straus",G->"0"}
-{B->"Miss. Marie Grice",A->"Young",G->"1"}
-{B->"Miss. Mary Conover",A->"Lines",G->"1"}
-{B->"Mr. William Jeffery",A->"Ware",G->"0"}
-{B->"Miss. Anna 'Annie'",A->"McGowan",G->"1"}
-{B->"Master. Gosta Leonard",A->"Palsson",G->"0"}
-{B->"Mr. Christopher",A->"Head",G->"0"}
-{B->"Miss. Mary Agatha",A->"Glynn",G->"1"}
-{B->"Mrs. Edward (Margaret Ann Watson)",A->"Ford",G->"0"}
-{B->"Mr. Stanko",A->"Lyntakoff",G->"0"}
-{B->"Miss. Aloisia",A->"Haas",G->"0"}
-{B->"Mr. William Henry",A->"Allen",G->"0"}
-{B->"Mr. Ernesti Arvid",A->"Panula",G->"0"}
-{B->"Mr. Nassef Cassem",A->"Albimona",G->"1"}
-{B->"Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",A->"Asplund",G->"1"}
-{B->"Miss. Alice",A->"Herman",G->"1"}
-{B->"Miss. Delia",A->"Henry",G->"0"}
-{B->"Mr. Adolphe",A->"Saalfeld",G->"1"}
-{B->"Mr. James",A->"Webber",G->"0"}
-{B->"Mr. John Borland Jr",A->"Thayer",G->"1"}
-{B->"Mr. Henry 'Harry'",A->"Cotterill",G->"0"}
-{B->"Mr. Walter Donald",A->"Douglas",G->"0"}
-{B->"Mr. Nils Johan Goransson",A->"Olsson",G->"0"}
-{B->"Miss. Edith Louise",A->"Rosenbaum",G->"1"}
-{B->"Mrs. George Joseph (Shawneene Abi-Saab)",A->"Whabee",G->"1"}
-{B->"Mrs. Boulton (Olive Potter)",A->"Earnshaw",G->"1"}
-{B->"Mrs. Thornton (Orian Hays)",A->"Davidson",G->"1"}
-{B->"Mr. Edward Arthur",A->"Dorking",G->"1"}
-{B->"Mrs. Frank Manley (Anna Sophia Atkinson)",A->"Warren",G->"1"}
-{B->"Mr. Thornton",A->"Davidson",G->"0"}
-{B->"Mr. Michel ('Louis M Hoffman')",A->"Navratil",G->"0"}
-{B->"Miss. Malake",A->"Attalah",G->"0"}
-{B->"Master. George Sibley",A->"Richards",G->"1"}
-{B->"Mrs. Frederick Joel (Margaret Welles Barron)",A->"Swift",G->"1"}
-{B->"Master. Edmond Roger",A->"Navratil",G->"1"}
-{B->"Mr. Anders Vilhelm",A->"Gustafsson",G->"0"}
-{B->"Mr. William",A->"Ali",G->"0"}
-{B->"Miss. Hileni",A->"Zabour",G->"0"}
-{B->"Mr. Martin",A->"Rothschild",G->"0"}
-{B->"Mr. Robert",A->"Mernagh",G->"0"}
-{B->"Mr. Juho",A->"Stranden",G->"1"}
-{B->"Miss. Madeleine Violet",A->"Mellinger",G->"1"}
-{B->"Miss. Jeannie",A->"Carr",G->"0"}
-{B->"Miss. Mary",A->"Bourke",G->"0"}
-{B->"Miss. Elizabeth",A->"Doyle",G->"0"}
-{B->"Mrs. Leo David (Blanche Strouse)",A->"Greenfield",G->"1"}
+{G->"0",A->"Lindblom",B->"Miss. Augusta Charlotta"}
+{G->"0",A->"McCrie",B->"Mr. James Matthew"}
+{G->"1",A->"Baclini",B->"Miss. Eugenie"}
+{G->"0",A->"Rice",B->"Master. Arthur"}
+{G->"1",A->"Davies",B->"Master. John Morgan Jr"}
+{G->"0",A->"O'Connor",B->"Mr. Patrick"}
+{G->"0",A->"Brewe",B->"Dr. Arthur Jackson"}
+{G->"1",A->"Stengel",B->"Mr. Charles Emil Henry"}
+{G->"1",A->"Thayer",B->"Mrs. John Borland (Marian Longstreth Morris)"}
+{G->"0",A->"Carbines",B->"Mr. William"}
+{G->"1",A->"McGowan",B->"Miss. Anna 'Annie'"}
+{G->"1",A->"Johnson",B->"Master. Harold Theodor"}
+{G->"0",A->"Gaskell",B->"Mr. Alfred"}
+{G->"0",A->"Nicholls",B->"Mr. Joseph Charles"}
+{G->"0",A->"Newell",B->"Mr. Arthur Webster"}
+{G->"1",A->"Badman",B->"Miss. Emily Louisa"}
+{G->"1",A->"Nysten",B->"Miss. Anna Sofia"}
+{G->"0",A->"Molson",B->"Mr. Harry Markland"}
+{G->"0",A->"Andersen",B->"Mr. Albert Karvin"}
+{G->"1",A->"Nasser",B->"Mrs. Nicholas (Adele Achem)"}
+{G->"1",A->"Carter",B->"Miss. Lucile Polk"}
+{G->"0",A->"Andrew",B->"Mr. Frank Thomas"}
+{G->"0",A->"Tobin",B->"Mr. Roger"}
+{G->"0",A->"Hagland",B->"Mr. Konrad Mathias Reiersen"}
+{G->"0",A->"Beattie",B->"Mr. Thomson"}
+{G->"0",A->"Angheloff",B->"Mr. Minko"}
+{G->"0",A->"Rogers",B->"Mr. Reginald Harry"}
+{G->"0",A->"Peduzzi",B->"Mr. Joseph"}
+{G->"0",A->"Foreman",B->"Mr. Benjamin Laventall"}
+{G->"1",A->"Stahelin-Maeglin",B->"Dr. Max"}
+{G->"1",A->"Chibnall",B->"Mrs. (Edith Martha Bowerman)"}
+{G->"1",A->"Daniel",B->"Mr. Robert Williams"}
+{G->"0",A->"O'Donoghue",B->"Ms. Bridget"}
+{G->"0",A->"Sadowitz",B->"Mr. Harry"}
+{G->"1",A->"Greenfield",B->"Mrs. Leo David (Blanche Strouse)"}
+{G->"0",A->"Panula",B->"Master. Eino Viljami"}
+{G->"1",A->"Silverthorne",B->"Mr. Spencer Victor"}
+{G->"1",A->"Ward",B->"Miss. Anna"}
+{G->"1",A->"Peter",B->"Mrs. Catherine (Catherine Rizk)"}
+{G->"0",A->"Hoyt",B->"Mr. William Fisher"}
+{G->"0",A->"Danbom",B->"Mr. Ernst Gilbert"}
+{G->"0",A->"Hunt",B->"Mr. George Henry"}
+{G->"0",A->"Mahon",B->"Mr. John"}
+{G->"0",A->"Andersson",B->"Miss. Ellis Anna Maria"}
+{G->"1",A->"Andersen-Jensen",B->"Miss. Carla Christine Nielsine"}
+{G->"0",A->"Barton",B->"Mr. David John"}
+{G->"1",A->"Hirvonen",B->"Miss. Hildur E"}
+{G->"1",A->"Sandstrom",B->"Mrs. Hjalmar (Agnes Charlotta Bengtsson)"}
+{G->"0",A->"Warren",B->"Mr. Frank Manley"}
+{G->"1",A->"Dorking",B->"Mr. Edward Arthur"}
+{G->"0",A->"Kelly",B->"Mr. James"}
+{G->"1",A->"Young",B->"Miss. Marie Grice"}
+{G->"1",A->"Chaffee",B->"Mrs. Herbert Fuller (Carrie Constance Toogood)"}
+{G->"1",A->"Nakid",B->"Miss. Maria ('Mary')"}
+{G->"0",A->"Lamb",B->"Mr. John Joseph"}
+{G->"1",A->"Taylor",B->"Mrs. Elmer Zebley (Juliet Cummins Wright)"}
+{G->"0",A->"Gale",B->"Mr. Harry"}
+{G->"1",A->"Chevre",B->"Mr. Paul Romaine"}
+{G->"0",A->"Razi",B->"Mr. Raihed"}
+{G->"1",A->"Hamalainen",B->"Mrs. William (Anna)"}
+{G->"1",A->"Hewlett",B->"Mrs. (Mary D Kingcome)"}
+{G->"1",A->"Assaf Khalil",B->"Mrs. Mariana ('Miriam')"}
+{G->"1",A->"Mellinger",B->"Mrs. (Elizabeth Anne Maidment)"}
+{G->"1",A->"Cherry",B->"Miss. Gladys"}
+{G->"0",A->"Deacon",B->"Mr. Percy William"}
+{G->"1",A->"Perreault",B->"Miss. Anne"}
+{G->"0",A->"Adams",B->"Mr. John"}
+{G->"1",A->"Serepeca",B->"Miss. Augusta"}
+{G->"1",A->"Frolicher-Stehli",B->"Mr. Maxmillian"}
+{G->"0",A->"Coleridge",B->"Mr. Reginald Charles"}
+{G->"0",A->"Carr",B->"Miss. Jeannie"}
+{G->"0",A->"Panula",B->"Mrs. Juha (Maria Emilia Ojala)"}
+{G->"0",A->"Dintcheff",B->"Mr. Valtcho"}
+{G->"0",A->"Pavlovic",B->"Mr. Stefo"}
+{G->"0",A->"Dennis",B->"Mr. Samuel"}
+{G->"1",A->"Bowen",B->"Miss. Grace Scott"}
+{G->"1",A->"Caldwell",B->"Mrs. Albert Francis (Sylvia Mae Harbaugh)"}
+{G->"1",A->"Buckley",B->"Mr. Daniel"}
+{G->"1",A->"Touma",B->"Master. Georges Youssef"}
+{G->"0",A->"Naidenoff",B->"Mr. Penko"}
+{G->"0",A->"Panula",B->"Master. Juha Niilo"}
+{G->"0",A->"Turpin",B->"Mrs. William John Robert (Dorothy Ann Wonnacott)"}
+{G->"1",A->"Hellstrom",B->"Miss. Hilda Maria"}
+{G->"0",A->"Mernagh",B->"Mr. Robert"}
+{G->"1",A->"Kennedy",B->"Mr. John"}
+{G->"1",A->"Kink-Heilmann",B->"Mrs. Anton (Luise Heilmann)"}
+{G->"0",A->"Graham",B->"Mr. George Edward"}
+{G->"0",A->"Abbing",B->"Mr. Anthony"}
+{G->"1",A->"Sundman",B->"Mr. Johan Julian"}
+{G->"1",A->"Jansson",B->"Mr. Carl Olof"}
+{G->"1",A->"Penasco y Castellana",B->"Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)"}
+{G->"0",A->"Klasen",B->"Mrs. (Hulda Kristina Eugenia Lofqvist)"}
+{G->"0",A->"Saether",B->"Mr. Simon Sivertsen"}
+{G->"0",A->"Davies",B->"Mr. Alfred J"}
+{G->"0",A->"Corbett",B->"Mrs. Walter H (Irene Colvin)"}
+{G->"1",A->"Moubarek",B->"Master. Halim Gonios ('William George')"}
+{G->"0",A->"Allison",B->"Mr. Hudson Joshua Creighton"}
+{G->"0",A->"Davidson",B->"Mr. Thornton"}
+{G->"0",A->"Wiseman",B->"Mr. Phillippe"}
+{G->"1",A->"Dean",B->"Miss. Elizabeth Gladys 'Millvina'"}
+{G->"1",A->"Richards",B->"Mrs. Sidney (Emily Hocking)"}
+{G->"0",A->"Mangan",B->"Miss. Mary"}
+{G->"1",A->"Frauenthal",B->"Dr. Henry William"}
+{G->"0",A->"Lefebre",B->"Master. Henry Forbes"}
+{G->"1",A->"Fortune",B->"Mrs. Mark (Mary McDougald)"}
+{G->"0",A->"Beauchamp",B->"Mr. Henry James"}
+{G->"1",A->"Francatelli",B->"Miss. Laura Mabel"}
+{G->"1",A->"Dean",B->"Master. Bertram Vere"}
+{G->"1",A->"Herman",B->"Mrs. Samuel (Jane Laver)"}
+{G->"1",A->"Svensson",B->"Mr. Johan Cervin"}
+{G->"0",A->"Andreasson",B->"Mr. Paul Edvin"}
+{G->"0",A->"Oreskovic",B->"Miss. Jelka"}
+{G->"0",A->"Hocking",B->"Mr. Richard George"}
+{G->"0",A->"Heininen",B->"Miss. Wendla Maria"}
+{G->"0",A->"Riihivouri",B->"Miss. Susanna Juhantytar 'Sanni'"}
+{G->"0",A->"Skoog",B->"Master. Harald"}
+{G->"1",A->"Wilhelms",B->"Mr. Charles"}
+{G->"0",A->"Ling",B->"Mr. Lee"}
+{G->"1",A->"Louch",B->"Mrs. Charles Alexander (Alice Adelaide Slow)"}
+{G->"1",A->"Sinkkonen",B->"Miss. Anna"}
+{G->"0",A->"Robins",B->"Mr. Alexander A"}
+{G->"0",A->"Ford",B->"Miss. Robina Maggie 'Ruby'"}
+{G->"0",A->"Moen",B->"Mr. Sigurd Hansen"}
+{G->"0",A->"Clarke",B->"Mr. Charles Valentine"}
+{G->"0",A->"Buckley",B->"Miss. Katherine"}
+{G->"0",A->"Reynolds",B->"Mr. Harold J"}
+{G->"0",A->"Pekoniemi",B->"Mr. Edvard"}
+{G->"1",A->"Ryerson",B->"Miss. Emily Borie"}
+{G->"0",A->"Stankovic",B->"Mr. Ivan"}
+{G->"1",A->"Karun",B->"Mr. Franz"}
+{G->"1",A->"Watt",B->"Miss. Bertha J"}
+{G->"0",A->"Panula",B->"Mr. Jaako Arnold"}
+{G->"0",A->"Wittevrongel",B->"Mr. Camille"}
+{G->"0",A->"Shaughnessy",B->"Mr. Patrick"}
+{G->"0",A->"Lahtinen",B->"Rev. William"}
+{G->"0",A->"Coelho",B->"Mr. Domingos Fernandeo"}
+{G->"0",A->"Guest",B->"Mr. Robert"}
+{G->"0",A->"Ali",B->"Mr. Ahmed"}
+{G->"1",A->"Bazzani",B->"Miss. Albina"}
+{G->"1",A->"Connolly",B->"Miss. Kate"}
+{G->"1",A->"Madigan",B->"Miss. Margaret 'Maggie'"}
+{G->"0",A->"Rouse",B->"Mr. Richard Henry"}
+{G->"0",A->"Cumings",B->"Mr. John Bradley"}
+{G->"0",A->"Richard",B->"Mr. Emile"}
+{G->"1",A->"Hamalainen",B->"Master. Viljo"}
+{G->"0",A->"Chronopoulos",B->"Mr. Demetrios"}
+{G->"0",A->"Jonkoff",B->"Mr. Lalio"}
+{G->"0",A->"Jonsson",B->"Mr. Nils Hilding"}
+{G->"1",A->"Peter",B->"Miss. Anna"}
+{G->"0",A->"Larsson",B->"Mr. August Viktor"}
+{G->"1",A->"Nilsson",B->"Miss. Berta Olivia"}
+{G->"1",A->"Aubart",B->"Mme. Leontine Pauline"}
+{G->"1",A->"Wick",B->"Mrs. George Dennick (Mary Hitchcock)"}
+{G->"1",A->"McGovern",B->"Miss. Mary"}
+{G->"0",A->"Johanson",B->"Mr. Jakob Alfred"}
+{G->"1",A->"McCormack",B->"Mr. Thomas Joseph"}
+{G->"1",A->"Moor",B->"Mrs. (Beila)"}
+{G->"0",A->"Julian",B->"Mr. Henry Forbes"}
+{G->"1",A->"Schabert",B->"Mrs. Paul (Emma Mock)"}
+{G->"0",A->"West",B->"Mr. Edwy Arthur"}
+{G->"0",A->"Cann",B->"Mr. Ernest Charles"}
+{G->"0",A->"Mardirosian",B->"Mr. Sarkis"}
+{G->"1",A->"Widener",B->"Mrs. George Dunton (Eleanor Elkins)"}
+{G->"1",A->"Harder",B->"Mr. George Achilles"}
+{G->"0",A->"Saad",B->"Mr. Khalil"}
+{G->"0",A->"Goodwin",B->"Miss. Jessie Allis"}
+{G->"1",A->"Murphy",B->"Miss. Nora"}
+{G->"0",A->"Drazenoic",B->"Mr. Jozef"}
+{G->"1",A->"Harder",B->"Mrs. George Achilles (Dorothy Annan)"}
+{G->"0",A->"Barry",B->"Miss. Julia"}
+{G->"1",A->"Davison",B->"Mrs. Thomas Henry (Mary E Finck)"}
+{G->"0",A->"Shorney",B->"Mr. Charles Joseph"}
+{G->"0",A->"Hassan",B->"Mr. Houssein G N"}
+{G->"1",A->"Devaney",B->"Miss. Margaret Delia"}
+{G->"0",A->"McGowan",B->"Miss. Katherine"}
+{G->"1",A->"Nye",B->"Mrs. (Elizabeth Ramell)"}
+{G->"1",A->"Spencer",B->"Mrs. William Augustus (Marie Eugenie)"}
+{G->"0",A->"Moore",B->"Mr. Leonard Charles"}
+{G->"0",A->"Williams",B->"Mr. Howard Hugh 'Harry'"}
+{G->"1",A->"Vartanian",B->"Mr. David"}
+{G->"1",A->"del Carlo",B->"Mrs. Sebastiano (Argenia Genovesi)"}
+{G->"1",A->"Dyker",B->"Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)"}
+{G->"1",A->"Hyman",B->"Mr. Abraham"}
+{G->"0",A->"Sage",B->"Miss. Dorothy Edith 'Dolly'"}
+{G->"1",A->"Romaine",B->"Mr. Charles Hallace ('Mr C Rolmane')"}
+{G->"0",A->"Foley",B->"Mr. William"}
+{G->"0",A->"Naughton",B->"Miss. Hannah"}
+{G->"1",A->"Lang",B->"Mr. Fang"}
+{G->"0",A->"Strandberg",B->"Miss. Ida Sofia"}
+{G->"0",A->"Harris",B->"Mr. Walter"}
+{G->"0",A->"Olsen",B->"Mr. Karl Siegwart Andreas"}
+{G->"0",A->"Sage",B->"Miss. Constance Gladys"}
+{G->"1",A->"Hoyt",B->"Mr. Frederick Maxfield"}
+{G->"0",A->"Johansson",B->"Mr. Karl Johan"}
+{G->"0",A->"Asplund",B->"Master. Clarence Gustaf Hugo"}
+{G->"0",A->"Pulbaum",B->"Mr. Franz"}
+{G->"1",A->"Christy",B->"Miss. Julie Rachel"}
+{G->"0",A->"Collander",B->"Mr. Erik Gustaf"}
+{G->"0",A->"Brady",B->"Mr. John Bertram"}
+{G->"1",A->"Brown",B->"Mrs. James Joseph (Margaret Tobin)"}
+{G->"0",A->"Cacic",B->"Mr. Jego Grga"}
+{G->"0",A->"Calic",B->"Mr. Jovo"}
+{G->"0",A->"Carter",B->"Mrs. Ernest Courtenay (Lilian Hughes)"}
+{G->"1",A->"Lemore",B->"Mrs. (Amelia Milley)"}
+{G->"1",A->"Becker",B->"Master. Richard F"}
+{G->"0",A->"Evans",B->"Miss. Edith Corse"}
+{G->"1",A->"Leitch",B->"Miss. Jessie Wills"}
+{G->"0",A->"Kink",B->"Mr. Vincenz"}
+{G->"0",A->"Hays",B->"Mr. Charles Melville"}
+{G->"0",A->"Jones",B->"Mr. Charles Cresson"}
+{G->"1",A->"Bentham",B->"Miss. Lilian W"}
+{G->"0",A->"Smith",B->"Mr. Richard William"}
+{G->"0",A->"Moran",B->"Mr. James"}
+{G->"1",A->"Thorneycroft",B->"Mrs. Percival (Florence Kate White)"}
+{G->"1",A->"Newell",B->"Miss. Madeleine"}
+{G->"1",A->"Leader",B->"Dr. Alice (Farnham)"}
+{G->"0",A->"Denbury",B->"Mr. Herbert"}
+{G->"1",A->"Madill",B->"Miss. Georgette Alexandra"}
+{G->"0",A->"Futrelle",B->"Mr. Jacques Heath"}
+{G->"0",A->"Yasbeck",B->"Mr. Antoni"}
+{G->"1",A->"Cardeza",B->"Mr. Thomas Drake Martinez"}
+{G->"0",A->"Botsford",B->"Mr. William Hull"}
+{G->"1",A->"Minahan",B->"Mrs. William Edward (Lillian E Thorpe)"}
+{G->"0",A->"Baxter",B->"Mr. Quigg Edmond"}
+{G->"0",A->"Sage",B->"Mr. Douglas Bullen"}
+{G->"0",A->"Samaan",B->"Mr. Hanna"}
+{G->"1",A->"Bishop",B->"Mr. Dickinson H"}
+{G->"1",A->"Beckwith",B->"Mr. Richard Leonard"}
+{G->"1",A->"Asplund",B->"Master. Edvin Rojj Felix"}
+{G->"0",A->"Gill",B->"Mr. John William"}
+{G->"1",A->"Carter",B->"Master. William Thornton II"}
+{G->"1",A->"Ilett",B->"Miss. Bertha"}
+{G->"0",A->"Keane",B->"Mr. Andrew 'Andy'"}
+{G->"0",A->"Flynn",B->"Mr. James"}
+{G->"0",A->"Andersson",B->"Miss. Ida Augusta Margareta"}
+{G->"0",A->"Ekstrom",B->"Mr. Johan"}
+{G->"0",A->"Lievens",B->"Mr. Rene Aime"}
+{G->"0",A->"McMahon",B->"Mr. Martin"}
+{G->"1",A->"Abbott",B->"Mrs. Stanton (Rosa Hunt)"}
+{G->"0",A->"Gustafsson",B->"Mr. Johan Birger"}
+{G->"1",A->"Navratil",B->"Master. Michel M"}
+{G->"0",A->"Oreskovic",B->"Miss. Marija"}
+{G->"1",A->"Cassebeer",B->"Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)"}
+{G->"0",A->"Natsch",B->"Mr. Charles H"}
+{G->"0",A->"Hipkins",B->"Mr. William Edward"}
+{G->"0",A->"Long",B->"Mr. Milton Clyde"}
+{G->"0",A->"Baimbrigge",B->"Mr. Charles Robert"}
+{G->"1",A->"Tornquist",B->"Mr. William Henry"}
+{G->"0",A->"Pettersson",B->"Miss. Ellen Natalia"}
+{G->"0",A->"Malachard",B->"Mr. Noel"}
+{G->"0",A->"Jenkin",B->"Mr. Stephen Curnow"}
+{G->"1",A->"Quick",B->"Miss. Winifred Vera"}
+{G->"0",A->"Johansson",B->"Mr. Nils"}
+{G->"0",A->"Karlsson",B->"Mr. Julius Konrad Eugen"}
+{G->"0",A->"Goldsmith",B->"Mr. Frank John"}
+{G->"1",A->"Kelly",B->"Miss. Anna Katherine 'Annie Kate'"}
+{G->"0",A->"Youseff",B->"Mr. Gerious"}
+{G->"1",A->"Sjoblom",B->"Miss. Anna Sofia"}
+{G->"0",A->"Pears",B->"Mr. Thomas Clinton"}
+{G->"0",A->"Panula",B->"Master. Urho Abraham"}
+{G->"0",A->"Troupiansky",B->"Mr. Moses Aaron"}
+{G->"0",A->"Assaf",B->"Mr. Gerios"}
+{G->"1",A->"Karlsson",B->"Mr. Einar Gervasius"}
+{G->"1",A->"Becker",B->"Mrs. Allen Oliver (Nellie E Baumgardner)"}
+{G->"1",A->"Brown",B->"Miss. Amelia 'Mildred'"}
+{G->"0",A->"Leyson",B->"Mr. Robert William Norman"}
+{G->"0",A->"Dakic",B->"Mr. Branko"}
+{G->"0",A->"Dimic",B->"Mr. Jovan"}
+{G->"1",A->"Lulic",B->"Mr. Nikola"}
+{G->"0",A->"Thomas",B->"Mr. John"}
+{G->"0",A->"Arnold-Franchi",B->"Mr. Josef"}
+{G->"1",A->"Oliva y Ocana",B->"Dona. Fermina"}
+{G->"0",A->"Everett",B->"Mr. Thomas James"}
+{G->"0",A->"Thayer",B->"Mr. John Borland"}
+{G->"1",A->"Blank",B->"Mr. Henry"}
+{G->"0",A->"Andersson",B->"Miss. Ebba Iris Alfrida"}
+{G->"0",A->"Bowen",B->"Mr. David John 'Dai'"}
+{G->"1",A->"Bing",B->"Mr. Lee"}
+{G->"1",A->"Wright",B->"Miss. Marion"}
+{G->"1",A->"White",B->"Mrs. John Stuart (Ella Holmes)"}
+{G->"0",A->"Goldschmidt",B->"Mr. George B"}
+{G->"0",A->"Widener",B->"Mr. George Dunton"}
+{G->"1",A->"Sandstrom",B->"Miss. Marguerite Rut"}
+{G->"1",A->"Burns",B->"Miss. Elizabeth Margaret"}
+{G->"1",A->"Padro y Manent",B->"Mr. Julian"}
+{G->"0",A->"Barbara",B->"Mrs. (Catherine David)"}
+{G->"0",A->"Butt",B->"Major. Archibald Willingham"}
+{G->"0",A->"Ringhini",B->"Mr. Sante"}
+{G->"1",A->"Hart",B->"Mrs. Benjamin (Esther Ada Bloomfield)"}
+{G->"0",A->"Makinen",B->"Mr. Kalle Edvard"}
+{G->"1",A->"Duran y More",B->"Miss. Florentina"}
+{G->"0",A->"Montvila",B->"Rev. Juozas"}
+{G->"0",A->"Berriman",B->"Mr. William John"}
+{G->"0",A->"Wiklund",B->"Mr. Jakob Alfred"}
+{G->"0",A->"Larsson",B->"Mr. Bengt Edvin"}
+{G->"1",A->"Hold",B->"Mrs. Stephen (Annie Margaret Hill)"}
+{G->"0",A->"Hart",B->"Mr. Benjamin"}
+{G->"1",A->"Mullens",B->"Miss. Katherine 'Katie'"}
+{G->"1",A->"Greenfield",B->"Mr. William Bertram"}
+{G->"0",A->"Goodwin",B->"Master. Sidney Leonard"}
+{G->"0",A->"Meo",B->"Mr. Alfonzo"}
+{G->"0",A->"Fillbrook",B->"Mr. Joseph Charles"}
+{G->"1",A->"Bishop",B->"Mrs. Dickinson H (Helen Walton)"}
+{G->"0",A->"Pearce",B->"Mr. Ernest"}
+{G->"0",A->"Carrau",B->"Mr. Francisco M"}
+{G->"0",A->"Case",B->"Mr. Howard Brown"}
+{G->"1",A->"Nourney",B->"Mr. Alfred ('Baron von Drachstedt')"}
+{G->"0",A->"Lester",B->"Mr. James"}
+{G->"1",A->"Brown",B->"Miss. Edith Eileen"}
+{G->"0",A->"Rosblom",B->"Mrs. Viktor (Helena Wilhelmina)"}
+{G->"0",A->"Payne",B->"Mr. Vivian Ponsonby"}
+{G->"1",A->"Allen",B->"Miss. Elisabeth Walton"}
+{G->"1",A->"Rothschild",B->"Mrs. Martin (Elizabeth L. Barrett)"}
+{G->"1",A->"Moussa",B->"Mrs. (Mantoura Boulos)"}
+{G->"0",A->"Isham",B->"Miss. Ann Elizabeth"}
+{G->"0",A->"Meek",B->"Mrs. Thomas (Annie Louise Rowley)"}
+{G->"1",A->"Moubarek",B->"Master. Gerios"}
+{G->"1",A->"West",B->"Miss. Constance Mirium"}
+{G->"0",A->"Smart",B->"Mr. John Montgomery"}
+{G->"0",A->"Attalah",B->"Miss. Malake"}
+{G->"0",A->"Kantor",B->"Mr. Sinai"}
+{G->"0",A->"Backstrom",B->"Mr. Karl Alfred"}
+{G->"0",A->"Navratil",B->"Mr. Michel ('Louis M Hoffman')"}
+{G->"0",A->"Stoytcheff",B->"Mr. Ilia"}
+{G->"0",A->"Gustafsson",B->"Mr. Anders Vilhelm"}
+{G->"0",A->"Rothschild",B->"Mr. Martin"}
+{G->"0",A->"Greenberg",B->"Mr. Samuel"}
+{G->"0",A->"Clark",B->"Mr. Walter Miller"}
+{G->"0",A->"Van Impe",B->"Mr. Jean Baptiste"}
+{G->"1",A->"Drew",B->"Mrs. James Vivian (Lulu Thorne Christian)"}
+{G->"0",A->"Beavan",B->"Mr. William Thomas"}
+{G->"0",A->"Stewart",B->"Mr. Albert A"}
+{G->"1",A->"Willard",B->"Miss. Constance"}
+{G->"0",A->"Asplund",B->"Master. Filip Oscar"}
+{G->"0",A->"Braund",B->"Mr. Owen Harris"}
+{G->"1",A->"Williams",B->"Mr. Charles Eugene"}
+{G->"0",A->"Ford",B->"Miss. Doolina Margaret 'Daisy'"}
+{G->"0",A->"Fynney",B->"Mr. Joseph J"}
+{G->"1",A->"Davidson",B->"Mrs. Thornton (Orian Hays)"}
+{G->"1",A->"Jacobsohn",B->"Mrs. Sidney Samuel (Amy Frances Christy)"}
+{G->"0",A->"McNamee",B->"Mrs. Neal (Eileen O'Leary)"}
+{G->"0",A->"Mudd",B->"Mr. Thomas Charles"}
+{G->"1",A->"Kink-Heilmann",B->"Mr. Anton"}
+{G->"0",A->"Hendekovic",B->"Mr. Ignjac"}
+{G->"0",A->"Silvey",B->"Mr. William Baird"}
+{G->"1",A->"Stengel",B->"Mrs. Charles Emil Henry (Annie May Morris)"}
+{G->"0",A->"Giglio",B->"Mr. Victor"}
+{G->"0",A->"Johnston",B->"Mrs. Andrew G (Elizabeth 'Lily' Watson)"}
+{G->"0",A->"Brown",B->"Mr. Thomas William Solomon"}
+{G->"0",A->"Lyntakoff",B->"Mr. Stanko"}
+{G->"0",A->"Smiljanic",B->"Mr. Mile"}
+{G->"0",A->"Laitinen",B->"Miss. Kristina Sofia"}
+{G->"0",A->"Fox",B->"Mr. Patrick"}
+{G->"0",A->"Braund",B->"Mr. Lewis Richard"}
+{G->"0",A->"Radeff",B->"Mr. Alexander"}
+{G->"1",A->"Homer",B->"Mr. Harry ('Mr E Haven')"}
+{G->"1",A->"Shelley",B->"Mrs. William (Imanita Parrish Hall)"}
+{G->"1",A->"West",B->"Mrs. Edwy Arthur (Ada Mary Worth)"}
+{G->"0",A->"Lindell",B->"Mrs. Edvard Bengtsson (Elin Gerda Persson)"}
+{G->"0",A->"Nosworthy",B->"Mr. Richard Cater"}
+{G->"0",A->"Windelov",B->"Mr. Einar"}
+{G->"0",A->"Gheorgheff",B->"Mr. Stanio"}
+{G->"0",A->"Lennon",B->"Mr. Denis"}
+{G->"0",A->"Markoff",B->"Mr. Marin"}
+{G->"1",A->"Cavendish",B->"Mrs. Tyrell William (Julia Florence Siegel)"}
+{G->"1",A->"Kreuchen",B->"Miss. Emilie"}
+{G->"1",A->"Madsen",B->"Mr. Fridtjof Arne"}
+{G->"1",A->"Keane",B->"Miss. Nora A"}
+{G->"0",A->"Bailey",B->"Mr. Percy Andrew"}
+{G->"0",A->"Hilliard",B->"Mr. Herbert Henry"}
+{G->"0",A->"Lockyer",B->"Mr. Edward"}
+{G->"0",A->"Allen",B->"Mr. William Henry"}
+{G->"1",A->"Carter",B->"Mrs. William Ernest (Lucile Polk)"}
+{G->"0",A->"Straus",B->"Mrs. Isidor (Rosalie Ida Blun)"}
+{G->"0",A->"Stanton",B->"Mr. Samuel Ward"}
+{G->"1",A->"Watt",B->"Mrs. James (Elizabeth 'Bessie' Inglis Milne)"}
+{G->"1",A->"Dowdell",B->"Miss. Elizabeth"}
+{G->"1",A->"Duff Gordon",B->"Lady. (Lucille Christiana Sutherland) ('Mrs Morgan')"}
+{G->"0",A->"Arnold-Franchi",B->"Mrs. Josef (Josefine Franchi)"}
+{G->"0",A->"Lewy",B->"Mr. Ervin G"}
+{G->"1",A->"Lesurer",B->"Mr. Gustave J"}
+{G->"0",A->"Smith",B->"Mr. Lucien Philip"}
+{G->"1",A->"O'Brien",B->"Mrs. Thomas (Johanna 'Hannah' Godfrey)"}
+{G->"0",A->"Boulos",B->"Mr. Hanna"}
+{G->"0",A->"Spinner",B->"Mr. Henry John"}
+{G->"0",A->"Asim",B->"Mr. Adola"}
+{G->"0",A->"Giles",B->"Mr. Edgar"}
+{G->"0",A->"Partner",B->"Mr. Austen"}
+{G->"0",A->"Doharr",B->"Mr. Tannous"}
+{G->"0",A->"Elsbury",B->"Mr. William James"}
+{G->"0",A->"Nieminen",B->"Miss. Manta Josefina"}
+{G->"0",A->"Warren",B->"Mr. Charles William"}
+{G->"1",A->"Reynaldo",B->"Ms. Encarnacion"}
+{G->"0",A->"Elias",B->"Mr. Tannous"}
+{G->"0",A->"Larsson-Rondberg",B->"Mr. Edvard A"}
+{G->"1",A->"Wells",B->"Master. Ralph Lester"}
+{G->"0",A->"Lovell",B->"Mr. John Hall ('Henry')"}
+{G->"0",A->"Maisner",B->"Mr. Simon"}
+{G->"0",A->"Webber",B->"Mr. James"}
+{G->"0",A->"Spector",B->"Mr. Woolf"}
+{G->"1",A->"Rosenbaum",B->"Miss. Edith Louise"}
+{G->"1",A->"Newsom",B->"Miss. Helen Monypeny"}
+{G->"0",A->"Ford",B->"Mrs. Edward (Margaret Ann Watson)"}
+{G->"1",A->"Ismay",B->"Mr. Joseph Bruce"}
+{G->"0",A->"Braf",B->"Miss. Elin Ester Maria"}
+{G->"1",A->"Turja",B->"Miss. Anna Sofia"}
+{G->"1",A->"de Messemaeker",B->"Mrs. Guillaume Joseph (Emma)"}
+{G->"1",A->"Thayer",B->"Mr. John Borland Jr"}
+{G->"0",A->"Baccos",B->"Mr. Raffull"}
+{G->"0",A->"Lemberopolous",B->"Mr. Peter L"}
+{G->"0",A->"Morley",B->"Mr. William"}
+{G->"1",A->"Glynn",B->"Miss. Mary Agatha"}
+{G->"1",A->"Fortune",B->"Miss. Mabel Helen"}
+{G->"1",A->"Webber",B->"Miss. Susan"}
+{G->"1",A->"Duquemin",B->"Mr. Joseph"}
+{G->"0",A->"Jensen",B->"Mr. Hans Peder"}
+{G->"0",A->"Sage",B->"Mr. Frederick"}
+{G->"0",A->"van Billiard",B->"Master. James William"}
+{G->"0",A->"Waelens",B->"Mr. Achille"}
+{G->"0",A->"Rice",B->"Master. Albert"}
+{G->"0",A->"Petroff",B->"Mr. Nedelio"}
+{G->"1",A->"Whabee",B->"Mrs. George Joseph (Shawneene Abi-Saab)"}
+{G->"0",A->"Betros",B->"Master. Seman"}
+{G->"1",A->"Persson",B->"Mr. Ernst Ulrik"}
+{G->"1",A->"Hocking",B->"Miss. Ellen 'Nellie'"}
+{G->"1",A->"Goldenberg",B->"Mrs. Samuel L (Edwiga Grabowska)"}
+{G->"1",A->"Chaudanson",B->"Miss. Victorine"}
+{G->"1",A->"Futrelle",B->"Mrs. Jacques Heath (Lily May Peel)"}
+{G->"0",A->"Kink",B->"Miss. Maria"}
+{G->"1",A->"Renouf",B->"Mrs. Peter Henry (Lillian Jefferys)"}
+{G->"0",A->"Ford",B->"Mr. William Neal"}
+{G->"0",A->"Palsson",B->"Master. Gosta Leonard"}
+{G->"0",A->"Howard",B->"Mrs. Benjamin (Ellen Truelove Arman)"}
+{G->"0",A->"Van der hoef",B->"Mr. Wyckoff"}
+{G->"0",A->"O'Sullivan",B->"Miss. Bridget Mary"}
+{G->"0",A->"Davison",B->"Mr. Thomas Henry"}
+{G->"1",A->"Backstrom",B->"Mrs. Karl Alfred (Maria Mathilda Gustafsson)"}
+{G->"0",A->"Augustsson",B->"Mr. Albert"}
+{G->"0",A->"Cook",B->"Mr. Jacob"}
+{G->"1",A->"Earnshaw",B->"Mrs. Boulton (Olive Potter)"}
+{G->"1",A->"Endres",B->"Miss. Caroline Louise"}
+{G->"0",A->"Lithman",B->"Mr. Simon"}
+{G->"1",A->"Icard",B->"Miss. Amelie"}
+{G->"1",A->"Coutts",B->"Mrs. William (Winnie 'Minnie' Treanor)"}
+{G->"0",A->"Ware",B->"Mr. Frederick"}
+{G->"1",A->"Christy",B->"Mrs. (Alice Frances)"}
+{G->"0",A->"Chisholm",B->"Mr. Roderick Robert Crispin"}
+{G->"0",A->"Thomson",B->"Mr. Alexander Morrison"}
+{G->"0",A->"Yousseff",B->"Mr. Gerious"}
+{G->"1",A->"Hassab",B->"Mr. Hammad"}
+{G->"0",A->"Sweet",B->"Mr. George Frederick"}
+{G->"0",A->"Meanwell",B->"Miss. (Marion Ogden)"}
+{G->"0",A->"Straus",B->"Mr. Isidor"}
+{G->"0",A->"Palsson",B->"Miss. Torborg Danira"}
+{G->"1",A->"O'Dwyer",B->"Miss. Ellen 'Nellie'"}
+{G->"0",A->"Slocovski",B->"Mr. Selman Francis"}
+{G->"1",A->"Duran y More",B->"Miss. Asuncion"}
+{G->"0",A->"Humblen",B->"Mr. Adolf Mathias Nicolai Olsen"}
+{G->"0",A->"Knight",B->"Mr. Robert J"}
+{G->"0",A->"Bateman",B->"Rev. Robert James"}
+{G->"0",A->"Torber",B->"Mr. Ernst William"}
+{G->"1",A->"Barkworth",B->"Mr. Algernon Henry Wilson"}
+{G->"1",A->"Heikkinen",B->"Miss. Laina"}
+{G->"1",A->"Sap",B->"Mr. Julius"}
+{G->"0",A->"Wirz",B->"Mr. Albert"}
+{G->"1",A->"Kink-Heilmann",B->"Miss. Luise Gretchen"}
+{G->"0",A->"Ross",B->"Mr. John Hugo"}
+{G->"1",A->"Goldsmith",B->"Master. Frank John William 'Frankie'"}
+{G->"0",A->"Matinoff",B->"Mr. Nicola"}
+{G->"0",A->"Gustafsson",B->"Mr. Karl Gideon"}
+{G->"1",A->"Moor",B->"Master. Meier"}
+{G->"0",A->"Connolly",B->"Miss. Kate"}
+{G->"1",A->"Ostby",B->"Miss. Helene Ragnhild"}
+{G->"0",A->"Alexander",B->"Mr. William"}
+{G->"1",A->"Simonius-Blumer",B->"Col. Oberst Alfons"}
+{G->"0",A->"Minkoff",B->"Mr. Lazar"}
+{G->"0",A->"Rekic",B->"Mr. Tido"}
+{G->"0",A->"Svensson",B->"Mr. Johan"}
+{G->"0",A->"Assam",B->"Mr. Ali"}
+{G->"0",A->"Kenyon",B->"Mr. Frederick R"}
+{G->"1",A->"Graham",B->"Mrs. William Thompson (Edith Junkins)"}
+{G->"0",A->"Danbom",B->"Master. Gilbert Sigvard Emanuel"}
+{G->"0",A->"Yousif",B->"Mr. Wazli"}
+{G->"1",A->"de Messemaeker",B->"Mr. Guillaume Joseph"}
+{G->"0",A->"Van Impe",B->"Mrs. Jean Baptiste (Rosalie Paula Govaert)"}
+{G->"1",A->"Johansson Palmquist",B->"Mr. Oskar Leander"}
+{G->"0",A->"Bracken",B->"Mr. James H"}
+{G->"1",A->"LeRoy",B->"Miss. Bertha"}
+{G->"1",A->"Hakkarainen",B->"Mrs. Pekka Pietari (Elin Matilda Dolck)"}
+{G->"1",A->"Chambers",B->"Mrs. Norman Campbell (Bertha Griggs)"}
+{G->"1",A->"Kantor",B->"Mrs. Sinai (Miriam Sternin)"}
+{G->"1",A->"Abelseth",B->"Mr. Olaus Jorgensen"}
+{G->"1",A->"Rheims",B->"Mr. George Alexander Lucien"}
+{G->"1",A->"Trout",B->"Mrs. William H (Jessie L)"}
+{G->"1",A->"Bowerman",B->"Miss. Elsie Edith"}
+{G->"0",A->"Rosblom",B->"Mr. Viktor Richard"}
+{G->"1",A->"Aks",B->"Master. Philip Frank"}
+{G->"1",A->"Coutts",B->"Master. William Loch 'William'"}
+{G->"0",A->"Jensen",B->"Mr. Niels Peder"}
+{G->"0",A->"Dibden",B->"Mr. William"}
+{G->"1",A->"Foo",B->"Mr. Choong"}
+{G->"1",A->"Longley",B->"Miss. Gretchen Fiske"}
+{G->"0",A->"Farrell",B->"Mr. James"}
+{G->"1",A->"Olsson",B->"Mr. Oscar Wilhelm"}
+{G->"0",A->"Lingane",B->"Mr. John"}
+{G->"0",A->"Sawyer",B->"Mr. Frederick Charles"}
+{G->"1",A->"Ball",B->"Mrs. (Ada E Hall)"}
+{G->"0",A->"Weir",B->"Col. John"}
+{G->"0",A->"Wenzel",B->"Mr. Linhart"}
+{G->"0",A->"Vestrom",B->"Miss. Hulda Amanda Adolfina"}
+{G->"0",A->"Skoog",B->"Miss. Mabel"}
+{G->"0",A->"Pain",B->"Dr. Alfred"}
+{G->"1",A->"Moran",B->"Miss. Bertha"}
+{G->"0",A->"Svensson",B->"Mr. Olof"}
+{G->"1",A->"Herman",B->"Miss. Alice"}
+{G->"0",A->"Skoog",B->"Mr. Wilhelm"}
+{G->"0",A->"Franklin",B->"Mr. Charles (Charles Fardon)"}
+{G->"0",A->"Eklund",B->"Mr. Hans Linus"}
+{G->"0",A->"Shellard",B->"Mr. Frederick William"}
+{G->"1",A->"Coutts",B->"Master. Eden Leslie 'Neville'"}
+{G->"0",A->"Pokrnic",B->"Mr. Tome"}
+{G->"1",A->"Sincock",B->"Miss. Maude"}
+{G->"0",A->"Haas",B->"Miss. Aloisia"}
+{G->"0",A->"Bryhl",B->"Mr. Kurt Arnold Gottfrid"}
+{G->"1",A->"Collett",B->"Mr. Sidney C Stuart"}
+{G->"0",A->"Harrison",B->"Mr. William"}
+{G->"0",A->"Douglas",B->"Mr. Walter Donald"}
+{G->"1",A->"Baxter",B->"Mrs. James (Helene DeLaudeniere Chaput)"}
+{G->"0",A->"Head",B->"Mr. Christopher"}
+{G->"0",A->"Jefferys",B->"Mr. Clifford Thomas"}
+{G->"0",A->"Goodwin",B->"Master. William Frederick"}
+{G->"1",A->"Laroche",B->"Miss. Louise"}
+{G->"0",A->"Carlsson",B->"Mr. Frans Olof"}
+{G->"0",A->"Sutehall",B->"Mr. Henry Jr"}
+{G->"0",A->"Bostandyeff",B->"Mr. Guentcho"}
+{G->"0",A->"Hale",B->"Mr. Reginald"}
+{G->"1",A->"Clarke",B->"Mrs. Charles V (Ada Maria Winfield)"}
+{G->"0",A->"Lahtinen",B->"Mrs. William (Anna Sylfven)"}
+{G->"0",A->"Harris",B->"Mr. Henry Birkhardt"}
+{G->"1",A->"Saalfeld",B->"Mr. Adolphe"}
+{G->"1",A->"Rothes",B->"the Countess. of (Lucy Noel Martha Dyer-Edwards)"}
+{G->"0",A->"Ware",B->"Mr. William Jeffery"}
+{G->"0",A->"Gallagher",B->"Mr. Martin"}
+{G->"1",A->"Goldenberg",B->"Mr. Samuel L"}
+{G->"0",A->"Saundercock",B->"Mr. William Henry"}
+{G->"1",A->"McGough",B->"Mr. James Robert"}
+{G->"1",A->"Chambers",B->"Mr. Norman Campbell"}
+{G->"1",A->"Marechal",B->"Mr. Pierre"}
+{G->"1",A->"Allison",B->"Master. Hudson Trevor"}
+{G->"1",A->"Abelseth",B->"Miss. Karen Marie"}
+{G->"1",A->"Roth",B->"Miss. Sarah A"}
+{G->"0",A->"Zimmerman",B->"Mr. Leo"}
+{G->"1",A->"Newell",B->"Miss. Marjorie"}
+{G->"0",A->"Herman",B->"Mr. Samuel"}
+{G->"0",A->"Thomas",B->"Mr. Tannous"}
+{G->"1",A->"Karun",B->"Miss. Manca"}
+{G->"0",A->"Mahon",B->"Miss. Bridget Delia"}
+{G->"0",A->"Nilsson",B->"Mr. August Ferdinand"}
+{G->"0",A->"Ali",B->"Mr. William"}
+{G->"1",A->"Nakid",B->"Mrs. Said (Waika 'Mary' Mowad)"}
+{G->"0",A->"Corn",B->"Mr. Harry"}
+{G->"1",A->"Stranden",B->"Mr. Juho"}
+{G->"0",A->"Hood",B->"Mr. Ambrose Jr"}
+{G->"1",A->"Barah",B->"Mr. Hanna Assi"}
+{G->"1",A->"Robert",B->"Mrs. Edward Scott (Elisabeth Walton McMillan)"}
+{G->"0",A->"Roebling",B->"Mr. Washington Augustus II"}
+{G->"0",A->"Slemen",B->"Mr. Richard James"}
+{G->"0",A->"Willer",B->"Mr. Aaron ('Abi Weller')"}
+{G->"1",A->"Dick",B->"Mr. Albert Adrian"}
+{G->"0",A->"Ostby",B->"Mr. Engelhart Cornelius"}
+{G->"0",A->"Kiernan",B->"Mr. John"}
+{G->"0",A->"Rosblom",B->"Miss. Salli Helena"}
+{G->"0",A->"Olsson",B->"Mr. Nils Johan Goransson"}
+{G->"0",A->"Cotterill",B->"Mr. Henry 'Harry'"}
+{G->"0",A->"Spencer",B->"Mr. William Augustus"}
+{G->"0",A->"Rood",B->"Mr. Hugh Roscoe"}
+{G->"0",A->"Allum",B->"Mr. Owen George"}
+{G->"0",A->"McNamee",B->"Mr. Neal"}
+{G->"0",A->"Bourke",B->"Miss. Mary"}
+{G->"1",A->"Shutes",B->"Miss. Elizabeth W"}
+{G->"0",A->"Lefebre",B->"Miss. Mathilde"}
+{G->"0",A->"Andrews",B->"Mr. Thomas Jr"}
+{G->"0",A->"Hagardon",B->"Miss. Kate"}
+{G->"1",A->"Lam",B->"Mr. Ali"}
+{G->"0",A->"Birkeland",B->"Mr. Hans Martin Monsen"}
+{G->"1",A->"Sagesser",B->"Mlle. Emma"}
+{G->"1",A->"Minahan",B->"Miss. Daisy E"}
+{G->"0",A->"Doyle",B->"Miss. Elizabeth"}
+{G->"0",A->"Alhomaki",B->"Mr. Ilmari Rudolf"}
+{G->"1",A->"Navratil",B->"Master. Edmond Roger"}
+{G->"0",A->"Ryan",B->"Mr. Patrick"}
+{G->"0",A->"Zabour",B->"Miss. Hileni"}
+{G->"1",A->"Nilsson",B->"Miss. Helmina Josefina"}
+{G->"0",A->"Petroff",B->"Mr. Pastcho ('Pentcho')"}
+{G->"1",A->"Jonsson",B->"Mr. Carl"}
+{G->"1",A->"Asplund",B->"Mrs. Carl Oscar (Selma Augusta Emilia Johansson)"}
+{G->"1",A->"Mellinger",B->"Miss. Madeleine Violet"}
+{G->"0",A->"Kalvik",B->"Mr. Johannes Halvorsen"}
+{G->"0",A->"Sivic",B->"Mr. Husein"}
+{G->"0",A->"Gustafsson",B->"Mr. Alfred Ossian"}
+{G->"0",A->"Bengtsson",B->"Mr. John Viktor"}
+{G->"0",A->"Sdycoff",B->"Mr. Todor"}
+{G->"0",A->"Gillespie",B->"Mr. William Henry"}
+{G->"0",A->"Daher",B->"Mr. Shedid"}
+{G->"1",A->"Baclini",B->"Mrs. Solomon (Latifa Qurban)"}
+{G->"0",A->"Kvillner",B->"Mr. Johan Henrik Johannesson"}
+{G->"0",A->"Samaan",B->"Mr. Youssef"}
+{G->"0",A->"Lindell",B->"Mr. Edvard Bengtsson"}
+{G->"1",A->"Cameron",B->"Miss. Clear Annie"}
+{G->"1",A->"Graham",B->"Miss. Margaret Edith"}
+{G->"1",A->"Woolner",B->"Mr. Hugh"}
+{G->"0",A->"Mitkoff",B->"Mr. Mito"}
+{G->"0",A->"Chapman",B->"Mrs. John Henry (Sara Elizabeth Lawry)"}
+{G->"0",A->"Porter",B->"Mr. Walter Chamberlain"}
+{G->"1",A->"Lines",B->"Miss. Mary Conover"}
+{G->"1",A->"Olsen",B->"Master. Artur Karl"}
+{G->"0",A->"Panula",B->"Mr. Ernesti Arvid"}
+{G->"0",A->"McCrae",B->"Mr. Arthur Gordon"}
+{G->"0",A->"Lane",B->"Mr. Patrick"}
+{G->"1",A->"Kelly",B->"Mrs. Florence 'Fannie'"}
+{G->"1",A->"Omont",B->"Mr. Alfred Fernand"}
+{G->"0",A->"Lefebre",B->"Mrs. Frank (Frances)"}
+{G->"1",A->"Lundin",B->"Miss. Olga Elida"}
+{G->"0",A->"Kirkland",B->"Rev. Charles Leonard"}
+{G->"1",A->"Abrahim",B->"Mrs. Joseph (Sophie Halaut Easu)"}
+{G->"0",A->"Olsson",B->"Miss. Elina"}
+{G->"0",A->"Caram",B->"Mrs. Joseph (Maria Elias)"}
+{G->"0",A->"Gronnestad",B->"Mr. Daniel Danielsen"}
+{G->"1",A->"Bissette",B->"Miss. Amelia"}
+{G->"0",A->"Renouf",B->"Mr. Peter Henry"}
+{G->"0",A->"Colley",B->"Mr. Edward Pomeroy"}
+{G->"0",A->"Minahan",B->"Dr. William Edward"}
+{G->"0",A->"Reeves",B->"Mr. David"}
+{G->"0",A->"Bowenur",B->"Mr. Solomon"}
+{G->"1",A->"Appleton",B->"Mrs. Edward Dale (Charlotte Lamson)"}
+{G->"1",A->"Hedman",B->"Mr. Oskar Arvid"}
+{G->"1",A->"Sunderland",B->"Mr. Victor Francis"}
+{G->"1",A->"Jermyn",B->"Miss. Annie"}
+{G->"0",A->"Maenpaa",B->"Mr. Matti Alexanteri"}
+{G->"1",A->"Phillips",B->"Miss. Alice Frances Louisa"}
+{G->"0",A->"Plotcharsky",B->"Mr. Vasil"}
+{G->"0",A->"Patchett",B->"Mr. George"}
+{G->"0",A->"Norman",B->"Mr. Robert Douglas"}
+{G->"1",A->"Daly",B->"Mr. Peter Denis"}
+{G->"0",A->"Canavan",B->"Mr. Patrick"}
+{G->"1",A->"Spedden",B->"Mrs. Frederic Oakley (Margaretta Corning Stone)"}
+{G->"1",A->"Silven",B->"Miss. Lyyli Karoliina"}
+{G->"1",A->"McCoy",B->"Mr. Bernard"}
+{G->"1",A->"Fortune",B->"Miss. Ethel Flora"}
+{G->"0",A->"Lobb",B->"Mr. William Arthur"}
+{G->"1",A->"Mellors",B->"Mr. William John"}
+{G->"1",A->"Beesley",B->"Mr. Lawrence"}
+{G->"0",A->"Green",B->"Mr. George Henry"}
+{G->"1",A->"Carter",B->"Mr. William Ernest"}
+{G->"0",A->"Carlsson",B->"Mr. Carl Robert"}
+{G->"1",A->"Astor",B->"Mrs. John Jacob (Madeleine Talmadge Force)"}
+{G->"0",A->"Klaber",B->"Mr. Herman"}
+{G->"0",A->"Abbott",B->"Mr. Rossmore Edward"}
+{G->"1",A->"Bystrom",B->"Mrs. (Karolina)"}
+{G->"0",A->"Sage",B->"Mr. George John Jr"}
+{G->"0",A->"Lam",B->"Mr. Len"}
+{G->"0",A->"Mitchell",B->"Mr. Henry Michael"}
+{G->"1",A->"Beckwith",B->"Mrs. Richard Leonard (Sallie Monypeny)"}
+{G->"0",A->"Holthen",B->"Mr. Johan Martin"}
+{G->"0",A->"Peacock",B->"Mrs. Benjamin (Edith Nile)"}
+{G->"0",A->"Kent",B->"Mr. Edward Austin"}
+{G->"0",A->"Dantcheff",B->"Mr. Ristiu"}
+{G->"1",A->"McCarthy",B->"Miss. Catherine 'Katie'"}
+{G->"1",A->"Frolicher-Stehli",B->"Mrs. Maxmillian (Margaretha Emerentia Stehli)"}
+{G->"0",A->"Goodwin",B->"Master. Harold Victor"}
+{G->"0",A->"Samaan",B->"Mr. Elias"}
+{G->"1",A->"Harris",B->"Mrs. Henry Birkhardt (Irene Wallach)"}
+{G->"1",A->"Lehmann",B->"Miss. Bertha"}
+{G->"0",A->"Paulner",B->"Mr. Uscher"}
+{G->"1",A->"Touma",B->"Miss. Maria Youssef"}
+{G->"0",A->"Sjostedt",B->"Mr. Ernst Adolf"}
+{G->"0",A->"Horgan",B->"Mr. John"}
+{G->"1",A->"Ryerson",B->"Master. John Borie"}
+{G->"1",A->"Snyder",B->"Mr. John Pillsbury"}
+{G->"1",A->"Smyth",B->"Miss. Julia"}
+{G->"0",A->"Fahlstrom",B->"Mr. Arne Jonas"}
+{G->"0",A->"Mangiavacchi",B->"Mr. Serafino Emilio"}
+{G->"0",A->"Chaffee",B->"Mr. Herbert Fuller"}
+{G->"1",A->"Slayter",B->"Miss. Hilda Mary"}
+{G->"0",A->"Carter",B->"Rev. Ernest Courtenay"}
+{G->"0",A->"Hodges",B->"Mr. Henry Price"}
+{G->"0",A->"Kraeff",B->"Mr. Theodor"}
+{G->"1",A->"Herman",B->"Miss. Kate"}
+{G->"0",A->"Gee",B->"Mr. Arthur H"}
+{G->"0",A->"Miles",B->"Mr. Frank"}
+{G->"1",A->"Taussig",B->"Mrs. Emil (Tillie Mandelbaum)"}
+{G->"0",A->"Ponesell",B->"Mr. Martin"}
+{G->"1",A->"Clark",B->"Mrs. Walter Miller (Virginia McDowell)"}
+{G->"0",A->"Keane",B->"Mr. Daniel"}
+{G->"1",A->"Nicola-Yarred",B->"Miss. Jamila"}
+{G->"0",A->"Andersson",B->"Mr. Anders Johan"}
+{G->"0",A->"Butler",B->"Mr. Reginald Fenton"}
+{G->"0",A->"Walker",B->"Mr. William Anderson"}
+{G->"1",A->"Pickard",B->"Mr. Berk (Berk Trembisky)"}
+{G->"1",A->"Hosono",B->"Mr. Masabumi"}
+{G->"0",A->"Peruschitz",B->"Rev. Joseph Maria"}
+{G->"1",A->"Nicola-Yarred",B->"Master. Elias"}
+{G->"1",A->"Marvin",B->"Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)"}
+{G->"0",A->"Ashby",B->"Mr. John"}
+{G->"1",A->"Buss",B->"Miss. Kate"}
+{G->"0",A->"Petranec",B->"Miss. Matilda"}
+{G->"0",A->"Salander",B->"Mr. Karl Johan"}
+{G->"0",A->"Birnbaum",B->"Mr. Jakob"}
+{G->"1",A->"Andersson",B->"Mr. August Edvard ('Wennerstrom')"}
+{G->"0",A->"Balkic",B->"Mr. Cerin"}
+{G->"0",A->"Crosby",B->"Capt. Edward Gifford"}
+{G->"0",A->"Maguire",B->"Mr. John Edward"}
+{G->"0",A->"Andersson",B->"Master. Sigvard Harald Elias"}
+{G->"0",A->"Dean",B->"Mr. Bertram Frank"}
+{G->"1",A->"Harper",B->"Mrs. Henry Sleeper (Myna Haxtun)"}
+{G->"1",A->"Jalsevac",B->"Mr. Ivan"}
+{G->"0",A->"Pedersen",B->"Mr. Olaf"}
+{G->"1",A->"Spedden",B->"Master. Robert Douglas"}
+{G->"0",A->"Franklin",B->"Mr. Thomas Parham"}
+{G->"0",A->"Peacock",B->"Miss. Treasteall"}
+{G->"0",A->"Sage",B->"Master. Thomas Henry"}
+{G->"1",A->"Swift",B->"Mrs. Frederick Joel (Margaret Welles Barron)"}
+{G->"1",A->"Doling",B->"Mrs. John T (Ada Julia Bone)"}
+{G->"1",A->"Salkjelsvik",B->"Miss. Anna Kristine"}
+{G->"1",A->"Lindstrom",B->"Mrs. Carl Johan (Sigrid Posse)"}
+{G->"1",A->"Laroche",B->"Mrs. Joseph (Juliette Marie Louise Lafargue)"}
+{G->"1",A->"Douglas",B->"Mrs. Frederick Charles (Mary Helene Baxter)"}
+{G->"0",A->"Fortune",B->"Mr. Mark"}
+{G->"0",A->"Hegarty",B->"Miss. Hanora 'Nora'"}
+{G->"1",A->"Laroche",B->"Miss. Simonne Marie Anne Andree"}
+{G->"0",A->"Holverson",B->"Mr. Alexander Oskar"}
+{G->"1",A->"Crosby",B->"Mrs. Edward Gifford (Catherine Elizabeth Halstead)"}
+{G->"0",A->"Henry",B->"Miss. Delia"}
+{G->"1",A->"Snyder",B->"Mrs. John Pillsbury (Nelle Stevenson)"}
+{G->"0",A->"Rice",B->"Master. Eric"}
+{G->"0",A->"Skoog",B->"Mrs. William (Anna Bernhardina Karlsson)"}
+{G->"0",A->"Novel",B->"Mr. Mansouer"}
+{G->"1",A->"Richards",B->"Master. George Sibley"}
+{G->"1",A->"Albimona",B->"Mr. Nassef Cassem"}
+{G->"0",A->"Nesson",B->"Mr. Israel"}
+{G->"0",A->"Elias",B->"Mr. Joseph Jr"}
+{G->"1",A->"Warren",B->"Mrs. Frank Manley (Anna Sophia Atkinson)"}
+{G->"1",A->"Thorne",B->"Mrs. Gertrude Maybelle"}
+{G->"1",A->"Walcroft",B->"Miss. Nellie"}
+{G->"1",A->"Potter",B->"Mrs. Thomas Jr (Lily Alexenia Wilson)"}
+{G->"0",A->"Canavan",B->"Miss. Mary"}
+{G->"0",A->"Klasen",B->"Miss. Gertrud Emilia"}
+{G->"0",A->"Lefebre",B->"Miss. Ida"}
+{G->"1",A->"Lines",B->"Mrs. Ernest H (Elizabeth Lindsey James)"}
+{G->"1",A->"Beane",B->"Mr. Edward"}
+{G->"0",A->"Jardin",B->"Mr. Jose Neto"}
+{G->"0",A->"Scanlan",B->"Mr. James"}
+{G->"1",A->"Angle",B->"Mrs. William A (Florence 'Mary' Agnes Hughes)"}
+{G->"0",A->"Skoog",B->"Miss. Margit Elizabeth"}
+{G->"0",A->"Ryerson",B->"Mr. Arthur Larned"}
+{G->"0",A->"Johnston",B->"Master. William Arthur 'Willie'"}
+{G->"1",A->"Dodge",B->"Dr. Washington"}
+{G->"0",A->"Sedgwick",B->"Mr. Charles Frederick Waddington"}
+{G->"0",A->"Caram",B->"Mr. Joseph"}
+{G->"0",A->"Lefebre",B->"Miss. Jeannie"}
+{G->"0",A->"Colbert",B->"Mr. Patrick"}
+{G->"1",A->"Brown",B->"Mrs. Thomas William Solomon (Elizabeth Catherine Ford)"}
+{G->"0",A->"Abelson",B->"Mr. Samuel"}
+{G->"1",A->"de Mulder",B->"Mr. Theodore"}
+{G->"0",A->"Leonard",B->"Mr. Lionel"}
+{G->"1",A->"Carr",B->"Miss. Helen 'Ellen'"}
+{G->"0",A->"MacKay",B->"Mr. George William"}
+{G->"0",A->"Connaghton",B->"Mr. Michael"}
+{G->"1",A->"Johnson",B->"Miss. Eleanor Ileen"}
+{G->"0",A->"Ahlin",B->"Mrs. Johan (Johanna Persdotter Larsson)"}
+{G->"0",A->"Schmidt",B->"Mr. August"}
+{G->"0",A->"Andersson",B->"Mrs. Anders Johan (Alfrida Konstantia Brogren)"}
+{G->"0",A->"Asplund",B->"Mr. Carl Oscar Vilhelm Gustafsson"}
+{G->"0",A->"Parr",B->"Mr. William Henry Marsh"}
+{G->"0",A->"Edvardsson",B->"Mr. Gustaf Hjalmar"}
+{G->"1",A->"Holverson",B->"Mrs. Alexander Oskar (Mary Aline Towner)"}
+{G->"1",A->"Crosby",B->"Miss. Harriet R"}
+{G->"1",A->"Landergren",B->"Miss. Aurora Adelia"}
+{G->"0",A->"Tikkanen",B->"Mr. Juho"}
+{G->"1",A->"Gibson",B->"Mrs. Leonard (Pauline C Boeson)"}
+{G->"1",A->"Candee",B->"Mrs. Edward (Helen Churchill Hungerford)"}
+{G->"0",A->"Eitemiller",B->"Mr. George Floyd"}
+{G->"1",A->"Richards",B->"Master. William Rowe"}
+{G->"1",A->"Abrahamsson",B->"Mr. Abraham August Johannes"}
+{G->"0",A->"Farthing",B->"Mr. John"}
+{G->"0",A->"Dulles",B->"Mr. William Crothers"}
+{G->"0",A->"O'Brien",B->"Mr. Timothy"}
+{G->"0",A->"Andersson",B->"Mr. Johan Samuel"}
+{G->"1",A->"Murphy",B->"Miss. Margaret Jane"}
+{G->"0",A->"Betros",B->"Mr. Tannous"}
+{G->"0",A->"Peltomaki",B->"Mr. Nikolai Johannes"}
+{G->"0",A->"Rice",B->"Mrs. William (Margaret Norton)"}
+{G->"1",A->"Riordan",B->"Miss. Johanna 'Hannah'"}
+{G->"1",A->"Mallet",B->"Master. Andre"}
+{G->"0",A->"Aronsson",B->"Mr. Ernst Axel Algot"}
+{G->"0",A->"Wick",B->"Mr. George Dennick"}
+{G->"0",A->"Hickman",B->"Mr. Leonard Mark"}
+{G->"0",A->"Calic",B->"Mr. Petar"}
+{G->"1",A->"Becker",B->"Miss. Marion Louise"}
+{G->"0",A->"van Billiard",B->"Mr. Austin Blyler"}
+{G->"0",A->"Vanden Steen",B->"Mr. Leo Peter"}
+{G->"0",A->"Uruchurtu",B->"Don. Manuel E"}
+{G->"0",A->"Giles",B->"Mr. Frederick Edward"}
+{G->"1",A->"Meyer",B->"Mrs. Edgar Joseph (Leila Saks)"}
+{G->"0",A->"Howard",B->"Mr. Benjamin"}
+{G->"0",A->"Enander",B->"Mr. Ingvar"}
+{G->"1",A->"Cornell",B->"Mrs. Robert Clifford (Malvina Helen Lamson)"}
+{G->"0",A->"Bjorklund",B->"Mr. Ernst Herbert"}
+{G->"0",A->"Kassem",B->"Mr. Fared"}
+{G->"1",A->"Cleaver",B->"Miss. Alice"}
+{G->"0",A->"Weisz",B->"Mr. Leopold"}
+{G->"0",A->"Zabour",B->"Miss. Thamine"}
+{G->"0",A->"Pernot",B->"Mr. Rene"}
+{G->"0",A->"McKane",B->"Mr. Peter David"}
+{G->"1",A->"Faunthorpe",B->"Mrs. Lizzie (Elizabeth Anne Wilkinson)"}
+{G->"0",A->"Strom",B->"Miss. Telma Matilda"}
+{G->"0",A->"Conlon",B->"Mr. Thomas Henry"}
+{G->"1",A->"Geiger",B->"Miss. Amalie"}
+{G->"0",A->"Coxon",B->"Mr. Daniel"}
+{G->"0",A->"Banfield",B->"Mr. Frederick James"}
+{G->"0",A->"Corey",B->"Mrs. Percy C (Mary Phyllis Elizabeth Miller)"}
+{G->"1",A->"Goldsmith",B->"Mrs. Frank John (Emily Alice Brown)"}
+{G->"1",A->"Sheerlinck",B->"Mr. Jan Baptist"}
+{G->"0",A->"Thorneycroft",B->"Mr. Percival"}
+{G->"0",A->"Cor",B->"Mr. Bartol"}
+{G->"0",A->"Borebank",B->"Mr. John James"}
+{G->"1",A->"Najib",B->"Miss. Adele Kiamie 'Jane'"}
+{G->"0",A->"Kallio",B->"Mr. Nikolai Erland"}
+{G->"0",A->"Jussila",B->"Miss. Katriina"}
+{G->"0",A->"Emir",B->"Mr. Farred Chehab"}
+{G->"0",A->"Reuchlin",B->"Jonkheer. John George"}
+{G->"0",A->"Funk",B->"Miss. Annie Clemmer"}
+{G->"0",A->"Giles",B->"Mr. Ralph"}
+{G->"0",A->"Davies",B->"Mr. Joseph"}
+{G->"1",A->"Bjornstrom-Steffansson",B->"Mr. Mauritz Hakan"}
+{G->"1",A->"Midtsjo",B->"Mr. Karl Albert"}
+{G->"1",A->"Eustis",B->"Miss. Elizabeth Mussey"}
+{G->"1",A->"Caldwell",B->"Master. Alden Gates"}
+{G->"1",A->"Baclini",B->"Miss. Helene Barbara"}
+{G->"0",A->"Zakarian",B->"Mr. Mapriededer"}
+{G->"1",A->"Doling",B->"Miss. Elsie"}
+{G->"0",A->"Stokes",B->"Mr. Philip Joseph"}
+{G->"1",A->"Chip",B->"Mr. Chang"}
+{G->"0",A->"Parker",B->"Mr. Clifford Richard"}
+{G->"0",A->"Laroche",B->"Mr. Joseph Philippe Lemercier"}
+{G->"1",A->"Hoyt",B->"Mrs. Frederick Maxfield (Jane Anne Forby)"}
+{G->"0",A->"Hickman",B->"Mr. Lewis"}
+{G->"1",A->"Bird",B->"Miss. Ellen"}
+{G->"1",A->"McCoy",B->"Miss. Agnes"}
+{G->"1",A->"Mannion",B->"Miss. Margareth"}
+{G->"0",A->"Peters",B->"Miss. Katie"}
+{G->"0",A->"Johnson",B->"Mr. Malkolm Joackim"}
+{G->"0",A->"Reed",B->"Mr. James George"}
+{G->"1",A->"Stone",B->"Mrs. George Nelson (Martha Evelyn)"}
+{G->"1",A->"Beane",B->"Mrs. Edward (Ethel Clarke)"}
+{G->"1",A->"Harper",B->"Mr. Henry Sleeper"}
+{G->"0",A->"Saade",B->"Mr. Jean Nassr"}
+{G->"0",A->"Risien",B->"Mrs. Samuel (Emma)"}
+{G->"0",A->"Garfirth",B->"Mr. John"}
+{G->"1",A->"Jerwan",B->"Mrs. Amin S (Marie Marthe Thuillard)"}
+{G->"0",A->"Delalic",B->"Mr. Redjo"}
+{G->"0",A->"Johansson",B->"Mr. Gustaf Joel"}
+{G->"0",A->"Levy",B->"Mr. Rene Jacques"}
+{G->"0",A->"Goncalves",B->"Mr. Manuel Estanslas"}
+{G->"0",A->"Dennis",B->"Mr. William"}
+{G->"0",A->"Osen",B->"Mr. Olaf Elon"}
+{G->"0",A->"de Brito",B->"Mr. Jose Joaquim"}
+{G->"1",A->"Peter",B->"Master. Michael J"}
+{G->"0",A->"Ware",B->"Mr. John James"}
+{G->"0",A->"Rommetvedt",B->"Mr. Knud Paust"}
+{G->"1",A->"Compton",B->"Mrs. Alexander Taylor (Mary Eliza Ingersoll)"}
+{G->"0",A->"Williams-Lambert",B->"Mr. Fletcher Fellows"}
+{G->"0",A->"Pokrnic",B->"Mr. Mate"}
+{G->"0",A->"Kilgannon",B->"Mr. Thomas J"}
+{G->"0",A->"Fortune",B->"Mr. Charles Alexander"}
+{G->"0",A->"Goldsmith",B->"Mr. Nathan"}
+{G->"0",A->"Olsen",B->"Mr. Ole Martin"}
+{G->"0",A->"Artagaveytia",B->"Mr. Ramon"}
+{G->"0",A->"Angle",B->"Mr. William A"}
+{G->"0",A->"Bourke",B->"Mr. John"}
+{G->"0",A->"Downton",B->"Mr. William James"}
+{G->"0",A->"Mionoff",B->"Mr. Stoytcho"}
+{G->"1",A->"Douglas",B->"Mrs. Walter Donald (Mahala Dutton)"}
+{G->"1",A->"Hocking",B->"Mrs. Elizabeth (Eliza Needs)"}
+{G->"0",A->"Staneff",B->"Mr. Ivan"}
+{G->"0",A->"Hiltunen",B->"Miss. Marta"}
+{G->"1",A->"Nakid",B->"Mr. Sahid"}
+{G->"0",A->"Todoroff",B->"Mr. Lalio"}
+{G->"0",A->"Meyer",B->"Mr. Edgar Joseph"}
+{G->"0",A->"Cribb",B->"Mr. John Hatfield"}
+{G->"1",A->"Wilson",B->"Miss. Helen Alice"}
+{G->"1",A->"Phillips",B->"Miss. Kate Florence ('Mrs Kate Louise Phillips Marshall')"}
+{G->"0",A->"Sobey",B->"Mr. Samuel James Hayden"}
+{G->"1",A->"Compton",B->"Miss. Sara Rebecca"}
+{G->"1",A->"Hays",B->"Miss. Margaret Bechstein"}
+{G->"1",A->"Davies",B->"Mrs. John Morgan (Elizabeth Agnes Mary White)"}
+{G->"0",A->"Yrois",B->"Miss. Henriette ('Mrs Harbeck')"}
+{G->"1",A->"O'Driscoll",B->"Miss. Bridget"}
+{G->"0",A->"Hansen",B->"Mr. Claus Peter"}
+{G->"0",A->"Salonen",B->"Mr. Johan Werner"}
+{G->"1",A->"Seward",B->"Mr. Frederic Kimber"}
+{G->"0",A->"Taussig",B->"Mr. Emil"}
+{G->"0",A->"Petersen",B->"Mr. Marius"}
+{G->"1",A->"Cribb",B->"Miss. Laura Alice"}
+{G->"1",A->"Flegenheim",B->"Mrs. Alfred (Antoinette)"}
+{G->"1",A->"O'Leary",B->"Miss. Hanora 'Norah'"}
+{G->"1",A->"West",B->"Miss. Barbara J"}
+{G->"0",A->"Burke",B->"Mr. Jeremiah"}
+{G->"1",A->"Daly",B->"Miss. Margaret Marcella 'Maggie'"}
+{G->"1",A->"Ryerson",B->"Miss. Susan Parker 'Suzette'"}
+{G->"1",A->"Johnson",B->"Mrs. Oscar W (Elisabeth Vilhelmina Berg)"}
+{G->"0",A->"Givard",B->"Mr. Hans Kristensen"}
+{G->"0",A->"Jefferys",B->"Mr. Ernest Wilfred"}
+{G->"0",A->"Gilbert",B->"Mr. William"}
+{G->"1",A->"Healy",B->"Miss. Hanora 'Nora'"}
+{G->"1",A->"Lindqvist",B->"Mr. Eino William"}
+{G->"0",A->"Sadlier",B->"Mr. Matthew"}
+{G->"0",A->"Williams",B->"Mr. Leslie"}
+{G->"0",A->"Karaic",B->"Mr. Milan"}
+{G->"0",A->"Lahoud",B->"Mr. Sarkis"}
+{G->"0",A->"Matthews",B->"Mr. William John"}
+{G->"0",A->"White",B->"Mr. Percival Wayland"}
+{G->"1",A->"Thomas",B->"Mrs. Alexander (Thamine 'Thelma')"}
+{G->"0",A->"Allison",B->"Miss. Helen Loraine"}
+{G->"1",A->"Ohman",B->"Miss. Velin"}
+{G->"1",A->"Garside",B->"Miss. Ethel"}
+{G->"0",A->"Guggenheim",B->"Mr. Benjamin"}
+{G->"1",A->"Dahl",B->"Mr. Karl Edwart"}
+{G->"0",A->"Henriksson",B->"Miss. Jenny Lovisa"}
+{G->"0",A->"Pasic",B->"Mr. Jakob"}
+{G->"0",A->"Saad",B->"Mr. Amin"}
+{G->"0",A->"Elias",B->"Mr. Joseph"}
+{G->"1",A->"Silvey",B->"Mrs. William Baird (Alice Munger)"}
+{G->"1",A->"Leeni",B->"Mr. Fahim ('Philip Zenni')"}
+{G->"0",A->"Cor",B->"Mr. Ivan"}
+{G->"0",A->"Sirayanian",B->"Mr. Orsen"}
+{G->"0",A->"Myhrman",B->"Mr. Pehr Fabian Oliver Malkolm"}
+{G->"0",A->"Cacic",B->"Miss. Manda"}
+{G->"0",A->"Toufik",B->"Mr. Nakli"}
+{G->"0",A->"Baumann",B->"Mr. John D"}
+{G->"1",A->"Quick",B->"Mrs. Frederick Charles (Jane Richards)"}
+{G->"0",A->"Harper",B->"Rev. John"}
+{G->"1",A->"Taylor",B->"Mr. Elmer Zebley"}
+{G->"1",A->"Pallas y Castello",B->"Mr. Emilio"}
+{G->"0",A->"Vovk",B->"Mr. Janko"}
+{G->"1",A->"Wells",B->"Mrs. Arthur Henry ('Addie' Dart Trevaskis)"}
+{G->"0",A->"Williams",B->"Mr. Charles Duane"}
+{G->"0",A->"Goodwin",B->"Mr. Charles Frederick"}
+{G->"0",A->"Olsen",B->"Mr. Henry Margido"}
+{G->"0",A->"Johnson",B->"Mr. Alfred"}
+{G->"0",A->"Sivola",B->"Mr. Antti Wilhelm"}
+{G->"0",A->"Demetri",B->"Mr. Marinko"}
+{G->"0",A->"Davies",B->"Mr. Evan"}
+{G->"1",A->"Mamee",B->"Mr. Hanna"}
+{G->"0",A->"Vander Planke",B->"Mr. Julius"}
+{G->"0",A->"Harrington",B->"Mr. Charles H"}
+{G->"0",A->"Coleff",B->"Mr. Peju"}
+{G->"0",A->"Fischer",B->"Mr. Eberhard Thelander"}
+{G->"1",A->"Niskanen",B->"Mr. Juha"}
+{G->"0",A->"Myles",B->"Mr. Thomas Francis"}
+{G->"1",A->"Ayoub",B->"Miss. Banoura"}
+{G->"0",A->"Hansen",B->"Mr. Henry Damsgaard"}
+{G->"0",A->"Dyker",B->"Mr. Adolf Fredrik"}
+{G->"1",A->"Moubarek",B->"Mrs. George (Omine 'Amenia' Alexander)"}
+{G->"0",A->"Vander Planke",B->"Mr. Leo Edmondus"}
+{G->"1",A->"Johannesen-Bratthammer",B->"Mr. Bernt"}
+{G->"0",A->"Murdlin",B->"Mr. Joseph"}
+{G->"0",A->"Adahl",B->"Mr. Mauritz Nils Martin"}
+{G->"1",A->"Bonnell",B->"Miss. Elizabeth"}
+{G->"0",A->"Robins",B->"Mrs. Alexander A (Grace Charity Laury)"}
+{G->"0",A->"van Billiard",B->"Master. Walter John"}
+{G->"0",A->"Christmann",B->"Mr. Emil"}
+{G->"0",A->"Niklasson",B->"Mr. Samuel"}
+{G->"0",A->"Culumovic",B->"Mr. Jeso"}
+{G->"0",A->"Meyer",B->"Mr. August"}
+{G->"0",A->"Ilmakangas",B->"Miss. Ida Livija"}
+{G->"0",A->"Pengelly",B->"Mr. Frederick William"}
+{G->"0",A->"Smith",B->"Mr. Thomas"}
+{G->"0",A->"Penasco y Castellana",B->"Mr. Victor de Satode"}
+{G->"0",A->"Flynn",B->"Mr. John"}
+{G->"0",A->"Odahl",B->"Mr. Nils Martin"}
+{G->"1",A->"Anderson",B->"Mr. Harry"}
+{G->"1",A->"Rugg",B->"Miss. Emily"}
+{G->"0",A->"Jussila",B->"Miss. Mari Aina"}
+{G->"0",A->"Tomlin",B->"Mr. Ernest Portage"}
+{G->"1",A->"Tenglin",B->"Mr. Gunnar Isidor"}
+{G->"0",A->"Hampe",B->"Mr. Leon"}
+{G->"0",A->"Palsson",B->"Master. Paul Folke"}
+{G->"1",A->"Kimball",B->"Mrs. Edwin Nelson Jr (Gertrude Parsons)"}
+{G->"0",A->"Boulos",B->"Master. Akar"}
+{G->"0",A->"Carrau",B->"Mr. Jose Pedro"}
+{G->"1",A->"McCoy",B->"Miss. Alicia"}
+{G->"0",A->"Slabenoff",B->"Mr. Petco"}
+{G->"0",A->"Blackwell",B->"Mr. Stephen Weart"}
+{G->"0",A->"Hakkarainen",B->"Mr. Pekka Pietari"}
+{G->"0",A->"Sage",B->"Miss. Stella Anna"}
+{G->"0",A->"O'Connell",B->"Mr. Patrick D"}
+{G->"1",A->"Flynn",B->"Mr. John Irwin ('Irving')"}
+{G->"0",A->"Vander Planke",B->"Miss. Augusta Maria"}
+{G->"0",A->"Wright",B->"Mr. George"}
+{G->"0",A->"Dika",B->"Mr. Mirko"}
+{G->"0",A->"Nasr",B->"Mr. Mustafa"}
+{G->"0",A->"van Melkebeke",B->"Mr. Philemon"}
+{G->"0",A->"Fox",B->"Mr. Stanley Hubert"}
+{G->"1",A->"O'Keefe",B->"Mr. Patrick"}
+{G->"0",A->"Sage",B->"Mr. John George"}
+{G->"0",A->"Vande Velde",B->"Mr. Johannes Joseph"}
+{G->"1",A->"Wells",B->"Miss. Joan"}
+{G->"1",A->"Yasbeck",B->"Mrs. Antoni (Selini Alexander)"}
+{G->"0",A->"Keeping",B->"Mr. Edwin"}
+{G->"1",A->"Frolicher",B->"Miss. Hedwig Margaritha"}
+{G->"0",A->"Crease",B->"Mr. Ernest James"}
+{G->"0",A->"Rasmussen",B->"Mrs. (Lena Jacobsen Solvang)"}
+{G->"1",A->"Gibson",B->"Miss. Dorothy Winifred"}
+{G->"1",A->"Daniels",B->"Miss. Sarah"}
+{G->"0",A->"Denkoff",B->"Mr. Mitto"}
+{G->"0",A->"Attalah",B->"Mr. Sleiman"}
+{G->"1",A->"Bidois",B->"Miss. Rosalie"}
+{G->"1",A->"Bonnell",B->"Miss. Caroline"}
+{G->"0",A->"Sage",B->"Miss. Ada"}
+{G->"1",A->"Pinsky",B->"Mrs. (Rosa)"}
+{G->"0",A->"Carlsson",B->"Mr. August Sigfrid"}
+{G->"1",A->"Baclini",B->"Miss. Marie Catherine"}
+{G->"0",A->"Marvin",B->"Mr. Daniel Warner"}
+{G->"0",A->"Hocking",B->"Mr. Samuel James Metcalfe"}
+{G->"1",A->"Mayne",B->"Mlle. Berthe Antonine ('Mrs de Villiers')"}
+{G->"1",A->"Harris",B->"Mr. George"}
+{G->"1",A->"Hawksford",B->"Mr. Walter James"}
+{G->"0",A->"Harmer",B->"Mr. Abraham (David Lishin)"}
+{G->"0",A->"McNeill",B->"Miss. Bridget"}
+{G->"0",A->"Swane",B->"Mr. George"}
+{G->"0",A->"Boulos",B->"Miss. Nourelain"}
+{G->"1",A->"Dean",B->"Mrs. Bertram (Eva Georgetta Light)"}
+{G->"0",A->"Goodwin",B->"Miss. Lillian Amy"}
+{G->"0",A->"Turpin",B->"Mr. William John Robert"}
+{G->"0",A->"Brobeck",B->"Mr. Karl Rudolf"}
+{G->"0",A->"Danoff",B->"Mr. Yoto"}
+{G->"0",A->"Andersson",B->"Miss. Ingeborg Constanzia"}
+{G->"0",A->"Johansson",B->"Mr. Erik"}
+{G->"0",A->"Linehan",B->"Mr. Michael"}
+{G->"1",A->"Caldwell",B->"Mr. Albert Francis"}
+{G->"1",A->"Toomey",B->"Miss. Ellen"}
+{G->"0",A->"McEvoy",B->"Mr. Michael"}
+{G->"0",A->"Berglund",B->"Mr. Karl Ivar Sven"}
+{G->"0",A->"White",B->"Mr. Richard Frasar"}
+{G->"1",A->"Hippach",B->"Mrs. Louis Albert (Ida Sophia Fischer)"}
+{G->"0",A->"Holm",B->"Mr. John Fredrik Alexander"}
+{G->"1",A->"Hogeboom",B->"Mrs. John C (Anna Andrews)"}
+{G->"1",A->"Spedden",B->"Mr. Frederic Oakley"}
+{G->"0",A->"Harknett",B->"Miss. Alice Phoebe"}
+{G->"0",A->"Nasser",B->"Mr. Nicholas"}
+{G->"0",A->"Parkes",B->"Mr. Francis 'Frank'"}
+{G->"0",A->"Connors",B->"Mr. Patrick"}
+{G->"0",A->"Rintamaki",B->"Mr. Matti"}
+{G->"1",A->"Cohen",B->"Mr. Gurshon 'Gus'"}
+{G->"1",A->"Hays",B->"Mrs. Charles Melville (Clara Jennings Gregg)"}
+{G->"1",A->"Salomon",B->"Mr. Abraham L"}
+{G->"1",A->"Williams",B->"Mr. Richard Norris II"}
+{G->"0",A->"Ibrahim Shawah",B->"Mr. Yousseff"}
+{G->"0",A->"Asplund",B->"Master. Carl Edgar"}
+{G->"0",A->"Carver",B->"Mr. Alfred John"}
+{G->"1",A->"Cumings",B->"Mrs. John Bradley (Florence Briggs Thayer)"}
+{G->"1",A->"Hippach",B->"Miss. Jean Gertrude"}
+{G->"1",A->"Kelly",B->"Miss. Mary"}
+{G->"0",A->"Cor",B->"Mr. Liudevit"}
+{G->"0",A->"Danbom",B->"Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)"}
+{G->"1",A->"Pears",B->"Mrs. Thomas (Edith Wearne)"}
+{G->"0",A->"Smith",B->"Mr. James Clinch"}
+{G->"1",A->"Weisz",B->"Mrs. Leopold (Mathilde Francoise Pede)"}
+{G->"0",A->"Moutal",B->"Mr. Rahamin Haim"}
+{G->"0",A->"Widegren",B->"Mr. Carl/Charles Peter"}
+{G->"0",A->"Thomas",B->"Mr. Charles P"}
+{G->"1",A->"Drew",B->"Master. Marshall Brines"}
+{G->"0",A->"Ivanoff",B->"Mr. Kanio"}
+{G->"1",A->"Dodge",B->"Master. Washington"}
+{G->"1",A->"Jussila",B->"Mr. Eiriik"}
+{G->"0",A->"Nirva",B->"Mr. Iisakki Antino Aijo"}
+{G->"0",A->"Clifford",B->"Mr. George Quincy"}
+{G->"0",A->"Lundahl",B->"Mr. Johan Svensson"}
+{G->"0",A->"Loring",B->"Mr. Joseph Holland"}
+{G->"0",A->"Johnston",B->"Miss. Catherine Helen 'Carrie'"}
+{G->"0",A->"Harbeck",B->"Mr. William H"}
+{G->"0",A->"Markun",B->"Mr. Johann"}
+{G->"1",A->"Lurette",B->"Miss. Elise"}
+{G->"1",A->"Mock",B->"Mr. Philipp Edmund"}
+{G->"0",A->"Veal",B->"Mr. James"}
+{G->"0",A->"Kiernan",B->"Mr. Philip"}
+{G->"1",A->"Troutt",B->"Miss. Edwina Celia 'Winnie'"}
+{G->"1",A->"Turkula",B->"Mrs. (Hedwig)"}
+{G->"0",A->"Collyer",B->"Mr. Harvey"}
+{G->"1",A->"Stanley",B->"Miss. Amy Zillah Elsie"}
+{G->"1",A->"Brown",B->"Mrs. John Murray (Caroline Lane Lamson)"}
+{G->"0",A->"Ovies y Rodriguez",B->"Mr. Servando"}
+{G->"0",A->"Davies",B->"Mr. John Samuel"}
+{G->"1",A->"Abelson",B->"Mrs. Samuel (Hannah Wizosky)"}
+{G->"1",A->"Masselmani",B->"Mrs. Fatima"}
+{G->"0",A->"Soholt",B->"Mr. Peter Andreas Lauritz Andersen"}
+{G->"0",A->"Mack",B->"Mrs. (Mary)"}
+{G->"0",A->"Hart",B->"Mr. Henry"}
+{G->"0",A->"Rice",B->"Master. George Hugh"}
+{G->"0",A->"Drew",B->"Mr. James Vivian"}
+{G->"0",A->"Storey",B->"Mr. Thomas"}
+{G->"1",A->"Shine",B->"Miss. Ellen Natalia"}
+{G->"0",A->"Vander Planke",B->"Mrs. Julius (Emelia Maria Vandemoortele)"}
+{G->"0",A->"Celotti",B->"Mr. Francesco"}
+{G->"1",A->"Asplund",B->"Mr. Johan Charles"}
+{G->"0",A->"McCarthy",B->"Mr. Timothy J"}
+{G->"0",A->"O'Connor",B->"Mr. Maurice"}
+{G->"0",A->"Leinonen",B->"Mr. Antti Gustaf"}
+{G->"0",A->"Risien",B->"Mr. Samuel Beard"}
+{G->"1",A->"Ryerson",B->"Mrs. Arthur Larned (Emily Maria Borie)"}
+{G->"0",A->"Davies",B->"Mr. Charles Henry"}
+{G->"0",A->"Peacock",B->"Master. Alfred Edward"}
+{G->"1",A->"Aks",B->"Mrs. Sam (Leah Rosen)"}
+{G->"0",A->"Byles",B->"Rev. Thomas Roussel Davids"}
+{G->"0",A->"Fry",B->"Mr. Richard"}
+{G->"1",A->"Maioni",B->"Miss. Roberta"}
+{G->"0",A->"Lobb",B->"Mrs. William Arthur (Cordelia K Stanlick)"}
+{G->"0",A->"Ford",B->"Mr. Edward Watson"}
+{G->"0",A->"Cacic",B->"Miss. Marija"}
+{G->"0",A->"Nysveen",B->"Mr. Johan Hansen"}
+{G->"0",A->"Bourke",B->"Mrs. John (Catherine)"}
+{G->"1",A->"Dick",B->"Mrs. Albert Adrian (Vera Gillespie)"}
+{G->"0",A->"Cavendish",B->"Mr. Tyrell William"}
+{G->"1",A->"Ryan",B->"Mr. Edward"}
+{G->"1",A->"Mockler",B->"Miss. Helen Mary 'Ellie'"}
+{G->"0",A->"Jarvis",B->"Mr. John Denzil"}
+{G->"0",A->"Willey",B->"Mr. Edward"}
+{G->"0",A->"Karlsson",B->"Mr. Nils August"}
+{G->"0",A->"Cunningham",B->"Mr. Alfred Fleming"}
+{G->"0",A->"Andrew",B->"Mr. Edgardo Samuel"}
+{G->"0",A->"Andersson",B->"Miss. Sigrid Elisabeth"}
+{G->"1",A->"Sandstrom",B->"Miss. Beatrice Irene"}
+{G->"0",A->"Fleming",B->"Miss. Honora"}
+{G->"0",A->"Ilieff",B->"Mr. Ylio"}
+{G->"1",A->"Tucker",B->"Mr. Gilbert Milligan Jr"}
+{G->"0",A->"Campbell",B->"Mr. William"}
+{G->"0",A->"Millet",B->"Mr. Francis Davis"}
+{G->"0",A->"Hanna",B->"Mr. Mansour"}
+{G->"0",A->"Zakarian",B->"Mr. Ortin"}
+{G->"0",A->"Abbott",B->"Master. Eugene Joseph"}
+{G->"1",A->"Smith",B->"Mrs. Lucien Philip (Mary Eloise Hughes)"}
+{G->"0",A->"Wiklund",B->"Mr. Karl Johan"}
+{G->"0",A->"Burns",B->"Miss. Mary Delia"}
+{G->"0",A->"Rogers",B->"Mr. William John"}
+{G->"0",A->"Goodwin",B->"Mrs. Frederick (Augusta Tyler)"}
+{G->"0",A->"del Carlo",B->"Mr. Sebastiano"}
+{G->"1",A->"Hart",B->"Miss. Eva Miriam"}
+{G->"0",A->"Barbara",B->"Miss. Saiide"}
+{G->"1",A->"Parrish",B->"Mrs. (Lutie Davis)"}
+{G->"0",A->"Wheeler",B->"Mr. Edwin 'Frederick'"}
+{G->"0",A->"Oreskovic",B->"Mr. Luka"}
+{G->"0",A->"Katavelas",B->"Mr. Vassilios ('Catavelas Vassilios')"}
+{G->"0",A->"Morrow",B->"Mr. Thomas Rowan"}
+{G->"0",A->"Nenkoff",B->"Mr. Christo"}
+{G->"0",A->"Sutton",B->"Mr. Frederick"}
+{G->"1",A->"Collyer",B->"Miss. Marjorie 'Lottie'"}
+{G->"0",A->"Cairns",B->"Mr. Alexander"}
+{G->"1",A->"Taussig",B->"Miss. Ruth"}
+{G->"1",A->"Wick",B->"Miss. Mary Natalie"}
+{G->"1",A->"Bradley",B->"Miss. Bridget Delia"}
+{G->"1",A->"Ridsdale",B->"Miss. Lucy"}
+{G->"1",A->"Honkanen",B->"Miss. Eliina"}
+{G->"1",A->"Wilkes",B->"Mrs. James (Ellen Needs)"}
+{G->"0",A->"Chronopoulos",B->"Mr. Apostolos"}
+{G->"0",A->"Otter",B->"Mr. Richard"}
+{G->"0",A->"Gavey",B->"Mr. Lawrence"}
+{G->"1",A->"Hirvonen",B->"Mrs. Alexander (Helga E Lindqvist)"}
+{G->"0",A->"Rosenshine",B->"Mr. George ('Mr George Thorne')"}
+{G->"1",A->"Andersson",B->"Miss. Erna Alexandra"}
+{G->"0",A->"Skoog",B->"Master. Karl Thorsten"}
+{G->"0",A->"Rowe",B->"Mr. Alfred G"}
+{G->"0",A->"Cacic",B->"Mr. Luka"}
+{G->"1",A->"Drapkin",B->"Miss. Jennie"}
+{G->"1",A->"Finoli",B->"Mr. Luigi"}
+{G->"0",A->"Vendel",B->"Mr. Olof Edvin"}
+{G->"0",A->"Duane",B->"Mr. Frank"}
+{G->"0",A->"Johnston",B->"Mr. Andrew G"}
+{G->"0",A->"Louch",B->"Mr. Charles Alexander"}
+{G->"1",A->"Cook",B->"Mrs. (Selena Rogers)"}
+{G->"1",A->"Ware",B->"Mrs. John James (Florence Louise Long)"}
+{G->"0",A->"Widener",B->"Mr. Harry Elkins"}
+{G->"0",A->"Petterson",B->"Mr. Johan Emil"}
+{G->"0",A->"Karnes",B->"Mrs. J Frank (Claire Bennett)"}
+{G->"1",A->"Gilnagh",B->"Miss. Katherine 'Katie'"}
+{G->"0",A->"Simmons",B->"Mr. John"}
+{G->"0",A->"Strilic",B->"Mr. Ivan"}
+{G->"0",A->"Strom",B->"Mrs. Wilhelm (Elna Matilda Persson)"}
+{G->"0",A->"Sage",B->"Mrs. John (Annie Bullen)"}
+{G->"0",A->"Theobald",B->"Mr. Thomas Leonard"}
+{G->"0",A->"Coleff",B->"Mr. Satio"}
+{G->"0",A->"Gilinski",B->"Mr. Eliezer"}
+{G->"0",A->"Chapman",B->"Mr. Charles Henry"}
+{G->"0",A->"Sharp",B->"Mr. Percival James R"}
+{G->"1",A->"Murphy",B->"Miss. Katherine 'Kate'"}
+{G->"1",A->"Peuchen",B->"Major. Arthur Godfrey"}
+{G->"0",A->"Astor",B->"Col. John Jacob"}
+{G->"0",A->"Rice",B->"Master. Eugene"}
+{G->"1",A->"Portaluppi",B->"Mr. Emilio Ilario Giuseppe"}
+{G->"0",A->"Ford",B->"Mr. Arthur"}
+{G->"0",A->"Johnson",B->"Mr. William Cahoone Jr"}
+{G->"0",A->"Badt",B->"Mr. Mohamed"}
+{G->"0",A->"Watson",B->"Mr. Ennis Hastings"}
+{G->"0",A->"Moore",B->"Mr. Clarence Bloomfield"}
+{G->"0",A->"Van Impe",B->"Miss. Catharina"}
+{G->"0",A->"Milling",B->"Mr. Jacob Christian"}
+{G->"0",A->"Robbins",B->"Mr. Victor"}
+{G->"1",A->"Stephenson",B->"Mrs. Walter Bertram (Martha Eustis)"}
+{G->"1",A->"Cardeza",B->"Mrs. James Warburton Martinez (Charlotte Wardle Drake)"}
+{G->"0",A->"Chapman",B->"Mr. John Henry"}
+{G->"0",A->"Dooley",B->"Mr. Patrick"}
+{G->"0",A->"Vander Cruyssen",B->"Mr. Victor"}
+{G->"0",A->"Dahlberg",B->"Miss. Gerda Ulrika"}
+{G->"0",A->"Foley",B->"Mr. Joseph"}
+{G->"1",A->"McDermott",B->"Miss. Brigdet Delia"}
+{G->"1",A->"Mulvihill",B->"Miss. Bertha E"}
+{G->"0",A->"Aldworth",B->"Mr. Charles Augustus"}
+{G->"0",A->"Hagland",B->"Mr. Ingvald Olai Olsen"}
+{G->"0",A->"Khalil",B->"Mrs. Betros (Zahie 'Maria' Elias)"}
+{G->"1",A->"Barber",B->"Miss. Ellen 'Nellie'"}
+{G->"0",A->"Laleff",B->"Mr. Kristo"}
+{G->"0",A->"Brocklebank",B->"Mr. William Alfred"}
+{G->"0",A->"Hold",B->"Mr. Stephen"}
+{G->"1",A->"Hansen",B->"Mrs. Claus Peter (Jennie L Howard)"}
+{G->"0",A->"Keefe",B->"Mr. Arthur"}
+{G->"0",A->"Nancarrow",B->"Mr. William Henry"}
+{G->"0",A->"Hickman",B->"Mr. Stanley George"}
+{G->"1",A->"Frauenthal",B->"Mr. Isaac Gerald"}
+{G->"0",A->"Boulos",B->"Mrs. Joseph (Sultana)"}
+{G->"1",A->"Kenyon",B->"Mrs. Frederick R (Marion)"}
+{G->"1",A->"Davis",B->"Miss. Mary"}
+{G->"1",A->"Daly",B->"Mr. Eugene Patrick"}
+{G->"0",A->"Klasen",B->"Mr. Klas Albin"}
+{G->"0",A->"Rush",B->"Mr. Alfred George John"}
+{G->"1",A->"Frauenthal",B->"Mrs. Henry William (Clara Heinsheimer)"}
+{G->"0",A->"Lennon",B->"Miss. Mary"}
+{G->"0",A->"Palsson",B->"Mrs. Nils (Alma Cornelia Berglund)"}
+{G->"1",A->"Hee",B->"Mr. Ling"}
+{G->"0",A->"Olsvigen",B->"Mr. Thor Anderson"}
+{G->"0",A->"Somerton",B->"Mr. Francis William"}
+{G->"1",A->"Calderhead",B->"Mr. Edward Pennington"}
+{G->"1",A->"Fleming",B->"Miss. Margaret"}
+{G->"1",A->"Asplund",B->"Miss. Lillian Gertrud"}
+{G->"0",A->"Wheadon",B->"Mr. Edward H"}
+{G->"0",A->"Perkin",B->"Mr. John Henry"}
+{G->"1",A->"Kimball",B->"Mr. Edwin Nelson Jr"}
+{G->"0",A->"Lindeberg-Lind",B->"Mr. Erik Gustaf ('Mr Edward Lingrey')"}
+{G->"1",A->"Collyer",B->"Mrs. Harvey (Charlotte Annie Tate)"}
+{G->"1",A->"Emanuel",B->"Miss. Virginia Ethel"}
+{G->"0",A->"Jacobsohn",B->"Mr. Sidney Samuel"}
+{G->"1",A->"Lundstrom",B->"Mr. Thure Edvin"}
+{G->"0",A->"Frost",B->"Mr. Anthony Wood 'Archie'"}
+{G->"1",A->"Gracie",B->"Col. Archibald IV"}
+{G->"1",A->"Moss",B->"Mr. Albert Johan"}
+{G->"1",A->"Howard",B->"Miss. May Elizabeth"}
+{G->"0",A->"Mallet",B->"Mr. Albert"}
+{G->"1",A->"Thomas",B->"Master. Assad Alexander"}
+{G->"0",A->"Jensen",B->"Mr. Svend Lauritz"}
+{G->"0",A->"Palsson",B->"Miss. Stina Viola"}
+{G->"1",A->"Dodge",B->"Mrs. Washington (Ruth Vidaver)"}
+{G->"0",A->"Lindahl",B->"Miss. Agda Thorilda Viktoria"}
+{G->"1",A->"Behr",B->"Mr. Karl Howell"}
+{G->"0",A->"Goodwin",B->"Mr. Charles Edward"}
+{G->"1",A->"Oxenham",B->"Mr. Percy Thomas"}
+{G->"1",A->"Osman",B->"Mrs. Mara"}
+{G->"1",A->"Bucknell",B->"Mrs. William Robert (Emma Eliza Ward)"}
+{G->"0",A->"Ilmakangas",B->"Miss. Pieta Sofia"}
+{G->"1",A->"Krekorian",B->"Mr. Neshan"}
+{G->"0",A->"Gale",B->"Mr. Shadrach"}
+{G->"0",A->"Charters",B->"Mr. David"}
+{G->"1",A->"Bradley",B->"Mr. George ('George Arthur Brayton')"}
+{G->"0",A->"Phillips",B->"Mr. Escott Robert"}
+{G->"0",A->"Allison",B->"Mrs. Hudson J C (Bessie Waldo Daniels)"}
+{G->"1",A->"Fortune",B->"Miss. Alice Elizabeth"}
+{G->"0",A->"Brandeis",B->"Mr. Emil"}
+{G->"1",A->"Harper",B->"Miss. Annie Jessie 'Nina'"}
+{G->"1",A->"Smith",B->"Miss. Marion Elsie"}
+{G->"0",A->"Faunthorpe",B->"Mr. Harry"}
+{G->"0",A->"Mineff",B->"Mr. Ivan"}
+{G->"0",A->"Sage",B->"Master. William Henry"}
+{G->"0",A->"Vande Walle",B->"Mr. Nestor Cyriel"}
+{G->"0",A->"de Pelsmaeker",B->"Mr. Alfons"}
+{G->"1",A->"Becker",B->"Miss. Ruth Elizabeth"}
+{G->"0",A->"Maybery",B->"Mr. Frank Hubert"}
+{G->"1",A->"Touma",B->"Mrs. Darwis (Hanne Youssef Razi)"}
+{G->"0",A->"Torfa",B->"Mr. Assad"}
+{G->"0",A->"Nicholson",B->"Mr. Arthur Ernest"}
+{G->"0",A->"Nankoff",B->"Mr. Minko"}
+{G->"0",A->"Moraweck",B->"Dr. Ernest"}
+{G->"0",A->"O'Brien",B->"Mr. Thomas"}
+{G->"1",A->"Mallet",B->"Mrs. Albert (Antoinette Magnin)"}
+{G->"0",A->"Morley",B->"Mr. Henry Samuel ('Mr Henry Marshall')"}
+{G->"0",A->"Stead",B->"Mr. William Thomas"}
+{G->"0",A->"Sirota",B->"Mr. Maurice"}
+{G->"1",A->"Bryhl",B->"Miss. Dagmar Jenny Ingeborg"}
+{G->"0",A->"Stanley",B->"Mr. Edward Roland"}
+{G->"0",A->"Elias",B->"Mr. Dibo"}
+{G->"0",A->"Khalil",B->"Mr. Betros"}
+{G->"1",A->"Quick",B->"Miss. Phyllis May"}
+{G->"1",A->"Sloper",B->"Mr. William Thompson"}
+{G->"0",A->"Turcin",B->"Mr. Stjepan"}
+{G->"0",A->"McCaffry",B->"Mr. Thomas Francis"}
+{G->"0",A->"Hansen",B->"Mr. Henrik Juul"}
+{G->"0",A->"Compton",B->"Mr. Alexander Taylor Jr"}
+{G->"1",A->"Duff Gordon",B->"Sir. Cosmo Edmund ('Mr Morgan')"}
+{G->"0",A->"Moran",B->"Mr. Daniel J"}
+{G->"0",A->"Crafton",B->"Mr. John Bertram"}
+{G->"1 ",A->"Murphy ",B->"Miss. Katherine 'Kate' "}
+{G->"0 ",A->"Olsvigen ",B->"Mr. Thor Anderson "}
+{G->"1 ",A->"Vartanian ",B->"Mr. David "}
+{G->"0 ",A->"Conlon ",B->"Mr. Thomas Henry "}
+{G->"0 ",A->"Wenzel ",B->"Mr. Linhart "}
+{G->"1 ",A->"Nicola-Yarred ",B->"Master. Elias "}
+{G->"0 ",A->"Pokrnic ",B->"Mr. Mate "}
+{G->"0 ",A->"Andersson ",B->"Master. Sigvard Harald Elias "}
+{G->"0 ",A->"Elsbury ",B->"Mr. William James "}
+{G->"0 ",A->"Rice ",B->"Master. Eugene "}
+{G->"0 ",A->"Cacic ",B->"Miss. Manda "}
+{G->"0 ",A->"Gallagher ",B->"Mr. Martin "}
+{G->"1 ",A->"Andersson ",B->"Mr. August Edvard ('Wennerstrom') "}
+{G->"1 ",A->"Asplund ",B->"Miss. Lillian Gertrud "}
+{G->"0 ",A->"Sage ",B->"Miss. Ada "}
+{G->"0 ",A->"Lam ",B->"Mr. Len "}
+{G->"1 ",A->"Kelly ",B->"Miss. Anna Katherine 'Annie Kate' "}
+{G->"0 ",A->"Van Impe ",B->"Mr. Jean Baptiste "}
+{G->"0 ",A->"Panula ",B->"Mr. Jaako Arnold "}
+{G->"1 ",A->"Moor ",B->"Master. Meier "}
+{G->"0 ",A->"Skoog ",B->"Master. Karl Thorsten "}
+{G->"0 ",A->"Johanson ",B->"Mr. Jakob Alfred "}
+{G->"0 ",A->"Pavlovic ",B->"Mr. Stefo "}
+{G->"0 ",A->"Stankovic ",B->"Mr. Ivan "}
+{G->"0 ",A->"Williams ",B->"Mr. Leslie "}
+{G->"0 ",A->"Dennis ",B->"Mr. William "}
+{G->"1 ",A->"Hirvonen ",B->"Miss. Hildur E "}
+{G->"0 ",A->"Horgan ",B->"Mr. John "}
+{G->"0 ",A->"Ling ",B->"Mr. Lee "}
+{G->"1 ",A->"Jalsevac ",B->"Mr. Ivan "}
+{G->"0 ",A->"Mahon ",B->"Miss. Bridget Delia "}
+{G->"0 ",A->"Moutal ",B->"Mr. Rahamin Haim "}
+{G->"0 ",A->"Shorney ",B->"Mr. Charles Joseph "}
+{G->"1 ",A->"Sundman ",B->"Mr. Johan Julian "}
+{G->"1 ",A->"Lam ",B->"Mr. Ali "}
+{G->"0 ",A->"Petranec ",B->"Miss. Matilda "}
+{G->"0 ",A->"Maisner ",B->"Mr. Simon "}
+{G->"1 ",A->"Kink-Heilmann ",B->"Mrs. Anton (Luise Heilmann) "}
+{G->"0 ",A->"Sage ",B->"Mr. Frederick "}
+{G->"0 ",A->"Vander Planke ",B->"Mr. Leo Edmondus "}
+{G->"0 ",A->"Connaghton ",B->"Mr. Michael "}
+{G->"0 ",A->"Klasen ",B->"Mrs. (Hulda Kristina Eugenia Lofqvist) "}
+{G->"1 ",A->"Nicola-Yarred ",B->"Miss. Jamila "}
+{G->"1 ",A->"Moubarek ",B->"Master. Gerios "}
+{G->"0 ",A->"Lindell ",B->"Mr. Edvard Bengtsson "}
+{G->"0 ",A->"Sage ",B->"Mrs. John (Annie Bullen) "}
+{G->"0 ",A->"Panula ",B->"Mr. Ernesti Arvid "}
+{G->"0 ",A->"Boulos ",B->"Master. Akar "}
+{G->"0 ",A->"Zakarian ",B->"Mr. Ortin "}
+{G->"1 ",A->"Daly ",B->"Mr. Eugene Patrick "}
+{G->"1 ",A->"Jansson ",B->"Mr. Carl Olof "}
+{G->"0 ",A->"Moen ",B->"Mr. Sigurd Hansen "}
+{G->"0 ",A->"Foley ",B->"Mr. William "}
+{G->"1 ",A->"Badman ",B->"Miss. Emily Louisa "}
+{G->"1 ",A->"Abelseth ",B->"Miss. Karen Marie "}
+{G->"1 ",A->"Karun ",B->"Mr. Franz "}
+{G->"1 ",A->"Moubarek ",B->"Mrs. George (Omine 'Amenia' Alexander) "}
+{G->"0 ",A->"Dahlberg ",B->"Miss. Gerda Ulrika "}
+{G->"0 ",A->"Foley ",B->"Mr. Joseph "}
+{G->"0 ",A->"Betros ",B->"Master. Seman "}
+{G->"0 ",A->"Dennis ",B->"Mr. Samuel "}
+{G->"1 ",A->"Johnson ",B->"Mrs. Oscar W (Elisabeth Vilhelmina Berg) "}
+{G->"1 ",A->"Masselmani ",B->"Mrs. Fatima "}
+{G->"0 ",A->"Rouse ",B->"Mr. Richard Henry "}
+{G->"0 ",A->"Moran ",B->"Mr. Daniel J "}
+{G->"0 ",A->"Daher ",B->"Mr. Shedid "}
+{G->"0 ",A->"Adahl ",B->"Mr. Mauritz Nils Martin "}
+{G->"0 ",A->"Charters ",B->"Mr. David "}
+{G->"0 ",A->"Sage ",B->"Miss. Stella Anna "}
+{G->"0 ",A->"Andersson ",B->"Miss. Ellis Anna Maria "}
+{G->"0 ",A->"Johnson ",B->"Mr. Alfred "}
+{G->"0 ",A->"Barton ",B->"Mr. David John "}
+{G->"1 ",A->"Stranden ",B->"Mr. Juho "}
+{G->"0 ",A->"Ibrahim Shawah ",B->"Mr. Yousseff "}
+{G->"0 ",A->"Saad ",B->"Mr. Amin "}
+{G->"0 ",A->"Olsen ",B->"Mr. Karl Siegwart Andreas "}
+{G->"0 ",A->"Henriksson ",B->"Miss. Jenny Lovisa "}
+{G->"1 ",A->"Abrahim ",B->"Mrs. Joseph (Sophie Halaut Easu) "}
+{G->"0 ",A->"Larsson ",B->"Mr. August Viktor "}
+{G->"1 ",A->"Thomas ",B->"Master. Assad Alexander "}
+{G->"1 ",A->"Davison ",B->"Mrs. Thomas Henry (Mary E Finck) "}
+{G->"0 ",A->"O'Connell ",B->"Mr. Patrick D "}
+{G->"1 ",A->"Cohen ",B->"Mr. Gurshon 'Gus' "}
+{G->"0 ",A->"Novel ",B->"Mr. Mansouer "}
+{G->"1 ",A->"McCormack ",B->"Mr. Thomas Joseph "}
+{G->"0 ",A->"Dintcheff ",B->"Mr. Valtcho "}
+{G->"1 ",A->"Foo ",B->"Mr. Choong "}
+{G->"0 ",A->"Sadowitz ",B->"Mr. Harry "}
+{G->"1 ",A->"Riordan ",B->"Miss. Johanna 'Hannah' "}
+{G->"0 ",A->"van Billiard ",B->"Mr. Austin Blyler "}
+{G->"0 ",A->"Attalah ",B->"Miss. Malake "}
+{G->"0 ",A->"Simmons ",B->"Mr. John "}
+{G->"0 ",A->"Yousif ",B->"Mr. Wazli "}
+{G->"0 ",A->"Maenpaa ",B->"Mr. Matti Alexanteri "}
+{G->"0 ",A->"Farrell ",B->"Mr. James "}
+{G->"1 ",A->"Johannesen-Bratthammer ",B->"Mr. Bernt "}
+{G->"0 ",A->"Kiernan ",B->"Mr. John "}
+{G->"1 ",A->"McDermott ",B->"Miss. Brigdet Delia "}
+{G->"0 ",A->"Pokrnic ",B->"Mr. Tome "}
+{G->"0 ",A->"Abbott ",B->"Master. Eugene Joseph "}
+{G->"1 ",A->"Dorking ",B->"Mr. Edward Arthur "}
+{G->"0 ",A->"Laitinen ",B->"Miss. Kristina Sofia "}
+{G->"1 ",A->"Heikkinen ",B->"Miss. Laina "}
+{G->"1 ",A->"Pickard ",B->"Mr. Berk (Berk Trembisky) "}
+{G->"0 ",A->"Rekic ",B->"Mr. Tido "}
+{G->"1 ",A->"Kennedy ",B->"Mr. John "}
+{G->"0 ",A->"Panula ",B->"Master. Urho Abraham "}
+{G->"0 ",A->"Widegren ",B->"Mr. Carl/Charles Peter "}
+{G->"0 ",A->"Colbert ",B->"Mr. Patrick "}
+{G->"0 ",A->"Assaf ",B->"Mr. Gerios "}
+{G->"0 ",A->"Lockyer ",B->"Mr. Edward "}
+{G->"0 ",A->"Sdycoff ",B->"Mr. Todor "}
+{G->"0 ",A->"Thomson ",B->"Mr. Alexander Morrison "}
+{G->"0 ",A->"Danbom ",B->"Mr. Ernst Gilbert "}
+{G->"0 ",A->"Hendekovic ",B->"Mr. Ignjac "}
+{G->"0 ",A->"Brocklebank ",B->"Mr. William Alfred "}
+{G->"1 ",A->"Ohman ",B->"Miss. Velin "}
+{G->"0 ",A->"Barbara ",B->"Miss. Saiide "}
+{G->"0 ",A->"Nancarrow ",B->"Mr. William Henry "}
+{G->"1 ",A->"Kink-Heilmann ",B->"Mr. Anton "}
+{G->"0 ",A->"Peacock ",B->"Master. Alfred Edward "}
+{G->"0 ",A->"Slocovski ",B->"Mr. Selman Francis "}
+{G->"1 ",A->"de Mulder ",B->"Mr. Theodore "}
+{G->"0 ",A->"Bostandyeff ",B->"Mr. Guentcho "}
+{G->"0 ",A->"Elias ",B->"Mr. Tannous "}
+{G->"0 ",A->"Strandberg ",B->"Miss. Ida Sofia "}
+{G->"0 ",A->"Strom ",B->"Miss. Telma Matilda "}
+{G->"0 ",A->"Assam ",B->"Mr. Ali "}
+{G->"0 ",A->"Denkoff ",B->"Mr. Mitto "}
+{G->"1 ",A->"Hakkarainen ",B->"Mrs. Pekka Pietari (Elin Matilda Dolck) "}
+{G->"1 ",A->"Wilkes ",B->"Mrs. James (Ellen Needs) "}
+{G->"0 ",A->"Davies ",B->"Mr. John Samuel "}
+{G->"1 ",A->"Dean ",B->"Master. Bertram Vere "}
+{G->"0 ",A->"Burns ",B->"Miss. Mary Delia "}
+{G->"1 ",A->"Sheerlinck ",B->"Mr. Jan Baptist "}
+{G->"0 ",A->"Oreskovic ",B->"Mr. Luka "}
+{G->"0 ",A->"O'Connor ",B->"Mr. Maurice "}
+{G->"1 ",A->"Finoli ",B->"Mr. Luigi "}
+{G->"0 ",A->"Wiseman ",B->"Mr. Phillippe "}
+{G->"0 ",A->"Mangan ",B->"Miss. Mary "}
+{G->"0 ",A->"Andersson ",B->"Miss. Ida Augusta Margareta "}
+{G->"0 ",A->"Vendel ",B->"Mr. Olof Edvin "}
+{G->"0 ",A->"Kink ",B->"Miss. Maria "}
+{G->"1 ",A->"de Messemaeker ",B->"Mrs. Guillaume Joseph (Emma) "}
+{G->"0 ",A->"Laleff ",B->"Mr. Kristo "}
+{G->"0 ",A->"Danbom ",B->"Master. Gilbert Sigvard Emanuel "}
+{G->"0 ",A->"Willer ",B->"Mr. Aaron ('Abi Weller') "}
+{G->"1 ",A->"Drapkin ",B->"Miss. Jennie "}
+{G->"0 ",A->"Johnston ",B->"Mr. Andrew G "}
+{G->"0 ",A->"Arnold-Franchi ",B->"Mrs. Josef (Josefine Franchi) "}
+{G->"0 ",A->"Jonkoff ",B->"Mr. Lalio "}
+{G->"0 ",A->"Larsson ",B->"Mr. Bengt Edvin "}
+{G->"0 ",A->"Stoytcheff ",B->"Mr. Ilia "}
+{G->"0 ",A->"Zabour ",B->"Miss. Hileni "}
+{G->"0 ",A->"Mardirosian ",B->"Mr. Sarkis "}
+{G->"0 ",A->"Vander Planke ",B->"Mrs. Julius (Emelia Maria Vandemoortele) "}
+{G->"0 ",A->"de Pelsmaeker ",B->"Mr. Alfons "}
+{G->"0 ",A->"Keefe ",B->"Mr. Arthur "}
+{G->"0 ",A->"Attalah ",B->"Mr. Sleiman "}
+{G->"0 ",A->"Ali ",B->"Mr. Ahmed "}
+{G->"0 ",A->"Elias ",B->"Mr. Joseph Jr "}
+{G->"0 ",A->"Jensen ",B->"Mr. Svend Lauritz "}
+{G->"0 ",A->"Pedersen ",B->"Mr. Olaf "}
+{G->"0 ",A->"Thomas ",B->"Mr. Tannous "}
+{G->"0 ",A->"Williams ",B->"Mr. Howard Hugh 'Harry' "}
+{G->"0 ",A->"Petterson ",B->"Mr. Johan Emil "}
+{G->"0 ",A->"Spector ",B->"Mr. Woolf "}
+{G->"0 ",A->"Van Impe ",B->"Mrs. Jean Baptiste (Rosalie Paula Govaert) "}
+{G->"0 ",A->"Soholt ",B->"Mr. Peter Andreas Lauritz Andersen "}
+{G->"0 ",A->"Elias ",B->"Mr. Joseph "}
+{G->"1 ",A->"McGowan ",B->"Miss. Anna 'Annie' "}
+{G->"0 ",A->"Alexander ",B->"Mr. William "}
+{G->"0 ",A->"Henry ",B->"Miss. Delia "}
+{G->"0 ",A->"Jussila ",B->"Miss. Mari Aina "}
+{G->"1 ",A->"McCoy ",B->"Miss. Agnes "}
+{G->"0 ",A->"Saundercock ",B->"Mr. William Henry "}
+{G->"1 ",A->"Moussa ",B->"Mrs. (Mantoura Boulos) "}
+{G->"1 ",A->"Moran ",B->"Miss. Bertha "}
+{G->"1 ",A->"Osman ",B->"Mrs. Mara "}
+{G->"0 ",A->"Balkic ",B->"Mr. Cerin "}
+{G->"1 ",A->"Dahl ",B->"Mr. Karl Edwart "}
+{G->"0 ",A->"Olsson ",B->"Mr. Nils Johan Goransson "}
+{G->"1 ",A->"Hansen ",B->"Mrs. Claus Peter (Jennie L Howard) "}
+{G->"0 ",A->"Johansson ",B->"Mr. Erik "}
+{G->"1 ",A->"Coutts ",B->"Master. Eden Leslie 'Neville' "}
+{G->"0 ",A->"Carver ",B->"Mr. Alfred John "}
+{G->"0 ",A->"Connors ",B->"Mr. Patrick "}
+{G->"0 ",A->"Rice ",B->"Master. George Hugh "}
+{G->"1 ",A->"Asplund ",B->"Master. Edvin Rojj Felix "}
+{G->"0 ",A->"Torber ",B->"Mr. Ernst William "}
+{G->"0 ",A->"Vovk ",B->"Mr. Janko "}
+{G->"0 ",A->"Ford ",B->"Mr. William Neal "}
+{G->"1 ",A->"Landergren ",B->"Miss. Aurora Adelia "}
+{G->"0 ",A->"Palsson ",B->"Mrs. Nils (Alma Cornelia Berglund) "}
+{G->"1 ",A->"Bing ",B->"Mr. Lee "}
+{G->"0 ",A->"Lemberopolous ",B->"Mr. Peter L "}
+{G->"0 ",A->"Stanley ",B->"Mr. Edward Roland "}
+{G->"0 ",A->"Cann ",B->"Mr. Ernest Charles "}
+{G->"1 ",A->"Ryan ",B->"Mr. Edward "}
+{G->"0 ",A->"Hart ",B->"Mr. Henry "}
+{G->"0 ",A->"Myhrman ",B->"Mr. Pehr Fabian Oliver Malkolm "}
+{G->"0 ",A->"Canavan ",B->"Mr. Patrick "}
+{G->"0 ",A->"Skoog ",B->"Master. Harald "}
+{G->"0 ",A->"Sage ",B->"Mr. John George "}
+{G->"1 ",A->"Jermyn ",B->"Miss. Annie "}
+{G->"0 ",A->"Bengtsson ",B->"Mr. John Viktor "}
+{G->"0 ",A->"Bourke ",B->"Mr. John "}
+{G->"0 ",A->"Tomlin ",B->"Mr. Ernest Portage "}
+{G->"0 ",A->"Duane ",B->"Mr. Frank "}
+{G->"1 ",A->"Connolly ",B->"Miss. Kate "}
+{G->"0 ",A->"Barbara ",B->"Mrs. (Catherine David) "}
+{G->"0 ",A->"Davies ",B->"Mr. Evan "}
+{G->"0 ",A->"Patchett ",B->"Mr. George "}
+{G->"0 ",A->"Robins ",B->"Mr. Alexander A "}
+{G->"1 ",A->"Olsen ",B->"Master. Artur Karl "}
+{G->"0 ",A->"Osen ",B->"Mr. Olaf Elon "}
+{G->"0 ",A->"Johnston ",B->"Miss. Catherine Helen 'Carrie' "}
+{G->"0 ",A->"Sirayanian ",B->"Mr. Orsen "}
+{G->"0 ",A->"Linehan ",B->"Mr. Michael "}
+{G->"0 ",A->"Theobald ",B->"Mr. Thomas Leonard "}
+{G->"1 ",A->"O'Brien ",B->"Mrs. Thomas (Johanna 'Hannah' Godfrey) "}
+{G->"0 ",A->"Ryan ",B->"Mr. Patrick "}
+{G->"0 ",A->"Spinner ",B->"Mr. Henry John "}
+{G->"0 ",A->"Rice ",B->"Master. Eric "}
+{G->"0 ",A->"Vande Velde ",B->"Mr. Johannes Joseph "}
+{G->"0 ",A->"Hagardon ",B->"Miss. Kate "}
+{G->"1 ",A->"Howard ",B->"Miss. May Elizabeth "}
+{G->"0 ",A->"Sivola ",B->"Mr. Antti Wilhelm "}
+{G->"0 ",A->"MacKay ",B->"Mr. George William "}
+{G->"0 ",A->"Strom ",B->"Mrs. Wilhelm (Elna Matilda Persson) "}
+{G->"0 ",A->"Mernagh ",B->"Mr. Robert "}
+{G->"0 ",A->"Kassem ",B->"Mr. Fared "}
+{G->"1 ",A->"Touma ",B->"Miss. Maria Youssef "}
+{G->"1 ",A->"Karun ",B->"Miss. Manca "}
+{G->"0 ",A->"Razi ",B->"Mr. Raihed "}
+{G->"1 ",A->"Devaney ",B->"Miss. Margaret Delia "}
+{G->"0 ",A->"Khalil ",B->"Mrs. Betros (Zahie 'Maria' Elias) "}
+{G->"1 ",A->"Nysten ",B->"Miss. Anna Sofia "}
+{G->"0 ",A->"Vander Cruyssen ",B->"Mr. Victor "}
+{G->"0 ",A->"Wittevrongel ",B->"Mr. Camille "}
+{G->"0 ",A->"Everett ",B->"Mr. Thomas James "}
+{G->"0 ",A->"Niklasson ",B->"Mr. Samuel "}
+{G->"1 ",A->"Touma ",B->"Master. Georges Youssef "}
+{G->"0 ",A->"Wiklund ",B->"Mr. Karl Johan "}
+{G->"0 ",A->"Nilsson ",B->"Mr. August Ferdinand "}
+{G->"0 ",A->"Rice ",B->"Master. Arthur "}
+{G->"0 ",A->"Bjorklund ",B->"Mr. Ernst Herbert "}
+{G->"1 ",A->"Ayoub ",B->"Miss. Banoura "}
+{G->"1 ",A->"Hyman ",B->"Mr. Abraham "}
+{G->"1 ",A->"Nilsson ",B->"Miss. Helmina Josefina "}
+{G->"1 ",A->"Nilsson ",B->"Miss. Berta Olivia "}
+{G->"0 ",A->"O'Brien ",B->"Mr. Timothy "}
+{G->"0 ",A->"Thomas ",B->"Mr. John "}
+{G->"0 ",A->"Pettersson ",B->"Miss. Ellen Natalia "}
+{G->"0 ",A->"Reynolds ",B->"Mr. Harold J "}
+{G->"0 ",A->"van Billiard ",B->"Master. Walter John "}
+{G->"1 ",A->"O'Dwyer ",B->"Miss. Ellen 'Nellie' "}
+{G->"0 ",A->"Kalvik ",B->"Mr. Johannes Halvorsen "}
+{G->"0 ",A->"Peltomaki ",B->"Mr. Nikolai Johannes "}
+{G->"0 ",A->"Danoff ",B->"Mr. Yoto "}
+{G->"0 ",A->"McMahon ",B->"Mr. Martin "}
+{G->"0 ",A->"Cacic ",B->"Mr. Jego Grga "}
+{G->"0 ",A->"Svensson ",B->"Mr. Johan "}
+{G->"0 ",A->"van Melkebeke ",B->"Mr. Philemon "}
+{G->"0 ",A->"Johansson ",B->"Mr. Nils "}
+{G->"0 ",A->"Canavan ",B->"Miss. Mary "}
+{G->"1 ",A->"Turja ",B->"Miss. Anna Sofia "}
+{G->"0 ",A->"Doyle ",B->"Miss. Elizabeth "}
+{G->"0 ",A->"Crease ",B->"Mr. Ernest James "}
+{G->"0 ",A->"Goodwin ",B->"Mr. Charles Frederick "}
+{G->"0 ",A->"Sawyer ",B->"Mr. Frederick Charles "}
+{G->"0 ",A->"Drazenoic ",B->"Mr. Jozef "}
+{G->"1 ",A->"Hirvonen ",B->"Mrs. Alexander (Helga E Lindqvist) "}
+{G->"0 ",A->"Kelly ",B->"Mr. James "}
+{G->"1 ",A->"McCarthy ",B->"Miss. Catherine 'Katie' "}
+{G->"0 ",A->"Petroff ",B->"Mr. Nedelio "}
+{G->"1 ",A->"Backstrom ",B->"Mrs. Karl Alfred (Maria Mathilda Gustafsson) "}
+{G->"1 ",A->"O'Driscoll ",B->"Miss. Bridget "}
+{G->"0 ",A->"Petroff ",B->"Mr. Pastcho ('Pentcho') "}
+{G->"0 ",A->"Lefebre ",B->"Miss. Jeannie "}
+{G->"0 ",A->"Pekoniemi ",B->"Mr. Edvard "}
+{G->"0 ",A->"Calic ",B->"Mr. Petar "}
+{G->"0 ",A->"Morrow ",B->"Mr. Thomas Rowan "}
+{G->"0 ",A->"Celotti ",B->"Mr. Francesco "}
+{G->"0 ",A->"Holm ",B->"Mr. John Fredrik Alexander "}
+{G->"0 ",A->"Lefebre ",B->"Master. Henry Forbes "}
+{G->"1 ",A->"McGovern ",B->"Miss. Mary "}
+{G->"0 ",A->"Pearce ",B->"Mr. Ernest "}
+{G->"0 ",A->"Larsson-Rondberg ",B->"Mr. Edvard A "}
+{G->"1 ",A->"Dowdell ",B->"Miss. Elizabeth "}
+{G->"1 ",A->"Sjoblom ",B->"Miss. Anna Sofia "}
+{G->"0 ",A->"Yousseff ",B->"Mr. Gerious "}
+{G->"0 ",A->"Thorneycroft ",B->"Mr. Percival "}
+{G->"1 ",A->"Sunderland ",B->"Mr. Victor Francis "}
+{G->"0 ",A->"Hagland ",B->"Mr. Ingvald Olai Olsen "}
+{G->"0 ",A->"Lahoud ",B->"Mr. Sarkis "}
+{G->"0 ",A->"Goodwin ",B->"Miss. Lillian Amy "}
+{G->"1 ",A->"Johnson ",B->"Master. Harold Theodor "}
+{G->"0 ",A->"Nirva ",B->"Mr. Iisakki Antino Aijo "}
+{G->"0 ",A->"Rasmussen ",B->"Mrs. (Lena Jacobsen Solvang) "}
+{G->"0 ",A->"Braund ",B->"Mr. Owen Harris "}
+{G->"1 ",A->"Johansson Palmquist ",B->"Mr. Oskar Leander "}
+{G->"0 ",A->"Goodwin ",B->"Miss. Jessie Allis "}
+{G->"0 ",A->"Jardin ",B->"Mr. Jose Neto "}
+{G->"0 ",A->"Minkoff ",B->"Mr. Lazar "}
+{G->"0 ",A->"Saad ",B->"Mr. Khalil "}
+{G->"1 ",A->"Nakid ",B->"Miss. Maria ('Mary') "}
+{G->"0 ",A->"Zimmerman ",B->"Mr. Leo "}
+{G->"0 ",A->"Lefebre ",B->"Mrs. Frank (Frances) "}
+{G->"1 ",A->"Baclini ",B->"Miss. Marie Catherine "}
+{G->"1 ",A->"Lindqvist ",B->"Mr. Eino William "}
+{G->"0 ",A->"Riihivouri ",B->"Miss. Susanna Juhantytar 'Sanni' "}
+{G->"1 ",A->"Krekorian ",B->"Mr. Neshan "}
+{G->"0 ",A->"Augustsson ",B->"Mr. Albert "}
+{G->"0 ",A->"Baccos ",B->"Mr. Raffull "}
+{G->"0 ",A->"Risien ",B->"Mr. Samuel Beard "}
+{G->"0 ",A->"Sage ",B->"Mr. George John Jr "}
+{G->"1 ",A->"Emanuel ",B->"Miss. Virginia Ethel "}
+{G->"1 ",A->"Whabee ",B->"Mrs. George Joseph (Shawneene Abi-Saab) "}
+{G->"0 ",A->"Andersson ",B->"Miss. Ingeborg Constanzia "}
+{G->"0 ",A->"Alhomaki ",B->"Mr. Ilmari Rudolf "}
+{G->"1 ",A->"Thorneycroft ",B->"Mrs. Percival (Florence Kate White) "}
+{G->"1 ",A->"Dyker ",B->"Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson) "}
+{G->"0 ",A->"Kilgannon ",B->"Mr. Thomas J "}
+{G->"0 ",A->"Kink ",B->"Mr. Vincenz "}
+{G->"0 ",A->"Elias ",B->"Mr. Dibo "}
+{G->"0 ",A->"Ahlin ",B->"Mrs. Johan (Johanna Persdotter Larsson) "}
+{G->"1 ",A->"Kelly ",B->"Miss. Mary "}
+{G->"1 ",A->"Leeni ",B->"Mr. Fahim ('Philip Zenni') "}
+{G->"1 ",A->"O'Leary ",B->"Miss. Hanora 'Norah' "}
+{G->"0 ",A->"Skoog ",B->"Miss. Margit Elizabeth "}
+{G->"0 ",A->"Thomas ",B->"Mr. Charles P "}
+{G->"0 ",A->"Karlsson ",B->"Mr. Nils August "}
+{G->"0 ",A->"Burke ",B->"Mr. Jeremiah "}
+{G->"0 ",A->"Moore ",B->"Mr. Leonard Charles "}
+{G->"0 ",A->"Markoff ",B->"Mr. Marin "}
+{G->"0 ",A->"Waelens ",B->"Mr. Achille "}
+{G->"0 ",A->"Palsson ",B->"Miss. Stina Viola "}
+{G->"0 ",A->"Jonsson ",B->"Mr. Nils Hilding "}
+{G->"1 ",A->"Madigan ",B->"Miss. Margaret 'Maggie' "}
+{G->"0 ",A->"Asplund ",B->"Master. Clarence Gustaf Hugo "}
+{G->"0 ",A->"Lundahl ",B->"Mr. Johan Svensson "}
+{G->"0 ",A->"Rintamaki ",B->"Mr. Matti "}
+{G->"1 ",A->"Hedman ",B->"Mr. Oskar Arvid "}
+{G->"1 ",A->"McCoy ",B->"Mr. Bernard "}
+{G->"0 ",A->"Guest ",B->"Mr. Robert "}
+{G->"0 ",A->"Willey ",B->"Mr. Edward "}
+{G->"0 ",A->"Fleming ",B->"Miss. Honora "}
+{G->"0 ",A->"Rogers ",B->"Mr. William John "}
+{G->"0 ",A->"Johnston ",B->"Mrs. Andrew G (Elizabeth 'Lily' Watson) "}
+{G->"0 ",A->"Oreskovic ",B->"Miss. Jelka "}
+{G->"0 ",A->"Lindahl ",B->"Miss. Agda Thorilda Viktoria "}
+{G->"0 ",A->"O'Connor ",B->"Mr. Patrick "}
+{G->"0 ",A->"Boulos ",B->"Mrs. Joseph (Sultana) "}
+{G->"0 ",A->"Paulner ",B->"Mr. Uscher "}
+{G->"0 ",A->"Ford ",B->"Miss. Doolina Margaret 'Daisy' "}
+{G->"0 ",A->"Ekstrom ",B->"Mr. Johan "}
+{G->"0 ",A->"Rosblom ",B->"Mrs. Viktor (Helena Wilhelmina) "}
+{G->"0 ",A->"Dooley ",B->"Mr. Patrick "}
+{G->"0 ",A->"Webber ",B->"Mr. James "}
+{G->"0 ",A->"Lefebre ",B->"Miss. Ida "}
+{G->"0 ",A->"Vanden Steen ",B->"Mr. Leo Peter "}
+{G->"0 ",A->"Nysveen ",B->"Mr. Johan Hansen "}
+{G->"1 ",A->"Sandstrom ",B->"Miss. Beatrice Irene "}
+{G->"0 ",A->"Fischer ",B->"Mr. Eberhard Thelander "}
+{G->"0 ",A->"Jensen ",B->"Mr. Hans Peder "}
+{G->"1 ",A->"Najib ",B->"Miss. Adele Kiamie 'Jane' "}
+{G->"1 ",A->"Mamee ",B->"Mr. Hanna "}
+{G->"1 ",A->"Nakid ",B->"Mrs. Said (Waika 'Mary' Mowad) "}
+{G->"0 ",A->"Dantcheff ",B->"Mr. Ristiu "}
+{G->"1 ",A->"Mulvihill ",B->"Miss. Bertha E "}
+{G->"0 ",A->"Torfa ",B->"Mr. Assad "}
+{G->"0 ",A->"Lennon ",B->"Miss. Mary "}
+{G->"0 ",A->"Arnold-Franchi ",B->"Mr. Josef "}
+{G->"0 ",A->"Holthen ",B->"Mr. Johan Martin "}
+{G->"1 ",A->"Nakid ",B->"Mr. Sahid "}
+{G->"0 ",A->"Dyker ",B->"Mr. Adolf Fredrik "}
+{G->"1 ",A->"Thomas ",B->"Mrs. Alexander (Thamine 'Thelma') "}
+{G->"0 ",A->"Miles ",B->"Mr. Frank "}
+{G->"0 ",A->"Odahl ",B->"Mr. Nils Martin "}
+{G->"1 ",A->"Healy ",B->"Miss. Hanora 'Nora' "}
+{G->"0 ",A->"Goncalves ",B->"Mr. Manuel Estanslas "}
+{G->"0 ",A->"Lovell ",B->"Mr. John Hall ('Henry') "}
+{G->"0 ",A->"Gustafsson ",B->"Mr. Anders Vilhelm "}
+{G->"1 ",A->"Peter ",B->"Mrs. Catherine (Catherine Rizk) "}
+{G->"1 ",A->"Moor ",B->"Mrs. (Beila) "}
+{G->"0 ",A->"Meo ",B->"Mr. Alfonzo "}
+{G->"0 ",A->"Radeff ",B->"Mr. Alexander "}
+{G->"0 ",A->"Asplund ",B->"Master. Filip Oscar "}
+{G->"0 ",A->"Hanna ",B->"Mr. Mansour "}
+{G->"0 ",A->"Skoog ",B->"Mr. Wilhelm "}
+{G->"0 ",A->"Lindell ",B->"Mrs. Edvard Bengtsson (Elin Gerda Persson) "}
+{G->"1 ",A->"Mannion ",B->"Miss. Margareth "}
+{G->"1 ",A->"McCoy ",B->"Miss. Alicia "}
+{G->"0 ",A->"Andersson ",B->"Miss. Ebba Iris Alfrida "}
+{G->"0 ",A->"Cacic ",B->"Miss. Marija "}
+{G->"1 ",A->"Dean ",B->"Mrs. Bertram (Eva Georgetta Light) "}
+{G->"0 ",A->"Kiernan ",B->"Mr. Philip "}
+{G->"0 ",A->"Hampe ",B->"Mr. Leon "}
+{G->"1 ",A->"Johnson ",B->"Miss. Eleanor Ileen "}
+{G->"0 ",A->"Leonard ",B->"Mr. Lionel "}
+{G->"0 ",A->"Toufik ",B->"Mr. Nakli "}
+{G->"0 ",A->"Hakkarainen ",B->"Mr. Pekka Pietari "}
+{G->"0 ",A->"Palsson ",B->"Master. Paul Folke "}
+{G->"0 ",A->"Doharr ",B->"Mr. Tannous "}
+{G->"0 ",A->"Dika ",B->"Mr. Mirko "}
+{G->"0 ",A->"Goodwin ",B->"Master. Sidney Leonard "}
+{G->"0 ",A->"Meanwell ",B->"Miss. (Marion Ogden) "}
+{G->"1 ",A->"Assaf Khalil ",B->"Mrs. Mariana ('Miriam') "}
+{G->"0 ",A->"Peters ",B->"Miss. Katie "}
+{G->"1 ",A->"Goldsmith ",B->"Master. Frank John William 'Frankie' "}
+{G->"0 ",A->"Ivanoff ",B->"Mr. Kanio "}
+{G->"1 ",A->"Abelseth ",B->"Mr. Olaus Jorgensen "}
+{G->"0 ",A->"Davison ",B->"Mr. Thomas Henry "}
+{G->"1 ",A->"Lulic ",B->"Mr. Nikola "}
+{G->"0 ",A->"Delalic ",B->"Mr. Redjo "}
+{G->"0 ",A->"Windelov ",B->"Mr. Einar "}
+{G->"0 ",A->"Peacock ",B->"Mrs. Benjamin (Edith Nile) "}
+{G->"0 ",A->"Gilinski ",B->"Mr. Eliezer "}
+{G->"0 ",A->"McNamee ",B->"Mr. Neal "}
+{G->"1 ",A->"Touma ",B->"Mrs. Darwis (Hanne Youssef Razi) "}
+{G->"0 ",A->"Goodwin ",B->"Master. Harold Victor "}
+{G->"0 ",A->"Davies ",B->"Mr. Joseph "}
+{G->"0 ",A->"Todoroff ",B->"Mr. Lalio "}
+{G->"0 ",A->"Chronopoulos ",B->"Mr. Demetrios "}
+{G->"1 ",A->"Andersson ",B->"Miss. Erna Alexandra "}
+{G->"0 ",A->"Zabour ",B->"Miss. Thamine "}
+{G->"0 ",A->"Yasbeck ",B->"Mr. Antoni "}
+{G->"0 ",A->"Hansen ",B->"Mr. Claus Peter "}
+{G->"0 ",A->"Palsson ",B->"Miss. Torborg Danira "}
+{G->"0 ",A->"Emir ",B->"Mr. Farred Chehab "}
+{G->"0 ",A->"Wiklund ",B->"Mr. Jakob Alfred "}
+{G->"0 ",A->"Salonen ",B->"Mr. Johan Werner "}
+{G->"1 ",A->"Moss ",B->"Mr. Albert Johan "}
+{G->"0 ",A->"Barry ",B->"Miss. Julia "}
+{G->"0 ",A->"O'Donoghue ",B->"Ms. Bridget "}
+{G->"0 ",A->"Robins ",B->"Mrs. Alexander A (Grace Charity Laury) "}
+{G->"0 ",A->"Asplund ",B->"Mr. Carl Oscar Vilhelm Gustafsson "}
+{G->"1 ",A->"Lundin ",B->"Miss. Olga Elida "}
+{G->"0 ",A->"Risien ",B->"Mrs. Samuel (Emma) "}
+{G->"0 ",A->"Danbom ",B->"Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren) "}
+{G->"0 ",A->"Goldsmith ",B->"Mr. Frank John "}
+{G->"1 ",A->"Madsen ",B->"Mr. Fridtjof Arne "}
+{G->"0 ",A->"Gustafsson ",B->"Mr. Johan Birger "}
+{G->"0 ",A->"Andersson ",B->"Mrs. Anders Johan (Alfrida Konstantia Brogren) "}
+{G->"0 ",A->"Johansson ",B->"Mr. Karl Johan "}
+{G->"0 ",A->"Coleff ",B->"Mr. Peju "}
+{G->"0 ",A->"Boulos ",B->"Mr. Hanna "}
+{G->"0 ",A->"Van Impe ",B->"Miss. Catharina "}
+{G->"0 ",A->"Mahon ",B->"Mr. John "}
+{G->"0 ",A->"Hansen ",B->"Mr. Henrik Juul "}
+{G->"1 ",A->"Shine ",B->"Miss. Ellen Natalia "}
+{G->"1 ",A->"Glynn ",B->"Miss. Mary Agatha "}
+{G->"0 ",A->"Lane ",B->"Mr. Patrick "}
+{G->"0 ",A->"Katavelas ",B->"Mr. Vassilios ('Catavelas Vassilios') "}
+{G->"1 ",A->"Murphy ",B->"Miss. Nora "}
+{G->"0 ",A->"Vander Planke ",B->"Miss. Augusta Maria "}
+{G->"0 ",A->"Birkeland ",B->"Mr. Hans Martin Monsen "}
+{G->"0 ",A->"Edvardsson ",B->"Mr. Gustaf Hjalmar "}
+{G->"1 ",A->"Mockler ",B->"Miss. Helen Mary 'Ellie' "}
+{G->"1 ",A->"Olsson ",B->"Mr. Oscar Wilhelm "}
+{G->"0 ",A->"Ilieff ",B->"Mr. Ylio "}
+{G->"0 ",A->"Petersen ",B->"Mr. Marius "}
+{G->"0 ",A->"Slabenoff ",B->"Mr. Petco "}
+{G->"0 ",A->"Coxon ",B->"Mr. Daniel "}
+{G->"0 ",A->"Rice ",B->"Mrs. William (Margaret Norton) "}
+{G->"1 ",A->"Lang ",B->"Mr. Fang "}
+{G->"0 ",A->"Pasic ",B->"Mr. Jakob "}
+{G->"0 ",A->"Peacock ",B->"Miss. Treasteall "}
+{G->"1 ",A->"Turkula ",B->"Mrs. (Hedwig) "}
+{G->"0 ",A->"Moran ",B->"Mr. James "}
+{G->"0 ",A->"Rice ",B->"Master. Albert "}
+{G->"0 ",A->"Markun ",B->"Mr. Johann "}
+{G->"1 ",A->"Chip ",B->"Mr. Chang "}
+{G->"0 ",A->"Peduzzi ",B->"Mr. Joseph "}
+{G->"0 ",A->"Lyntakoff ",B->"Mr. Stanko "}
+{G->"0 ",A->"Khalil ",B->"Mr. Betros "}
+{G->"0 ",A->"Kraeff ",B->"Mr. Theodor "}
+{G->"0 ",A->"Connolly ",B->"Miss. Kate "}
+{G->"1 ",A->"Niskanen ",B->"Mr. Juha "}
+{G->"0 ",A->"Carlsson ",B->"Mr. August Sigfrid "}
+{G->"0 ",A->"Calic ",B->"Mr. Jovo "}
+{G->"1 ",A->"Bradley ",B->"Miss. Bridget Delia "}
+{G->"0 ",A->"Sage ",B->"Master. Thomas Henry "}
+{G->"0 ",A->"Leinonen ",B->"Mr. Antti Gustaf "}
+{G->"1 ",A->"Karlsson ",B->"Mr. Einar Gervasius "}
+{G->"0 ",A->"Mineff ",B->"Mr. Ivan "}
+{G->"0 ",A->"Kallio ",B->"Mr. Nikolai Erland "}
+{G->"0 ",A->"Klasen ",B->"Miss. Gertrud Emilia "}
+{G->"0 ",A->"O'Brien ",B->"Mr. Thomas "}
+{G->"1 ",A->"Sap ",B->"Mr. Julius "}
+{G->"1 ",A->"Roth ",B->"Miss. Sarah A "}
+{G->"0 ",A->"Samaan ",B->"Mr. Hanna "}
+{G->"0 ",A->"Andersson ",B->"Mr. Anders Johan "}
+{G->"0 ",A->"Berglund ",B->"Mr. Karl Ivar Sven "}
+{G->"1 ",A->"Sandstrom ",B->"Mrs. Hjalmar (Agnes Charlotta Bengtsson) "}
+{G->"0 ",A->"McNeill ",B->"Miss. Bridget "}
+{G->"0 ",A->"Wirz ",B->"Mr. Albert "}
+{G->"0 ",A->"Olsson ",B->"Miss. Elina "}
+{G->"0 ",A->"Bowen ",B->"Mr. David John 'Dai' "}
+{G->"0 ",A->"Humblen ",B->"Mr. Adolf Mathias Nicolai Olsen "}
+{G->"1 ",A->"Asplund ",B->"Mr. Johan Charles "}
+{G->"0 ",A->"McGowan ",B->"Miss. Katherine "}
+{G->"0 ",A->"Vestrom ",B->"Miss. Hulda Amanda Adolfina "}
+{G->"0 ",A->"Sutehall ",B->"Mr. Henry Jr "}
+{G->"0 ",A->"Turcin ",B->"Mr. Stjepan "}
+{G->"1 ",A->"Svensson ",B->"Mr. Johan Cervin "}
+{G->"0 ",A->"Keane ",B->"Mr. Andrew 'Andy' "}
+{G->"0 ",A->"Dean ",B->"Mr. Bertram Frank "}
+{G->"0 ",A->"Smith ",B->"Mr. Thomas "}
+{G->"1 ",A->"Peter ",B->"Miss. Anna "}
+{G->"0 ",A->"Johnson ",B->"Mr. William Cahoone Jr "}
+{G->"0 ",A->"Sage ",B->"Miss. Constance Gladys "}
+{G->"1 ",A->"Buckley ",B->"Mr. Daniel "}
+{G->"0 ",A->"Davies ",B->"Mr. Alfred J "}
+{G->"1 ",A->"Coutts ",B->"Master. William Loch 'William' "}
+{G->"1 ",A->"Kink-Heilmann ",B->"Miss. Luise Gretchen "}
+{G->"0 ",A->"Andersson ",B->"Miss. Sigrid Elisabeth "}
+{G->"1 ",A->"Midtsjo ",B->"Mr. Karl Albert "}
+{G->"0 ",A->"Sage ",B->"Master. William Henry "}
+{G->"0 ",A->"Haas ",B->"Miss. Aloisia "}
+{G->"0 ",A->"Angheloff ",B->"Mr. Minko "}
+{G->"0 ",A->"Dimic ",B->"Mr. Jovan "}
+{G->"0 ",A->"Carr ",B->"Miss. Jeannie "}
+{G->"1 ",A->"Baclini ",B->"Miss. Eugenie "}
+{G->"0 ",A->"Karlsson ",B->"Mr. Julius Konrad Eugen "}
+{G->"0 ",A->"Franklin ",B->"Mr. Charles (Charles Fardon) "}
+{G->"1 ",A->"Gilnagh ",B->"Miss. Katherine 'Katie' "}
+{G->"0 ",A->"Goldsmith ",B->"Mr. Nathan "}
+{G->"0 ",A->"Palsson ",B->"Master. Gosta Leonard "}
+{G->"0 ",A->"Lefebre ",B->"Miss. Mathilde "}
+{G->"1 ",A->"Abrahamsson ",B->"Mr. Abraham August Johannes "}
+{G->"0 ",A->"Gustafsson ",B->"Mr. Karl Gideon "}
+{G->"1 ",A->"Stanley ",B->"Miss. Amy Zillah Elsie "}
+{G->"0 ",A->"Heininen ",B->"Miss. Wendla Maria "}
+{G->"0 ",A->"Youseff ",B->"Mr. Gerious "}
+{G->"0 ",A->"Perkin ",B->"Mr. John Henry "}
+{G->"1 ",A->"Albimona ",B->"Mr. Nassef Cassem "}
+{G->"0 ",A->"Abbott ",B->"Mr. Rossmore Edward "}
+{G->"1 ",A->"Sandstrom ",B->"Miss. Marguerite Rut "}
+{G->"0 ",A->"Naidenoff ",B->"Mr. Penko "}
+{G->"0 ",A->"Sage ",B->"Mr. Douglas Bullen "}
+{G->"0 ",A->"Zakarian ",B->"Mr. Mapriededer "}
+{G->"0 ",A->"Matinoff ",B->"Mr. Nicola "}
+{G->"0 ",A->"Cor ",B->"Mr. Ivan "}
+{G->"0 ",A->"Flynn ",B->"Mr. John "}
+{G->"0 ",A->"Johnston ",B->"Master. William Arthur 'Willie' "}
+{G->"0 ",A->"Gustafsson ",B->"Mr. Alfred Ossian "}
+{G->"0 ",A->"Andersson ",B->"Mr. Johan Samuel "}
+{G->"0 ",A->"Ford ",B->"Mr. Arthur "}
+{G->"0 ",A->"Lester ",B->"Mr. James "}
+{G->"0 ",A->"Coleff ",B->"Mr. Satio "}
+{G->"0 ",A->"Makinen ",B->"Mr. Kalle Edvard "}
+{G->"0 ",A->"Mionoff ",B->"Mr. Stoytcho "}
+{G->"0 ",A->"Nankoff ",B->"Mr. Minko "}
+{G->"0 ",A->"Panula ",B->"Master. Eino Viljami "}
+{G->"0 ",A->"Shaughnessy ",B->"Mr. Patrick "}
+{G->"0 ",A->"Hassan ",B->"Mr. Houssein G N "}
+{G->"0 ",A->"Andreasson ",B->"Mr. Paul Edvin "}
+{G->"1 ",A->"Tenglin ",B->"Mr. Gunnar Isidor "}
+{G->"1 ",A->"Honkanen ",B->"Miss. Eliina "}
+{G->"0 ",A->"Demetri ",B->"Mr. Marinko "}
+{G->"0 ",A->"Jensen ",B->"Mr. Niels Peder "}
+{G->"0 ",A->"Jussila ",B->"Miss. Katriina "}
+{G->"0 ",A->"Green ",B->"Mr. George Henry "}
+{G->"0 ",A->"Sadlier ",B->"Mr. Matthew "}
+{G->"0 ",A->"Cor ",B->"Mr. Liudevit "}
+{G->"0 ",A->"Aronsson ",B->"Mr. Ernst Axel Algot "}
+{G->"0 ",A->"Vande Walle ",B->"Mr. Nestor Cyriel "}
+{G->"0 ",A->"Nenkoff ",B->"Mr. Christo "}
+{G->"0 ",A->"Ilmakangas ",B->"Miss. Ida Livija "}
+{G->"0 ",A->"Olsen ",B->"Mr. Henry Margido "}
+{G->"0 ",A->"Lobb ",B->"Mrs. William Arthur (Cordelia K Stanlick) "}
+{G->"0 ",A->"Ford ",B->"Mrs. Edward (Margaret Ann Watson) "}
+{G->"0 ",A->"Rush ",B->"Mr. Alfred George John "}
+{G->"0 ",A->"Adams ",B->"Mr. John "}
+{G->"1 ",A->"Salkjelsvik ",B->"Miss. Anna Kristine "}
+{G->"1 ",A->"Yasbeck ",B->"Mrs. Antoni (Selini Alexander) "}
+{G->"1 ",A->"Asplund ",B->"Mrs. Carl Oscar (Selma Augusta Emilia Johansson) "}
+{G->"0 ",A->"Dakic ",B->"Mr. Branko "}
+{G->"0 ",A->"Saade ",B->"Mr. Jean Nassr "}
+{G->"0 ",A->"Andersen ",B->"Mr. Albert Karvin "}
+{G->"0 ",A->"Gronnestad ",B->"Mr. Daniel Danielsen "}
+{G->"0 ",A->"Plotcharsky ",B->"Mr. Vasil "}
+{G->"0 ",A->"Allen ",B->"Mr. William Henry "}
+{G->"0 ",A->"O'Sullivan ",B->"Miss. Bridget Mary "}
+{G->"0 ",A->"Braf ",B->"Miss. Elin Ester Maria "}
+{G->"0 ",A->"Tobin ",B->"Mr. Roger "}
+{G->"0 ",A->"Warren ",B->"Mr. Charles William "}
+{G->"0 ",A->"Nasr ",B->"Mr. Mustafa "}
+{G->"1 ",A->"Duquemin ",B->"Mr. Joseph "}
+{G->"0 ",A->"Saether ",B->"Mr. Simon Sivertsen "}
+{G->"1 ",A->"Smyth ",B->"Miss. Julia "}
+{G->"0 ",A->"Ford ",B->"Mr. Edward Watson "}
+{G->"1 ",A->"Hellstrom ",B->"Miss. Hilda Maria "}
+{G->"0 ",A->"Allum ",B->"Mr. Owen George "}
+{G->"1 ",A->"Cribb ",B->"Miss. Laura Alice "}
+{G->"0 ",A->"Asim ",B->"Mr. Adola "}
+{G->"0 ",A->"Beavan ",B->"Mr. William Thomas "}
+{G->"0 ",A->"Braund ",B->"Mr. Lewis Richard "}
+{G->"1 ",A->"Mullens ",B->"Miss. Katherine 'Katie' "}
+{G->"0 ",A->"Panula ",B->"Master. Juha Niilo "}
+{G->"0 ",A->"Rommetvedt ",B->"Mr. Knud Paust "}
+{G->"1 ",A->"Lundstrom ",B->"Mr. Thure Edvin "}
+{G->"0 ",A->"Nosworthy ",B->"Mr. Richard Cater "}
+{G->"0 ",A->"Ilmakangas ",B->"Miss. Pieta Sofia "}
+{G->"0 ",A->"Smiljanic ",B->"Mr. Mile "}
+{G->"0 ",A->"Lindblom ",B->"Miss. Augusta Charlotta "}
+{G->"0 ",A->"Sage ",B->"Miss. Dorothy Edith 'Dolly' "}
+{G->"0 ",A->"Tikkanen ",B->"Mr. Juho "}
+{G->"0 ",A->"Coelho ",B->"Mr. Domingos Fernandeo "}
+{G->"0 ",A->"Garfirth ",B->"Mr. John "}
+{G->"0 ",A->"Samaan ",B->"Mr. Youssef "}
+{G->"0 ",A->"Storey ",B->"Mr. Thomas "}
+{G->"0 ",A->"Backstrom ",B->"Mr. Karl Alfred "}
+{G->"0 ",A->"Hagland ",B->"Mr. Konrad Mathias Reiersen "}
+{G->"0 ",A->"Harknett ",B->"Miss. Alice Phoebe "}
+{G->"0 ",A->"Rosblom ",B->"Miss. Salli Helena "}
+{G->"1 ",A->"Barah ",B->"Mr. Hanna Assi "}
+{G->"0 ",A->"Sirota ",B->"Mr. Maurice "}
+{G->"0 ",A->"Culumovic ",B->"Mr. Jeso "}
+{G->"1 ",A->"Persson ",B->"Mr. Ernst Ulrik "}
+{G->"0 ",A->"Samaan ",B->"Mr. Elias "}
+{G->"1 ",A->"Tornquist ",B->"Mr. William Henry "}
+{G->"0 ",A->"Morley ",B->"Mr. William "}
+{G->"0 ",A->"Badt ",B->"Mr. Mohamed "}
+{G->"1 ",A->"Peter ",B->"Master. Michael J "}
+{G->"0 ",A->"Goodwin ",B->"Mrs. Frederick (Augusta Tyler) "}
+{G->"1 ",A->"Dean ",B->"Miss. Elizabeth Gladys 'Millvina' "}
+{G->"0 ",A->"Harmer ",B->"Mr. Abraham (David Lishin) "}
+{G->"1 ",A->"Murphy ",B->"Miss. Margaret Jane "}
+{G->"0 ",A->"Bourke ",B->"Miss. Mary "}
+{G->"0 ",A->"Klasen ",B->"Mr. Klas Albin "}
+{G->"0 ",A->"Oreskovic ",B->"Miss. Marija "}
+{G->"0 ",A->"Johnson ",B->"Mr. Malkolm Joackim "}
+{G->"0 ",A->"Nieminen ",B->"Miss. Manta Josefina "}
+{G->"0 ",A->"Goodwin ",B->"Master. William Frederick "}
+{G->"1 ",A->"Carr ",B->"Miss. Helen 'Ellen' "}
+{G->"0 ",A->"van Billiard ",B->"Master. James William "}
+{G->"0 ",A->"Gheorgheff ",B->"Mr. Stanio "}
+{G->"0 ",A->"Staneff ",B->"Mr. Ivan "}
+{G->"0 ",A->"Eklund ",B->"Mr. Hans Linus "}
+{G->"0 ",A->"Reed ",B->"Mr. James George "}
+{G->"1 ",A->"Andersen-Jensen ",B->"Miss. Carla Christine Nielsine "}
+{G->"1 ",A->"Jussila ",B->"Mr. Eiriik "}
+{G->"0 ",A->"Caram ",B->"Mr. Joseph "}
+{G->"0 ",A->"Betros ",B->"Mr. Tannous "}
+{G->"0 ",A->"Boulos ",B->"Miss. Nourelain "}
+{G->"0 ",A->"Lobb ",B->"Mr. William Arthur "}
+{G->"1 ",A->"O'Keefe ",B->"Mr. Patrick "}
+{G->"0 ",A->"Sivic ",B->"Mr. Husein "}
+{G->"0 ",A->"Vander Planke ",B->"Mr. Julius "}
+{G->"1 ",A->"de Messemaeker ",B->"Mr. Guillaume Joseph "}
+{G->"0 ",A->"Naughton ",B->"Miss. Hannah "}
+{G->"0 ",A->"Rosblom ",B->"Mr. Viktor Richard "}
+{G->"0 ",A->"Cook ",B->"Mr. Jacob "}
+{G->"0 ",A->"Karaic ",B->"Mr. Milan "}
+{G->"1 ",A->"Daly ",B->"Miss. Margaret Marcella 'Maggie' "}
+{G->"1 ",A->"Coutts ",B->"Mrs. William (Winnie 'Minnie' Treanor) "}
+{G->"0 ",A->"Salander ",B->"Mr. Karl Johan "}
+{G->"1 ",A->"Aks ",B->"Mrs. Sam (Leah Rosen) "}
+{G->"1 ",A->"Abbott ",B->"Mrs. Stanton (Rosa Hunt) "}
+{G->"0 ",A->"Meek ",B->"Mrs. Thomas (Annie Louise Rowley) "}
+{G->"0 ",A->"Asplund ",B->"Master. Carl Edgar "}
+{G->"1 ",A->"Baclini ",B->"Mrs. Solomon (Latifa Qurban) "}
+{G->"1 ",A->"Jonsson ",B->"Mr. Carl "}
+{G->"0 ",A->"Johansson ",B->"Mr. Gustaf Joel "}
+{G->"0 ",A->"McNamee ",B->"Mrs. Neal (Eileen O'Leary) "}
+{G->"0 ",A->"Cacic ",B->"Mr. Luka "}
+{G->"0 ",A->"Chronopoulos ",B->"Mr. Apostolos "}
+{G->"0 ",A->"Svensson ",B->"Mr. Olof "}
+{G->"0 ",A->"Christmann ",B->"Mr. Emil "}
+{G->"0 ",A->"Cor ",B->"Mr. Bartol "}
+{G->"0 ",A->"Cribb ",B->"Mr. John Hatfield "}
+{G->"0 ",A->"Goodwin ",B->"Mr. Charles Edward "}
+{G->"1 ",A->"Goldsmith ",B->"Mrs. Frank John (Emily Alice Brown) "}
+{G->"0 ",A->"Hansen ",B->"Mr. Henry Damsgaard "}
+{G->"0 ",A->"Murdlin ",B->"Mr. Joseph "}
+{G->"0 ",A->"Lennon ",B->"Mr. Denis "}
+{G->"0 ",A->"Corn ",B->"Mr. Harry "}
+{G->"0 ",A->"Fox ",B->"Mr. Patrick "}
+{G->"0 ",A->"Brobeck ",B->"Mr. Karl Rudolf "}
+{G->"0 ",A->"Flynn ",B->"Mr. James "}
+{G->"0 ",A->"Skoog ",B->"Miss. Mabel "}
+{G->"0 ",A->"Mitkoff ",B->"Mr. Mito "}
+{G->"0 ",A->"Shellard ",B->"Mr. Frederick William "}
+{G->"1 ",A->"Aks ",B->"Master. Philip Frank "}
+{G->"0 ",A->"McEvoy ",B->"Mr. Michael "}
+{G->"1 ",A->"Baclini ",B->"Miss. Helene Barbara "}
+{G->"0 ",A->"Skoog ",B->"Mrs. William (Anna Bernhardina Karlsson) "}
+{G->"0 ",A->"Ware ",B->"Mr. Frederick "}
+{G->"1 ",A->"Hee ",B->"Mr. Ling "}
+{G->"0 ",A->"Carlsson ",B->"Mr. Carl Robert "}
+{G->"0 ",A->"Olsen ",B->"Mr. Ole Martin "}
+{G->"0 ",A->"Caram ",B->"Mrs. Joseph (Maria Elias) "}
+{G->"0 ",A->"Somerton ",B->"Mr. Francis William "}
+{G->"0 ",A->"Ali ",B->"Mr. William "}
+{G->"0 ",A->"Panula ",B->"Mrs. Juha (Maria Emilia Ojala) "}
+{G->"1 ",A->"Moubarek ",B->"Master. Halim Gonios ('William George') "}
+{G->"0 ",A->"Hegarty ",B->"Miss. Hanora 'Nora' "}
+{G->"0 ",A->"Lievens ",B->"Mr. Rene Aime "}
+{G->"0 ",A->"Ford ",B->"Miss. Robina Maggie 'Ruby' "}
+{G->"0 ",A->"Abbing ",B->"Mr. Anthony "}
+{G->"0 ",A->"Buckley ",B->"Miss. Katherine "}
+{G->"0 ",A->"Scanlan ",B->"Mr. James "}
+{G->"0 ",A->"Lithman ",B->"Mr. Simon "}
+{G->"0 ",A->"Bourke ",B->"Mrs. John (Catherine) "}
+{G->"0 ",A->"Strilic ",B->"Mr. Ivan "}
